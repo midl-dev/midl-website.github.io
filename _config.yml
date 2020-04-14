@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://midl.dev
+baseurl: ""
+title: 
+logo: MIDLLOGO.png
+email: hello@midl.dev
+author: MIDL team
+description: > # "Write an awesome description for your new site here. 
+  MIDL - Managed infastructure for distributed ledgers
+copyright: 'Copyright &copy; 2020 MIDL.DEV. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/midldev
+  - title: github
+    url: https://github.com/midl-dev
+  - title: linkedin
+    url: 

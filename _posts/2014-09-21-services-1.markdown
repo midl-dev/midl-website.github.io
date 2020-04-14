@@ -1,0 +1,8 @@
+---
+layout: default
+img: Alice.png
+category: Services
+title: Managing staking infrastructure is tedious and time-consuming activity
+description: |
+---
+  Alice is a token holder. She has overcome great pains, read documentation and chatted on staking forums, and has put a lot of time into deploying a validator node - a blockchain node that participates in consensus and generates blocks. She keeps the full extent of the rewards that the network allocates to her. But the network is self-governing, and frequent changes in the protocol requires constant upgrades to the infrastructure, so Alice has unwittingly committed to spend a significant amount of time in the long run to keep her operations up.

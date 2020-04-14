@@ -1,0 +1,8 @@
+---
+layout: default
+img: Charlene.png
+category: Services
+title: Solution - staking as a service
+description: |
+---
+Charlene has been holding crypto for years and is comfortable being her own bank and store her coins on her Ledger hardware wallet. She has used Ledger Live to stake her assets to a reputable validator which takes 10% fee. Charlene wishes she could keep these 10% to herself.

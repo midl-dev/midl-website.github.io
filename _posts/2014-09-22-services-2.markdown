@@ -1,0 +1,8 @@
+---
+layout: default
+img: Bob.png
+category: Services
+title: Exchange and delegation services have fees. Rewards can be uncertain
+description: |
+---
+  Bob has his tokens in an exchange. He sleeps comfortably at night knowing that his assets are taken good care of. The exchange has recently deployed staking capabilities so his portfolio is growing over time. One year from now, even if Bob has forgotten everything about this specific token, he can still transfer or exchange it using a familiar UI. But that peace of mind comes at a price - the exchange is keeping 25% of the rewards.

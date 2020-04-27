@@ -6,10 +6,12 @@ description: |
 ---
 Here is how it works: we operate full nodes for you. We run and monitor them 24/7, upgrading them as needed. We pay attention to the network evolution so you do not have to.
 
-You store your keys on a Ledger hardware wallet. We give you a signing device - a small computer with battery backup and a mobile network dongle for Internet connection redundancy.
+There is however a crucial step that you must perform - cryptographically sign operations using the keys that you control.
+
+Your keys are stored on a Ledger hardware wallet. We give you a signing device - a small computer with battery backup and a mobile network dongle for Internet connection redundancy.
 
 You install a signing app on the Ledger, and connect it to the signing device.
 
-That is it ! All you need to do is ensure that it has power and Internet access most of the times.
+That is it ! All you need to do is ensure that the device has power and Internet access most of the times.
 
-**This is secure**. We can not access your funds. All the signer does is cryptographically sign data, so you can fulfill your commitments to the network.
+**This is secure**. We can not access your funds. That would require pressing keys on the hardware wallet, which we cannot do.

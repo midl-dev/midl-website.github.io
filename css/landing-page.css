@@ -178,3 +178,13 @@ p.copyright {
   .main-header .logo a, .site-masthead img{
     display: inline-block;
   }
+
+  .logo img{
+    height: 55px;
+    width: 120px;
+  }
+  .navbar-brand logo{
+    float: left;
+    height: 50px;
+    font-size: 18px;
+    line-height: 20px;

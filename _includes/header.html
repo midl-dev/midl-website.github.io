@@ -9,7 +9,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a>
+           <!-- <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a> -->
+           <a class="navbar-brand page-scroll logo" href="#home"><img src="img/MIDLLOGOBLCK.png"></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -40,8 +41,8 @@
 				<div class="col-lg-12">
 					<div class="intro-message">
                         <div class="site-masthead">
-                            <img class="img-responsive" src="img/MIDLLOGO.png" alt="{{site.title}}">
-						<h3>{{ page.subTitle }}</h3>
+                            <!--<img class="img-responsive" src="img/MIDLLOGO.png" alt="{{site.title}}">-->
+						<h1>{{ page.subTitle }}</h1>
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
 							{% for social in site.social %}

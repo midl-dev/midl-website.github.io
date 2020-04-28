@@ -5,8 +5,10 @@ category: Services
 title: Solution - Staking As A Service
 description: |
 ---
-If you are comfortable being your own bank and store your coins on a hardware wallet, we can help you be a validator, instead of nominating someone else. This way, you maximize your earnings. All we take is a flat fee (in fiat).
+If you are comfortable being your own bank, we can help you be a validator.
 
-Here is how it works: we provide you a staking kit. You connect your wallet to it, and we manage everything else. We maintain full nodes 24/7 for you.
+You keep 100% of the earnings allocated to you by the network. This way, you maximize your gains. We just take a flat fee (in fiat currency) to operate the infrastructure.
 
-With this setup, you are in full control. We can not access your funds. All the signer does is cryptographically sign data, so you can fulfill your commitments to the network.
+All you have to do is to run a small signing device in a location of your choice.
+
+With this setup, **you are in full control**.

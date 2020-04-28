@@ -3879,7 +3879,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
+  height: 60px;
+  padding-top: 5px;
   font-size: 18px;
   line-height: 20px;
 }
@@ -3926,7 +3927,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin: 7.5px -15px;
 }
 .navbar-nav > li > a {
-  padding-top: 10px;
+  padding-top: 15px;
   padding-bottom: 10px;
   line-height: 20px;
 }
@@ -3962,7 +3963,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 15px;
+    padding-top: 20px;
     padding-bottom: 15px;
   }
   .navbar-nav.navbar-right:last-child {
@@ -6199,4 +6200,3 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */

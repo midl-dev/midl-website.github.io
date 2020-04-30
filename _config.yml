@@ -25,3 +25,5 @@ collections:
     output: True
   frontpage_lower_items:
     output: True
+  cryptocurrencies:
+    output: True

@@ -23,3 +23,5 @@ permalink: pretty
 collections:
   frontpage_items:
     output: True
+  frontpage_lower_items:
+    output: True

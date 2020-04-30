@@ -263,13 +263,6 @@ h2.section-heading {
 .justify-content-center{
     justify-content: center!important;
 }
-
-.crypto-row {
-    flex-wrap: wrap;
-    display: flex;
-    margin-right: -15px;
-    margin-left: -15px;
-}
   .crypto-box .crypto-list .crypto-item:hover {
     opacity: 0.8;
   }
@@ -316,9 +309,6 @@ h2.section-heading {
     max-width: 33.33333%;
 }
 }
-.container {
-    flex-flow: column wrap;
-  }
 
   .flex-container {
     /* We first create a flex layout context */
@@ -353,3 +343,7 @@ h2.section-heading {
     font-size: 3em;
     text-align: center;
   }
+
+  .page-title {
+    padding-top: 60px
+}

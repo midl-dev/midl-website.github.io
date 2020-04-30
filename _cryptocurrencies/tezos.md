@@ -1,10 +1,11 @@
 ---
-layout: supported_list
+layout: default
 img: Tezos_logo.png
-statuss: Available now
+status: Available now
 logosize: 100px
 category: Services
 title: Tezos
+short_title: tezos
 description: | 
 ---
 

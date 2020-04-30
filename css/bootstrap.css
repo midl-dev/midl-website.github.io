@@ -261,11 +261,43 @@ th {
   }
 }
 @font-face {
-  font-family: 'Glyphicons Halflings';
+  font-family: 'Space Grotesk';
 
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('../fonts/SpaceGrotesk-Regular.woff2') format('woff');
+  src: url('../fonts/SpaceGrotesk-Medium.woff2') format('woff');
+  src: url('../fonts/SpaceGrotesk-SemiBold.woff2') format('woff');
+  src: url('../fonts/SpaceGrotesk-Bold.woff2') format('woff');
 }
+
+
+@font-face {
+    font-family: Space Grotesk;
+    src: url(../fonts/SpaceGrotesk-Regular.woff2) format("woff2"), url(../fonts/SpaceGrotesk-Regular.woff) format("woff"), url(../fonts/SpaceGrotesk-Regular.otf) format("otf");
+    font-style: normal;
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Space Grotesk;
+    src: url(../fonts/SpaceGrotesk-Medium.woff2) format("woff2"), url(../fonts/SpaceGrotesk-Medium.woff) format("woff"), url(../fonts/SpaceGrotesk-Medium.otf) format("otf");
+    font-style: normal;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: Space Grotesk;
+    src: url(../fonts/SpaceGrotesk-SemiBold.woff2) format("woff2"), url(../fonts/SpaceGrotesk-SemiBold.woff) format("woff"), url(../fonts/SpaceGrotesk-SemiBold.otf) format("otf");
+    font-style: normal;
+    font-weight: 600
+}
+
+@font-face {
+    font-family: Space Grotesk;
+    src: url(../fonts/SpaceGrotesk-Bold.woff2) format("woff2"), url(../fonts/SpaceGrotesk-Bold.woff) format("woff"), url(../fonts/SpaceGrotesk-Bold.otf) format("otf");
+    font-style: normal;
+    font-weight: 700
+}
+
 .glyphicon {
   position: relative;
   top: 1px;
@@ -1101,6 +1133,7 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  color: #555;
 }
 .lead {
   margin-bottom: 20px;

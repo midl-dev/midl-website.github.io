@@ -7,7 +7,7 @@ description: |
 ---
 If you are comfortable being your own bank, we can help you be a validator.
 
-You keep 100% of the earnings allocated to you by the network. We just take a flat fee (in fiat currency) to operate the infrastructure.
+100% of the earnings allocated by the network go to you. You pay us a flat monthly fee (in fiat currency) to operate the infrastructure.
 
 All you have to do is to run a small signing device in a location of your choice.
 

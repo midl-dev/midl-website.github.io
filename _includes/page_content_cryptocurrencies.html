@@ -2,19 +2,23 @@
   <div class="crypto-box">
     <div class="row">
       <hr class="section-heading-spacer">
-        <h2 class="crypto-title">Supported Cryptocurrency Solutions</h2>
+        <h2 class="crypto-title">Supported Cryptocurrencies</h2>
           <ul class="flex-container">
             {% for post in site.cryptocurrencies offset:0 limit:4 %}
               <li class="flex-item">
                 <div class="crypto-item-title">{{ post.title }}</div>
-                <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="{{ post.logosize }}"></li>
+
+                <!--<img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="{{ post.logosize }}">-->
+                <a href="{{site.url}}/cryptocurrencies/{{post.short_title}}"><img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="{{ post.logosize }}"></a>
+                <div class="crypto-item-title">{{ post.status }}</div></li>
             {% endfor %}
           </ul>
     </div>
   </div>
 </section>
 
-<!--
+        <!--<a href="{{ root_url }}{{ post.url | prepend: site.baseurl }}" style="background: url({{"/img/cryptologo/" | prepend: site.baseurl | append : post.img}})"></a>
+
 <section id="supportedcryptocurrencies"></section>
   <div class="crypto-box">
     <div class="row">

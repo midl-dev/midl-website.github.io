@@ -43,6 +43,9 @@ Our own validator is the canonical deployment for the staking infrastructure. Wh
 A digital currency has many moving parts. Nodes communicate using a peer to peer protocol. Self-contained execution engines run smart contracts. Finality gadgets dabble with byzantine consensus.
 
 But a fundamental building block is public key cryptography. You, the token holder, own a full node. The full node preps a string of bits to broadcast to the network. You sign these bytes using your private key, and off they go.
+
 The signing step is a simple process. Is it also the most critical in terms of operational security. Your keys need to be on a hot piece of silicon that takes unsigned strings and returns signed strings. Well architected blockchain ecosystems have come up with a dedicated daemon that does just that - signing.
 
-This is how we conciliate the two Fundamental Truths: the bulk of the work is done in reliable, redundant, geographically distributed nodes in a cloud platform, but the critical signing operations are done on devies that you control !
+This is how we conciliate the two Fundamental Truths: the bulk of the work is done in reliable, redundant, geographically distributed nodes in a cloud platform, but the critical signing operations are done on devices that you control !
+
+As we evaluate new cryptocurrencies for inclusion, an important criteria is whether the signing logic is separated into its own process that can be run remotely.

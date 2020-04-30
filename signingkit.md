@@ -9,6 +9,6 @@ The signing operations are simple enough that the physical setup remains relativ
 
 We ship you the signing computers, batteries and 4G-LTE dongles. Plug them in your closet, hidden behind the wi-fi router, or in a skunkworks collocation somewhere. They do not have to be in the same place either. For increased reliability, you may geographically distribute them.
 
-When turned on, the devices securely establish a tunnel to our infrastructure. When you must act, an message comes to the signer, gets signed, then is returned for our infrastructure to broadcast it to the network.
+When turned on, the devices securely establish a connection to our infrastructure. When your turn comes, an message is tunneled to the signer, which signs it. It is then sent back for our infrastructure to broadcast it to the network.
 
 The signers themselves are being monitored, so if they ever loose power or Internet, you can expect a phone call from us !

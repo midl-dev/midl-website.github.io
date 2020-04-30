@@ -20,18 +20,6 @@ copyright: 'Copyright &copy; 2020 MIDL.DEV. All Rights Reserved.'
 markdown: kramdown
 permalink: pretty
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: twitter
-    url: https://twitter.com/midldev
-  - title: github
-    url: https://github.com/midl-dev
-  - title: linkedin
-    url: 
-
 collections:
   frontpage_items:
     output: True

@@ -2,7 +2,7 @@
 layout: default
 img: Charlene.png
 category: Services
-title: Solution - Staking As A Service
+title: Solution - Staking as a Service
 description: |
 ---
 If you are comfortable being your own bank, we can help you be a validator.

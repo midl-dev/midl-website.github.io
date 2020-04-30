@@ -4,10 +4,8 @@ category: Services
 title: The signing kit
 description: |
 ---
-Your keys are stored on a Ledger Nano S hardware wallet. We give you a signing device - a small computer with battery backup and a mobile network dongle for Internet connection redundancy.
+Your keys are stored on a Ledger Nano S hardware wallet. We send you a signing kit - a small computer which communicates with our infrastructure.
 
-You install a signing app on the Ledger, and connect it to the signing device, and that's it !
-
-All you need to do is ensure that the device has power and Internet access most of the time.
+Connect your Ledger to the signing device, keep it online. That's it !
 
 **This is secure**. The hardware wallet remains in your possession, so we can not access your funds.

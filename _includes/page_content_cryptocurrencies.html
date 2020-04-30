@@ -2,9 +2,24 @@
   <div class="crypto-box">
     <div class="row">
       <hr class="section-heading-spacer">
+        <h2 class="crypto-title">Supported Cryptocurrency Solutions</h2>
+          <ul class="flex-container">
+            {% for post in site.cryptocurrencies offset:0 limit:4 %}
+              <li class="flex-item">
+                <div class="crypto-item-title">{{ post.title }}</div>
+                <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="{{ post.logosize }}"></li>
+            {% endfor %}
+          </ul>
+    </div>
+  </div>
+</section>
+
+<section id="supportedcryptocurrencies"></section>
+  <div class="crypto-box">
+    <div class="row">
+      <hr class="section-heading-spacer">
   <h2 class="crypto-title">Supported Cryptocurrency Solutions</h2>
   {% for post in site.cryptocurrencies offset:0 limit:4 %}
-  {% if post.title %}
   <div class="crypto-list justify-content-center crypto-row">
     <div class="crypto-list-item crypto-col-sm-6 crypto-col-md-4 crypto-col-lg-3"> 
         <div class="crypto-item">
@@ -19,9 +34,9 @@
         </div>
     </div>
   </div>
-  {% endif %}
   {% endfor %}
     </div>
         </div>
 <!-- End crypto-box -->
 </section>
+

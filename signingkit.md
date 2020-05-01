@@ -3,6 +3,8 @@ layout: default
 title: The signing kit
 ---
 
+# The signing kit
+
 A couple of Ledgers sharing the same secret seed are connected to a couple of Raspberry Pis. They are not too needy - they just need power and Internet most of the time. A battery and 4G connection is ready to take over when power and/on Internet connectivity fail. And they are fully redundant - if one fails, the other one takes over.
 
 The signing operations are simple enough that the physical setup remains relatively low maintenance. You may have to upgrade the firmware on the Ledger once in a while, but that is it. Everything else, including protocol upgrades, is handled by us !

@@ -9,7 +9,7 @@ short_title: tezos
 description: | 
 ---
 
-# Stake your Tezos with Midl.dev
+# Bake your Tezos with Midl.dev
 
 Tezos bakers and exchanges take fees. With Midl.dev, be a delegate instead and keep all the rewards to yourself !
 

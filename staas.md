@@ -3,6 +3,8 @@ layout: default
 title: Staking as a service
 ---
 
+# Staking as a service
+
 ## What is staking
 
 Proof of stake blockchains have inflation. Token holders must take action for their assets to grow: they must put them at stake on the network.

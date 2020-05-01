@@ -6,7 +6,15 @@
             {% for post in site.cryptocurrencies offset:0 limit:4 %}
               <li class="flex-item">
                   <div class="crypto-item-title">{{ post.title }}
+                    {% if post.status=="Available now" %}
+                    <p class="crypto-item-status-ready">{{ post.status }}
+                    </p>
+                    {% else %}
+                    <p class="crypto-item-status">{{ post.status }}
+                    </p>
+                    {% endif %}
                   </div>
+                  
                     <!--<img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="{{ post.logosize }}">-->
                     <a href="{{site.url}}/cryptocurrencies/{{post.short_title}}">
                       <div class="view overlay zoom">
@@ -15,8 +23,6 @@
                         </div>
                       </div>
                     </a>
-                    <div class="crypto-item-title">{{ post.status }}
-                    </div>
               </li>
             {% endfor %}
           </ul>

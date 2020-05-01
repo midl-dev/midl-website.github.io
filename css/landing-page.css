@@ -365,3 +365,9 @@ p.img-in-blog {
   .page-title {
     padding-top: 60px
 }
+.crypto-item-status {
+    color: #bbbec7;
+}
+.crypto-item-status-ready {
+    color: #fd9300;
+}

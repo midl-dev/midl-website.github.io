@@ -4,16 +4,19 @@
 
 			<div class="row">
 				<div class="col-lg-6">
-					<h2>Contact us: hello@midl.dev</h2>
+                                    <h2>Get exciting updates !</h2>
+                                    <h3>Your first month is free when you register to our newsletter - Limited time offer</h3>
 				</div>
 				<div class="col-lg-6">
-					<ul class="list-inline banner-social-buttons">
-						{% for social in site.social %}
-						<li>
-							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
-						</li>
-						{% endfor %}
-					</ul>
+                                    <form>
+
+                                        <div class="input-group mb-3">
+                                          <input name="email" placeholder="Enter your email address" class="form-control" type="text"></input>
+                                          <span class="input-group-btn">
+                                            <button class="btn btn-deep-orange" type="button">Subscribe</button>
+                                          </span>
+                                         </div>
+                                    </form>
 				</div>
 			</div>
 

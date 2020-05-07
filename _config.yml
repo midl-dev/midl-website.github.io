@@ -11,6 +11,7 @@ author: MIDL team
 description: > # "Write an awesome description for your new site here. 
   MIDL - Managed infastructure for distributed ledgers
 copyright: 'Copyright &copy; 2020 MIDL.DEV. All Rights Reserved.'
+favicon: "./favicon.ico" # set the favicon of the site
 
 # ----------------------- #
 #    Jekyll & Plugins     #

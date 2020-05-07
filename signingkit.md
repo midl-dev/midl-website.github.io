@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The signing kit
+title: Midl.dev - The signing kit
 ---
 
 # The signing kit

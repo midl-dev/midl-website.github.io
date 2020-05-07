@@ -4,7 +4,7 @@ img: Polkadot_logo.png
 status: Coming soon
 logosize: 140px
 category: Services
-title: Polkadot
+title: Midl.dev - Polkadot
 short_title: polkadot
 description: | 
 tags: [Supported Cryptocurrencies]

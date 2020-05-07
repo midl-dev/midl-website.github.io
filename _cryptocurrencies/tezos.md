@@ -4,7 +4,7 @@ img: Tezos_logo.png
 status: Available now
 logosize: 100px
 category: Services
-title: Tezos
+title: Midl.dev - Tezos
 subTitle: Don't delegate.<br/>Bake.
 short_title: tezos
 description: | 

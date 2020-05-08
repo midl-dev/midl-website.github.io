@@ -1,19 +1,23 @@
+
 <section id="contact">
 	<div class="banner">
 		<div class="container">
 
 			<div class="row">
 				<div class="col-lg-6">
-					<h2>Contact us: hello@midl.dev</h2>
+                                    <h2>Get exciting updates !</h2>
+                                    <h3>Your first month is free when you register to our newsletter - Limited time offer</h3>
 				</div>
 				<div class="col-lg-6">
-					<ul class="list-inline banner-social-buttons">
-						{% for social in site.social %}
-						<li>
-							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
-						</li>
-						{% endfor %}
-					</ul>
+                                    <form action="/thankyouforregistering/" method="get">
+
+                                        <div class="input-group mb-3">
+                                          <input name="email" required placeholder="Enter your email address" class="form-control" type="email"></input>
+                                          <span class="input-group-btn">
+                                            <input class="btn btn-deep-orange" type="submit">Subscribe</button>
+                                          </span>
+                                         </div>
+                                    </form>
 				</div>
 			</div>
 

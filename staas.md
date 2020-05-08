@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Staking as a service
+title: Midl.dev - Staking as a service
 ---
+
+# Staking as a service
 
 ## What is staking
 
@@ -38,26 +40,3 @@ For a fixed monthly fee (in fiat), Charlene can sleep at night. She needs not wo
 This method is strictly non custodial. We do not control Charlene's funds. We procure the signing kit, but Charlene procures the Ledgers. She alone configures them and transfers her tokens to it.
 
 In case of emergency, Charlene can even (proverbially) pull the plug from the signer device for her funds to instantly return to a cold state.
-
-## Our experience
-
-We have 10 years of experience managing infrastructure, and one year of experience baking Tezos with [Hodl.farm](https://hodl.farm). All our infrastructure is [open-source](https://github.com/hodl-dot-farm) and auditable.
-
-Our approach is centered on two Fundamental Truths:
-
-* the most reliable blockchain nodes run in the cloud. Cloud providers invest considerable amounts of time, money and brainpower on keeping the operations up. A home setup does not even come close to competing.
-* not your keys, not your $FAVOURITE_TOKEN. While the cloud is great, do not put your keys in there ! The only acceptable storage for your key is a Hardware Security Module under your full, exclusive control.
-
-Our own validator is the canonical deployment for the staking infrastructure. When rolling out new code, we always push it first to Hodl.farm before pushing it to our customer's infrastructure.
-
-## The signer pattern
-
-A digital currency has many moving parts. Nodes communicate using a peer to peer protocol. Self-contained execution engines run smart contracts. Finality gadgets dabble with byzantine consensus.
-
-But a fundamental building block is public key cryptography. You, the token holder, own a full node. The full node preps a string of bits to broadcast to the network. You sign these bytes using your private key, and off they go.
-
-The signing step is a simple process. Is it also the most critical in terms of operational security. Your keys need to be on a hot piece of silicon that takes unsigned strings and returns signed strings. Well architected blockchain ecosystems have come up with a dedicated daemon that does just that - signing.
-
-This is how we conciliate the two Fundamental Truths: the bulk of the work is done in reliable, redundant, geographically distributed nodes in a cloud platform, but the critical signing operations are done on devices that you control !
-
-As we evaluate new cryptocurrencies for inclusion, an important criteria is whether the signing logic is separated into its own process that can be run remotely.

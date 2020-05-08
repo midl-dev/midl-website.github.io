@@ -3912,7 +3912,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 60px;
+  height: 63px;
   padding-top: 5px;
   font-size: 18px;
   line-height: 20px;
@@ -3996,8 +3996,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 21.5px;
+    padding-bottom: 21.5px;
   }
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;

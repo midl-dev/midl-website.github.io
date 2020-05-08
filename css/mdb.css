@@ -1706,7 +1706,7 @@ ul.stepper li.warning a .circle {
 }
 
 a {
-    color: #007bff;
+    color: #777; /* #007bff; */
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: all 0.2s ease-in-out;

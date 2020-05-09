@@ -429,3 +429,15 @@ table.tezos-earnings-table th {
     border: 1px solid #e0e0e0;
     padding: 15px;
     }
+.btn-font-link {
+        text-transform: uppercase;
+        word-wrap: break-word;
+        white-space: normal;
+        cursor: pointer;
+        border: 0;
+        border-radius: .125rem;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+        transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+        padding: .84rem 2.14rem;
+        font-size: 1.5rem;
+}

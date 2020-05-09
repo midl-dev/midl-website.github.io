@@ -6,6 +6,7 @@ category: Services
 title: Midl.dev - Ethereum 2.0
 subTitle: Become a validator.<br/>Maximize your earnings.
 short_title: ethereum
+permalink: /ethereum/
 crypto_name: Ethereum 2.0
 order_number: 1
 description: | 

@@ -20,7 +20,6 @@ favicon: "./favicon.ico" # set the favicon of the site
 # Build settings
 markdown: kramdown
 permalink: pretty
-
 collections:
   frontpage_items:
     output: True

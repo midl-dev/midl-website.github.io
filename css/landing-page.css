@@ -383,3 +383,23 @@ p.img-in-blog {
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out
 }
+
+table {
+    border-collapse: inherit;
+    padding: 9px;
+}
+
+table.tezos-earnings-table td {
+    font-size: inherit;
+    border: 1px solid #e8e8e8;
+    padding: 9px;
+}
+
+table.tezos-earnings-table th {
+    font-size: inherit;
+    border: 1px solid #e8e8e8;
+    border-bottom-color: #c9c9c9;
+    font-weight: bold;
+    background-color: #eee;
+    padding: 9px;
+}

@@ -36,7 +36,7 @@
   <ul class="flex-container">
   {% assign ordered_cryptos = site.cryptocurrencies | sort:"order_number" %}
   {% for post in ordered_cryptos offset:0 limit:4 %}
-  <a href="{{site.url}}/cryptocurrencies/{{post.short_title}}">
+  <a href="{{site.url}}/{{post.short_title}}">
   <div class="view overlay zoom cryptologo">
     <div class="card btn-no-waves" style="width: 18rem;">
         <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="90%" class="img-fluid">
@@ -45,9 +45,9 @@
       <h5 class="crypto-item-title">{{ post.crypto_name }}</h5>
       <p class="card-text"></p> {{ post.crypto_descr }}</p>
         {% if post.status=="Available now" %}
-        <a href="{{site.url}}/cryptocurrencies/{{post.short_title}}" target="_blank" class="stretched-link btn btn-deep-orange">{{ post.staker }}</a>
+        <a href="{{site.url}}/{{post.short_title}}" target="_blank" class="stretched-link btn btn-deep-orange">{{ post.staker }}</a>
         {% else %}
-        <a href="{{site.url}}/cryptocurrencies/{{post.short_title}}" target="_blank" class="stretched-link btn btn-light">{{ post.status }}</a>
+        <a href="{{site.url}}/{{post.short_title}}" target="_blank" class="stretched-link btn btn-light">{{ post.status }}</a>
         {% endif %}
       </div>
     </div>

@@ -1706,7 +1706,7 @@ ul.stepper li.warning a .circle {
 }
 
 a {
-    color: #777; /* #007bff; */
+    color: #3a3a3cff; /* #007bff; */
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: all 0.2s ease-in-out;
@@ -1714,15 +1714,15 @@ a {
 }
 
 a:hover {
-    color: #0056b3;
-    text-decoration: none;
+    color: #fb9300; /* #0056b3; */
+    text-decoration: underline;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out
 }
 
 a.disabled:hover,
 a:disabled:hover {
-    color: #007bff
+    color: #777
 }
 
 a:not([href]):not([tabindex]),
@@ -6142,7 +6142,7 @@ a.waves-light {
 }
 
 .btn {
-    margin: .375rem;
+    /*margin: .375rem;*/
     color: inherit;
     text-transform: uppercase;
     word-wrap: break-word;
@@ -6157,7 +6157,7 @@ a.waves-light {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
     padding: .84rem 2.14rem;
-    font-size: .81rem
+    font-size: .81rem;
 }
 
 .btn:hover,
@@ -6185,8 +6185,12 @@ a.waves-light {
 }
 
 .btn.btn-lg {
-    padding: 1rem 2.4rem;
-    font-size: .94rem
+/* padding: 1rem 2.4rem; */
+padding-top: 1rem;
+padding-right: 2.4rem;
+padding-bottom: 1.2rem;
+padding-left: 2.4rem;
+font-size: .94rem
 }
 
 .btn.btn-md {
@@ -8774,7 +8778,7 @@ table.table a.btn.btn-orange {
 
 .btn-deep-orange {
     color: #fff;
-    background-color: #ff7043 !important
+    background-color: #fb9300 !important
 }
 
 .btn-deep-orange:hover {

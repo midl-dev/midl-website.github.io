@@ -11,6 +11,7 @@ If you are comfortable being your own bank, we can help you be a validator.
 
 All you have to do is to run a small signing device in a location of your choice.
 
-With this setup, **you are in full control**.
+With this setup, YOU are in full control.
 
 [Read more](/staas)
+

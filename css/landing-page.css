@@ -190,7 +190,7 @@ h2.infra-section-heading {
 }
 
 h2.section-heading {
-    color: #000;
+    color: #3a3a3c;
 }
 
 .crypto-box {
@@ -206,7 +206,7 @@ h2.section-heading {
   }
   .crypto-box .crypto-title {
     font-weight: 400;
-    color: #311e3e;
+    color: #3a3a3c;
     text-align: center;
     margin: 0 0 30px;
   }
@@ -224,7 +224,7 @@ h2.section-heading {
     font-family: Space Grotesk,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
     font-weight: 600;
     font-size: 1.6rem;
-    color: #555; 
+    color: #3a3a3c; 
     letter-spacing: 0;
     text-align: center;
     line-height: 2.25rem;
@@ -370,4 +370,11 @@ p.img-in-blog {
 }
 .crypto-item-status-ready {
     color: #fd9300;
+}
+
+.href-orange-bg a:hover {
+    color: #3a3a3cff; 
+    text-decoration: underline;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out
 }

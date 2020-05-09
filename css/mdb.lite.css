@@ -1706,7 +1706,7 @@ ul.stepper li.warning a .circle {
 }
 
 a {
-    color: #777; /* #007bff; */
+    color: #3a3a3cff; /* #007bff; */
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: all 0.2s ease-in-out;
@@ -1714,15 +1714,15 @@ a {
 }
 
 a:hover {
-    color: #0056b3;
-    text-decoration: none;
+    color: #fb9300; /* #0056b3; */
+    text-decoration: underline;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out
 }
 
 a.disabled:hover,
 a:disabled:hover {
-    color: #007bff
+    color: #777
 }
 
 a:not([href]):not([tabindex]),
@@ -2935,7 +2935,11 @@ a.waves-light {
 }
 
 .btn.btn-lg {
-    padding: 1rem 2.4rem;
+   /* padding: 1rem 2.4rem; */
+    padding-top: 1rem;
+    padding-right: 2.4rem;
+    padding-bottom: 1.2rem;
+    padding-left: 2.4rem;
     font-size: .94rem
 }
 

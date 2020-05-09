@@ -7,6 +7,7 @@ category: Services
 title: Midl.dev - Polkadot
 subTitle: Become a validator.<br/>Maximize your earnings.
 short_title: polkadot
+permalink: /polkadot/
 crypto_name: Polkadot
 order_number: 3
 description: | 

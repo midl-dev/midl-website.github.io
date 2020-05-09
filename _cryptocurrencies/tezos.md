@@ -8,6 +8,7 @@ title: Midl.dev - Tezos
 subTitle: Become a baker.<br/>Maximize your earnings.
 short_title: tezos
 crypto_name: Tezos
+permalink: /tezos/
 order_number: 2
 description: | 
 ---
@@ -16,36 +17,9 @@ description: |
 
 Tezos bakers and exchanges take fees. Instead, we can help you be a baker and keep all the rewards to yourself !
 
-<table class="tezos-earnings-table">
-  <thead>
-    <tr>
-      <th>&nbsp;</th>
-      <th>Start balance</th>
-      <th>After 1 year</th>
-      <th>After 5 years</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Leaving XTZ on exchange</td>
-      <td>10,000 XTZ</td>
-      <td>10,375 XTZ</td>
-      <td>12,021 XTZ</td>
-    </tr>
-    <tr>
-      <td>Solo baking with Midl.dev</td>
-      <td>10,000 XTZ</td>
-      <td>10,500 XTZ</td>
-      <td>12,763 XTZ</td>
-    </tr>
-    <tr>
-      <td>Public baking with Midl.dev</td>
-      <td>10,000 XTZ</td>
-      <td>10,860 XTZ</td>
-      <td>15,105 XTZ</td>
-    </tr>
-  </tbody>
-</table>
+{% include _cryptocurrencies/tezos_table.md %}
+
+[How did we calculate this ?](/tezos/figures/)
 
 All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 

@@ -6,6 +6,8 @@ logosize: 70px
 category: Services
 title: Midl.dev - Ethereum 2.0
 short_title: ethereum
+crypto_name: Ethereum 2.0
+order_number: 1
 description: | 
 ---
 

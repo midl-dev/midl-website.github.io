@@ -6,6 +6,8 @@ logosize: 140px
 category: Services
 title: Midl.dev - Polkadot
 short_title: polkadot
+crypto_name: Polkadot
+order_number: 3
 description: | 
 tags: [Supported Cryptocurrencies]
 ---

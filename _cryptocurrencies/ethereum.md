@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: cryptos
 img: Ethereum_logo.svg
 status: Coming soon
 logosize: 70px
 category: Services
 title: Midl.dev - Ethereum 2.0
+subTitle: Become a validator.<br/>Maximize your earnings.
 short_title: ethereum
 crypto_name: Ethereum 2.0
 order_number: 1

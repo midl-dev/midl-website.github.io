@@ -5,7 +5,7 @@ status: Available now
 logosize: 100px
 category: Services
 title: Midl.dev - Tezos
-subTitle: Don't delegate.<br/>Bake.
+subTitle: Don't delegate.<br/>Be a baker.
 sshort_title: tezos
 crypto_name: Tezos
 order_number: 2

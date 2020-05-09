@@ -9,6 +9,8 @@ title: Staking as a service
 
 Nicolas has 10 years experience managing cloud and on-prem infrastructure, and was most recently working at Rigetti Computing, a quantum computing company.
 
+<img src="/img/midl-nico.jpeg"/>
+
 [LinkedIn Profile](https://www.linkedin.com/in/nicolasochem/)
 
 ### Oksana Protsukha - founder
@@ -23,7 +25,7 @@ We are always looking to grow the team. [Contact us](/contact).
 
 ## Our experience
 
-We have 10 years of building and managing reliable systems, and one year operating a Tezos baker: [Hodl.farm](https://hodl.farm). All our infrastructure is [open-source](https://github.com/hodl-dot-farm) and auditable.
+We have 10 years of experience building and managing reliable systems, and one year operating a Tezos baker: [Hodl.farm](https://hodl.farm). All our infrastructure is [open-source](https://github.com/hodl-dot-farm) and auditable.
 
 Our approach is centered on two Fundamental Truths:
 
@@ -38,4 +40,4 @@ The signing process is simple. Is it also the most critical in terms of operatio
 
 We conciliate the two Fundamental Truths by separating signing from everything else: the bulk of the work is done in reliable, redundant, geographically distributed nodes in a cloud platform, but the critical signing operations are done on devices that you control ! That makes us a fully non-custodial service.
 
-We eat our own dog food. Our staking operation - [Hodl.farm](https://hodl.farm) - is the canonical deployment for the staking infrastructure. When rolling out new code, we always push it first to Hodl.farm before pushing it to our customer's infrastructure.
+We eat our own dog food. Our staking operation - [Hodl.farm](https://hodl.farm) - is the canary deployment for the staking infrastructure. When rolling out new code, we always push it first to Hodl.farm before pushing it to our customers.

@@ -29,13 +29,13 @@ Some delegates are opaque entities, other are well-known cryptocurrency exchange
 
 ### The MIDL way
 
-Midl.dev introduces a third way, suitable for people who have enough assets that they wish they could cut the middleman and directly participate in the network - but not quite enough to mobilize the technological and human requirements to do so.
+Midl.dev introduces a third way, suitable for people who have enough assets that they wish they could directly participate to the network - but not quite enough to mobilize the technological and human requirements to do so.
 
 <p class="img-in-blog">
 <img src="/img/services/Charlene.png" height="400px"/>
 </p>
 
-**Charlene** has been holding crypto for years and is comfortable being her own bank and store her coins on her Ledger™ hardware wallet. But she is annoyed by the 10% fee that her validator is taking.
+**Charlene** has been holding crypto for years and is comfortable being her own bank and storing her coins on her Ledger™ hardware wallet. But she is annoyed by the 10% fee that her validator is taking.
 
 Charlene now wants to participate directly in the network, produce blocks and endorsements, and participate in governanace. So Charlene gets in touch with the friendly team at midl.dev. They outfit her with a signing kit.
 

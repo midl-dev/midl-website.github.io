@@ -1,8 +1,7 @@
 ---
 layout: cryptos
-img: Ethereum_logo.svg
+img: Ethereum_logo.png
 status: Coming soon
-logosize: 70px
 category: Services
 title: Midl.dev - Ethereum 2.0
 subTitle: Become a validator.<br/>Maximize your earnings.

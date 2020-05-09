@@ -2,10 +2,10 @@
 layout: cryptos
 img: Tezos_logo.png
 status: Available now
-logosize: 100px
 category: Services
 title: Midl.dev - Tezos
 subTitle: Become a baker.<br/>Maximize your earnings.
+staker: Become a baker
 short_title: tezos
 crypto_name: Tezos
 order_number: 2

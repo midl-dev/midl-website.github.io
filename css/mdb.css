@@ -2276,7 +2276,7 @@ strong {
 
 .view {
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     cursor: default
 }
 
@@ -9652,7 +9652,6 @@ table.table a.btn.btn-black {
     font-weight: 400;
     color: #747373
 }
-
 .card .md-form label {
     font-weight: 300
 }

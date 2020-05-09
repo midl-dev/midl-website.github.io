@@ -40,3 +40,7 @@ For a fixed monthly fee (in fiat), Charlene can sleep at night. She needs not wo
 This method is strictly non custodial. We do not control Charlene's funds. We procure the signing kit, but Charlene procures the Ledgers. She alone configures them and transfers her tokens to it.
 
 In case of emergency, Charlene can even (proverbially) pull the plug from the signer device for her funds to instantly return to a cold state.
+
+## Interested ?
+
+Contact us at [hello@midl.dev](mailto:hello@midl.dev) to learn how we can help you stake your cryptocurrency, or just use the chat window below.

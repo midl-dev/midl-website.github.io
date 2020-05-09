@@ -3,6 +3,8 @@ layout: default
 title: Midl.dev - The signing kit
 ---
 
+At MIDL.dev, we help you stake your cryptocurrency. We are a non-custodial staking-as-a-service company, which means that you hold your keys. Here is how it works.
+
 # The signing kit
 
 A couple of Ledgers sharing the same secret seed are connected to a couple of Raspberry Pis. They are not too needy - they just need power and Internet most of the time. A battery and 4G connection is ready to take over when power and/on Internet connectivity fail. And they are fully redundant - if one fails, the other one takes over.
@@ -16,3 +18,7 @@ When turned on, the devices securely establish a connection to our infrastructur
 The signers themselves are being monitored, so if they ever loose power or Internet, you can expect a phone call from us !
 
 The signer operating system is [fully open source and auditable](https://github.com/hodl-dot-farm/tezos-remote-signer-os).
+
+## Interested ?
+
+Contact us at [hello@midl.dev](mailto:hello@midl.dev) to learn how we can help you stake your cryptocurrency, or just use the chat window below.

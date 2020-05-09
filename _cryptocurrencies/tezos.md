@@ -14,13 +14,54 @@ description: |
 
 # Bake your Tezos with Midl.dev
 
-Tezos bakers and exchanges take fees. With Midl.dev, be a delegate instead and keep all the rewards to yourself !
+Tezos bakers and exchanges take fees. Instead, we can help you be a baker and keep all the rewards to yourself !
 
-We have one year of experience staking Tezos on [Hodl.farm](hodl.farm) and all our infrastructure is open-source.
+<table class="tezos-earnings-table">
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>Start balance</th>
+      <th>After 1 year</th>
+      <th>After 5 years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leaving XTZ on exchange</td>
+      <td>10,000 XTZ</td>
+      <td>10,375 XTZ</td>
+      <td>12,021 XTZ</td>
+    </tr>
+    <tr>
+      <td>Solo baking with Midl.dev</td>
+      <td>10,000 XTZ</td>
+      <td>10,500 XTZ</td>
+      <td>12,763 XTZ</td>
+    </tr>
+    <tr>
+      <td>Public baking with Midl.dev</td>
+      <td>10,000 XTZ</td>
+      <td>10,860 XTZ</td>
+      <td>15,105 XTZ</td>
+    </tr>
+  </tbody>
+</table>
 
-Our offerings are:
+All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 
-## Solo baker
+## You hold the keys
+
+We are a non-custodial staking-as-a-service offering.
+
+We provide you with a signing device - a small computer. Connect your Ledger device to it, keep it online - we take care of the rest.
+
+This is secure. The hardware wallet remains in your possession - we can not access your funds.
+
+We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](hodl.farm). All our infrastructure is open-source.
+
+## Offerings
+
+### Solo baker
 
 You own a few rolls. Instead of delegating them to a baker, you become a delegator. You bake and endose blocks occasionally, and the generated rewards go to your account.
 
@@ -30,7 +71,7 @@ We maintain full nodes, as well as baking and endorsing daemons for you. Your te
 
 The signer is a Raspberry Pi with battery backup, an alternative 4G connection, and a hot spare that you may place in a different location.
 
-## Public baker
+### Public baker
 
 In addition to the solo baker setup described above, you also publish your Tezos baking address so Tezos delegators may delegate to you.
 

@@ -3,9 +3,10 @@
       <hr class="section-heading-spacer">
         <h2 class="crypto-title">Maximize your earnings in the leading proof-of-stake cryptocurrencies</h2>
           <ul class="flex-container">
-            {% for post in site.cryptocurrencies offset:0 limit:4 %}
+            {% assign ordered_cryptos = site.cryptocurrencies | sort:"order_number" %}
+            {% for post in ordered_cryptos offset:0 limit:4 %}
               <li class="flex-item">
-                  <div class="crypto-item-title">{{ post.title }}
+                  <div class="crypto-item-title">{{ post.crypto_name }}
                     {% if post.status=="Available now" %}
                     <p class="crypto-item-status-ready">{{ post.status }}
                     </p>

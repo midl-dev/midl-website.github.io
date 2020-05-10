@@ -35,6 +35,13 @@ We eat our own dog food. We have one year of experience staking Tezos on our own
 
 ## Offerings
 
+| Solo baker                              | Public baker                            |
+|-----------------------------------------|-----------------------------------------|
+| Secure, distributed baking nodes        | Secure, distributed baking nodes        |
+| Signing kit (redundant signing devices) | Signing kit (redundant signing devices) |
+|                                         | Payout engine                           |
+|                                         | Website template for payout lookup      |
+
 ### Solo baker
 
 You own a few rolls. Instead of delegating them to a baker, you become a delegator. You bake and endose blocks occasionally, and the generated rewards go to your account.

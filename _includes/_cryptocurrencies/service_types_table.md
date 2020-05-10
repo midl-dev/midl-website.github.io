@@ -6,6 +6,7 @@
       <h2 class="crypto-title">Service types</h2>
         <ul class="flex-container">
             <div class="view-offering overlay zoom">
+              <a style="text-decoration:none" href="#solobaker">
                 <div class="card btn-no-waves" style="width: 28rem;height:22rem;">
                     <div class="card-body" style="text-align: center;">
                     <h5 class="offering-item-title">Solo baker</h5>
@@ -13,8 +14,10 @@
                     <br/>&#10004; Signing kit (redundant signing devices)</p>
                     </div>
                 </div>
+                </a>
             </div>
             <div class="view-offering overlay zoom">
+              <a style="text-decoration:none;" href="#publicbaker">
                 <div class="card btn-no-waves" style="width: 28rem;height:22rem;">
                     <div class="card-body" style="text-align: center;">
                     <h5 class="offering-item-title">Public baker</h5>
@@ -24,6 +27,7 @@
                     <br/>&#10004; Website template for payout lookup</p>
                     </div>
                 </div>
+                </a>
             </div>
         </ul>
     </div>

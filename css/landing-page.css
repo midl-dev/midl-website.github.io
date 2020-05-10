@@ -500,7 +500,7 @@ transform: scale(1.1)
     }
 
 .card .card-body .card-text-offering {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: 400;
     color: #747373;
     padding: 0.2rem;
@@ -508,4 +508,17 @@ transform: scale(1.1)
 }
 div.table-responsive td{
     font-size: 1.4rem;
+}
+a.inline-link {
+    color: #466DB2; /* #007bff; */
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out
+}
+a.inline-link:hover {
+    color: #fb9300; /* #0056b3; */
+    text-decoration: underline;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out
 }

@@ -35,6 +35,8 @@ We eat our own dog food. We have one year of experience staking Tezos on our own
 
 {% include _cryptocurrencies/service_types_table.md %}
 
+<div style="padding-top:50px;" id="solobaker"></div>
+  
 
 ### Solo baker
 
@@ -42,10 +44,13 @@ You own a few rolls. Instead of delegating them to a baker, you become a delegat
 
 You may also group with a few friends and split the rewards between yourselves.
 
-We maintain full nodes, as well as baking and endorsing daemons for you. Your tezos key is on a Ledger that you control. Install and run the [Tezos baking app](https://github.com/obsidiansystems/ledger-app-tezos) and connect it to the signer. When it is your turn to bake/endorse, our infrastrucure will send a signing request to your signer.
+We maintain full nodes, as well as baking and endorsing daemons for you. Your tezos key is on a Ledger that you control. Install and run the {% include inline-link.html caption="Tezos baking app" url="https://github.com/obsidiansystems/ledger-app-tezos" %} and connect it to the signer. When it is your turn to bake/endorse, our infrastrucure will send a signing request to your signer.
 
 The signer is a Raspberry Pi with battery backup, an alternative 4G connection, and a hot spare that you may place in a different location.
 
+<div style="padding-top:50px;" id="publicbaker"></div>
+
+  
 ### Public baker
 
 In addition to the solo baker setup described above, you also publish your Tezos baking address so Tezos delegators may delegate to you.

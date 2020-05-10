@@ -11,4 +11,4 @@ Connect your Ledger to the signing device, keep it online. Simple.
 
 **This is secure**. The hardware wallet remains in your possession, so we can not access your funds.
 
-<a href="{{site.url}}/signingkit" target="_blank" class="stretched-link btn-font-link btn-deep-orange">Read more</a>
+<a href="{{site.url}}/signingkit" class="stretched-link btn-font-link btn-deep-orange">Read more</a>

@@ -13,5 +13,5 @@ All you have to do is to run a small signing device in a location of your choice
 
 With this setup, YOU are in full control.
 
- <a href="{{site.url}}/staas" target="_blank" class="stretched-link btn-font-link btn-deep-orange">Read more</a>
+ <a href="{{site.url}}/staas" class="stretched-link btn-font-link btn-deep-orange">Read more</a>
 

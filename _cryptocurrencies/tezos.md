@@ -15,7 +15,7 @@ description: |
 
 # Bake your Tezos with Midl.dev
 
-Tezos bakers and exchanges take fees. Instead, we can help you be a baker and keep all the rewards to yourself !
+Tezos bakers and exchanges take fees. Instead, we can help you be a baker and keep the rewards to yourself!
 
 {% include _cryptocurrencies/tezos_table.md %}
 

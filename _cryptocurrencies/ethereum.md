@@ -14,4 +14,4 @@ description: |
 
 # Stake your Ethereum 2.0 tokens with Midl.dev
 
-We are currently exploring the Ethereum 2.0 ecosystem. Stay tuned !
+We are currently exploring the Ethereum 2.0 ecosystem. Stay tuned!

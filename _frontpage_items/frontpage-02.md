@@ -9,4 +9,4 @@ When your assets are in an exchange, you can sleep comfortably at night. But tha
 
 Independent delegation services charge less. But they may be unreliable, requiring constant scrutiny.
 
-There is a MIDL way !
+There is a MIDL way!

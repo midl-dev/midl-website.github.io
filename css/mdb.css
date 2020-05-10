@@ -2276,7 +2276,7 @@ strong {
 
 .view {
     position: relative;
-    overflow: visible;
+    overflow: hidden;
     cursor: default
 }
 
@@ -2318,7 +2318,7 @@ strong {
 }
 
 .overlay .mask:hover {
-    opacity: 1
+    opacity: 1;
 }
 
 .zoom img,
@@ -2330,7 +2330,7 @@ strong {
 .zoom:hover img,
 .zoom:hover video {
     -webkit-transform: scale(1.1);
-    transform: scale(1.1)
+    transform: scale(1.1);
 }
 
 .pattern-1 {
@@ -9650,7 +9650,8 @@ table.table a.btn.btn-black {
 .card .card-body .card-text {
     font-size: .9rem;
     font-weight: 400;
-    color: #747373
+    color: #747373;
+    padding: 0.2rem;
 }
 .card .md-form label {
     font-weight: 300

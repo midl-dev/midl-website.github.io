@@ -30,30 +30,32 @@
 -->
 
 <section id="supportedcryptocurrencies">
-  <div class="crypto-box">
-  <hr class="section-heading-spacer">
-  <h2 class="crypto-title">Maximize your proof-of-stake earnings</h2>
-  <ul class="flex-container">
-  {% assign ordered_cryptos = site.cryptocurrencies | sort:"order_number" %}
-  {% for post in ordered_cryptos offset:0 limit:4 %}
-  <a href="{{site.url}}/{{post.short_title}}">
-  <div class="view overlay zoom cryptologo">
-    <div class="card btn-no-waves" style="width: 18rem;">
-        <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="100%" class="img-fluid">
-    <div class="mask flex-center"></div>
-    <div class="card-body" style="text-align: center;">
-      <h5 class="crypto-item-title">{{ post.crypto_name }}</h5>
-      <p class="card-text"></p> {{ post.crypto_descr }}</p>
-        {% if post.status=="Available now" %}
-        <a href="{{site.url}}/{{post.short_title}}" target="_blank" class="stretched-link btn-font-link btn-deep-orange">{{ post.staker }}</a>
-        {% else %}
-        <a href="{{site.url}}/{{post.short_title}}" target="_blank" class="stretched-link btn-font-link btn-light"> {{ post.status }}</a>
-        {% endif %}
-      </div>
+  <div class="container">
+    <div class="crypto-box">
+    <hr class="section-heading-spacer">
+      <h2 class="crypto-title">Maximize your proof-of-stake earnings</h2>
+      <ul class="flex-container">
+      {% assign ordered_cryptos = site.cryptocurrencies | sort:"order_number" %}
+      {% for post in ordered_cryptos offset:0 limit:4 %}
+        <a href="{{site.url}}/{{post.short_title}}">
+          <div class="view overlay zoom cryptologo">
+            <div class="card btn-no-waves" style="width: 18rem;">
+              <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="100%" class="img-fluid">
+              <div class="mask flex-center"></div>
+                <div class="card-body" style="text-align: center;">
+                <h5 class="crypto-item-title">{{ post.crypto_name }}</h5>
+                <p class="card-text"></p> {{ post.crypto_descr }}</p>
+                  {% if post.status=="Available now" %}
+                  <a href="{{site.url}}/{{post.short_title}}" target="_blank" class="stretched-link btn-font-link btn-deep-orange">{{ post.staker }}</a>
+                  {% else %}
+                  <a href="{{site.url}}/{{post.short_title}}" target="_blank" class="stretched-link btn-font-link btn-light"> {{ post.status }}</a>
+                  {% endif %}
+                </div>
+            </div>
+          </div>
+        </a>
+      {% endfor %}
+      </ul>
     </div>
   </div>
-  </a>
-  {% endfor %}
-</ul>
-</div>
 </section>

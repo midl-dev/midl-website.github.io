@@ -1,5 +1,6 @@
 ---
 layout: default
+img: signing-kit.jpeg
 category: Services
 title: The signing kit
 description: |

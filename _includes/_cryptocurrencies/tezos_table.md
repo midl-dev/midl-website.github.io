@@ -1,10 +1,11 @@
-<table class="tezos-earnings-table">
-  <thead>
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
     <tr>
-      <th>&nbsp;</th>
-      <th>Start balance</th>
-      <th>After 1 year</th>
-      <th>After 5 years</th>
+      <th scope="col" class="tezos-table-title">&nbsp;</th>
+      <th scope="col" class="tezos-table-title">Start balance</th>
+      <th scope="col" class="tezos-table-title">After 1 year</th>
+      <th scope="col" class="tezos-table-title">After 5 years</th>
     </tr>
   </thead>
   <tbody>
@@ -28,4 +29,4 @@
     </tr>
   </tbody>
 </table>
-
+</div>

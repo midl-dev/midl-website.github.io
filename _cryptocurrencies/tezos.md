@@ -33,7 +33,8 @@ This is secure. The hardware wallet remains in your possession - we can not acce
 
 We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](hodl.farm). All our infrastructure is open-source.
 
-## Offerings
+{% include _cryptocurrencies/service_types_table.md %}
+
 
 ### Solo baker
 

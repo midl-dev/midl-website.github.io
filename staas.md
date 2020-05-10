@@ -1,8 +1,9 @@
 ---
-layout: cryptos
+layout: default
 title: Midl.dev - Staking as a service
 subTitle: Staking as a service
 ---
+# Staking as a service
 
 ## What is staking
 

@@ -9022,7 +9022,7 @@ table.table-sm td {
 .table-responsive-md>.table-bordered,
 .table-responsive-lg>.table-bordered,
 .table-responsive-xl>.table-bordered {
-    border-top: 1px solid #dee2e6
+    border-top: none/*1px solid #dee2e6*/
 }
 
 ul.stepper {

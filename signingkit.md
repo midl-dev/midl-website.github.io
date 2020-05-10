@@ -2,10 +2,15 @@
 layout: default
 title: Midl.dev - The signing kit
 ---
-
-At MIDL.dev, we help you stake your cryptocurrency. We are a non-custodial staking-as-a-service company, which means that you hold your keys. Here is how it works.
-
 # The signing kit
+
+## Non-custodial service provider
+
+At MIDL.dev, we help you stake your cryptocurrency. We are a non-custodial staking-as-a-service company, which means that you hold your keys.  
+  
+<span style="color:#fb9300"><b>We will never ask you for your keys.</b></span>
+
+## How it works
 
 A couple of Ledgers sharing the same secret seed are connected to a couple of Raspberry Pis. They are not too needy - they just need power and Internet most of the time. A battery and 4G connection is ready to take over when power and/on Internet connectivity fail. And they are fully redundant - if one fails, the other one takes over.
 

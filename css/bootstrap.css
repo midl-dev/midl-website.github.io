@@ -2140,7 +2140,7 @@ th {
   padding: 5px;
 }
 .table-bordered {
-  border: 1px solid #ddd;
+  border: none/*1px solid #ddd;*/
 }
 .table-bordered > thead > tr > th,
 .table-bordered > tbody > tr > th,

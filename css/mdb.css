@@ -1706,7 +1706,7 @@ ul.stepper li.warning a .circle {
 }
 
 a {
-    color: #3a3a3cff; /* #007bff; */
+    color: #0366d6; /* #007bff; */
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: all 0.2s ease-in-out;
@@ -1722,7 +1722,7 @@ a:hover {
 
 a.disabled:hover,
 a:disabled:hover {
-    color: #777
+    color: #466DB2
 }
 
 a:not([href]):not([tabindex]),

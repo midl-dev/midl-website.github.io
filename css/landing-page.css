@@ -509,8 +509,8 @@ transform: scale(1.1)
 div.table-responsive td{
     font-size: 1.4rem;
 }
-a.inline-link {
-    color: #466DB2; /* #007bff; */
+a.grey-link {
+    color: #3a3a3cff; /* #007bff; */
     text-decoration: none;
     cursor: pointer;
     -webkit-transition: all 0.2s ease-in-out;

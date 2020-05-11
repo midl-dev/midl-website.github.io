@@ -15,17 +15,17 @@ Let us go through the different options.
 <img src="/img/services/Alice.png" height="400px"/>
 </p>
 
-**Alice** is a token holder. She has overcome great pains, read documentation and chatted on staking forums, and has put a lot of time into deploying a validator node - a blockchain node that participates in consensus and generates blocks. She keeps the full extent of the rewards that the network allocates to her. But the network is self-governing, and frequent changes in the protocol requires constant upgrades to the infrastructure, so Alice has unwittingly committed to spend a significant amount of time in the long run to keep her operations up.
+**Alice** is a token holder. She has overcome great pains, read documentation and chatted on staking forums, and has put a lot of time into deploying a validator node - a blockchain node that participates in consensus and generates blocks. She keeps the full extent of the rewards that the network allocates to her. But the network is self-governing, and frequent changes in the protocol requires constant upgrades to the infrastructure, so Alice has unwittingly committed to spending a significant amount of time in the long run to keep her operations up.
 
 ### Delegation
 
-Proof of stake networks have taken this into account and have introduced the concept of delegation. This may be named differently (in Polkadot, it's called nomination) but it boils down to the same: a special network operation lets you delegate your tokens to a separate entity, called a delegate, baker, or validator depending on the network. This entity uses your stake to participate in the network, and it is then responsible for sending rewards your way, taking a fee in the process. This fee can be substantial, especially if your token is worth more over time.
+Proof of stake networks have taken this into account and have introduced the concept of delegation. This may be named differently (in Polkadot, it's called nomination) but it boils down to the same: a special network operation lets you delegate your tokens to a separate entity, called a delegate, baker, or validator. This entity uses your stake to participate in the network, and it is then responsible for sending rewards your way, taking a fee in the process. This fee can be substantial, especially if your token is worth more over time.
 
 <p class="img-in-blog">
 <img src="/img/services/Bob.png" height="400px"/>
 </p>
 
-Some delegates are opaque entities, other are well-known cryptocurrency exchanges that take custody of your assets. **Bob** has his assets in one such exchange. He sleeps comfortably at night knowing that his assets are taken good care of. His portfolio is growing over time. One year from now, even if Bob has forgotten everything about this specific token, he can still transfer or exchange it using a familiar UI. But that peace of mind comes at a price - 25% of the gains.
+Some delegates are opaque entities, other are well-known cryptocurrency exchanges that take custody of your assets. **Bob** has his tokens in one such exchange. He sleeps comfortably at night knowing that his assets are taken good care of. His portfolio is growing over time. One year from now, even if Bob has forgotten everything about this specific token, he can still transfer or exchange it using a familiar UI. But that peace of mind comes at a price - 25% of the gains.
 
 ### The MIDL way
 

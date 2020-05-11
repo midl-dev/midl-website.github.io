@@ -27,3 +27,5 @@ collections:
     output: True
   cryptocurrencies:
     output: True
+  services:
+    output: True

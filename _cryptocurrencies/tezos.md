@@ -35,32 +35,25 @@ We eat our own dog food. We have one year of experience staking Tezos on our own
 
 {% include _cryptocurrencies/service_types_table.md %}
 
-<div style="padding-top:50px;" id="solobaker"></div>
-  
+<div style="padding-top:15px;"></div>
+### &#9758; Which service type is best for you?
 
 ### Solo baker
+A peer of the Tezos network that bakes and endorses blocks as a separate entity and collects rewards. 
 
-You own a few rolls. Instead of delegating them to a baker, you become a baker. You bake and endorse blocks occasionally, and the generated rewards go to your account.
+### Public baker: 
+A baker who accepts delegation of funds from other token holders; collects and distributes rewards to its delegators for a fee.
 
-You may also group with a few friends and split the rewards between yourselves.
+[How if works: MIDL.dev staking-as-a-service for tezos.]({{site.url}}/tezos-baker)
 
-We maintain full nodes, as well as baking and endorsing daemons for you. Your tezos key is on a Ledger that you control. You install and run the [Tezos baking app]("https://github.com/obsidiansystems/ledger-app-tezos") and connect it to the signer. When it is your turn to bake/endorse, our infrastructure will send a signing request to your signer.
+### Details
 
-**The signer** is a Raspberry Pi with battery backup, an alternative 4G connection, and a hot spare that you may place in a different location.
+* <b>Signing kit</b>: preprogrammed set of devices that enable communication between your hardware wallet (e.g. Ledger Nano S) and blockchain network.
 
-<b>You remain a full custodian of your keys throughout the whole process.</b>
+* <b>Baking node</b>: Tezos blockchain full node that stores an entire copy of the ledger in real time.
 
-<div style="padding-top:50px;" id="publicbaker"></div>
+* <b>Payout engine</b>: a program that administers accurate and timely payouts to delegators. 
 
-  
-### Public baker
+* <b>Baking website template</b>: a configurable website template that provides access to payout details for delegators.
 
-To further benefit from the baking operation, you also publish your Tezos baking address so Tezos delegators may delegate to you and set a flat fee %.
-
-In addition to your baking address, you maintain a payout address. This payout address must be replenished frequently by you.
-
-We run a payout bot that pays your delegates every cycle from the payout address.
-
-We run a website publication mechanism so your delegates can check their contribution and their most recent payouts just by entering their address on your website.
-
-<b>You remain a full custodian of your keys throughout the whole process.</b>
+* <b>Always On network</b>: a reliable infrastructure running Tesoz blockchain protocol maintained by MIDL.dev team 24/7.

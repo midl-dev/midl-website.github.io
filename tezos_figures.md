@@ -21,6 +21,6 @@ We are making the assumption that:
 * 70,000 XTZ are delegated to you
 * you charge a 10% fee
 
-Annually, you collect 5% of this 70,000 XTZ, and keep 10% of that amount, so you collect 0.5%, wihch is 3,500 XTZ. In addition to the 5% you make by solo baking, your assets grow by 8.5% annually.
+Annually, you collect 5% of this 70,000 XTZ, and keep 10% of that amount, so you collect 0.5%, wihch is 3,500 XTZ in the first year - 3.5% of your balance. In addition to the 5% you make by solo baking, your assets grow by 8.5% annually.
 
 Note that this assumes that you are able to collect delegations for your public baking service. This is your responsibility, and the actual amount delegated to you may be lower.

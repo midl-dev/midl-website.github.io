@@ -16,4 +16,4 @@ With this setup, YOU are in full control.
  <a href="{{site.url}}/staas" class="stretched-link btn-font-link btn-deep-orange">Read more</a>
 
 <br/>
-Image credits: [Comicgen](https://gramener.com/comicgen/#design) - CC-BY license - [Timo Elliott](https://timoelliott.com/) - CC license
+Image credits: [Comicgen](https://gramener.com/comicgen/#design) - CC-BY license<br/>[Timo Elliott](https://timoelliott.com/) - CC license

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Staking as a service
+title: Midl.dev - The team
 ---
 
 # The team

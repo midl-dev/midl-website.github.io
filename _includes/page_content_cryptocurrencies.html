@@ -1,34 +1,3 @@
-<!--<section id="supportedcryptocurrencies">
-  <div class="crypto-box">
-      <hr class="section-heading-spacer">
-        <h2 class="crypto-title">Maximize your proof-of-stake earnings</h2>
-          <ul class="flex-container">
-            {% assign ordered_cryptos = site.cryptocurrencies | sort:"order_number" %}
-            {% for post in ordered_cryptos offset:0 limit:4 %}
-              <li class="flex-item">
-                  <div class="crypto-item-title">{{ post.crypto_name }}
-                    {% if post.status=="Available now" %}
-                    <p class="crypto-item-status-ready">{{ post.status }}
-                    </p>
-                    {% else %}
-                    <p class="crypto-item-status">{{ post.status }}
-                    </p>
-                    {% endif %}
-                  </div>
-                    <a href="{{site.url}}/{{post.short_title}}">
-                      <div class="view overlay zoom cryptologo">
-                        <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="{{ post.logosize }}" class="img-fluid ">
-                        <div class="mask flex-center">
-                        </div>
-                      </div>
-                    </a>
-              </li>
-            {% endfor %}
-          </ul>
-  </div>
-</section>
--->
-
 <section id="supportedcryptocurrencies">
   <div class="container">
     <div class="crypto-box">

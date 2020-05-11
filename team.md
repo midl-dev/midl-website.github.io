@@ -17,6 +17,8 @@ Nicolas has 10 years experience managing cloud and on-prem infrastructure, and w
 
 Oksana has 10 year experience in the fintech industry and was most recently working at Tesla.
 
+<img src="/img/midl-oksana.jpeg"/>
+
 [LinkedIn Profile](https://www.linkedin.com/in/oksanaprotsukha/)
 
 ### Join us

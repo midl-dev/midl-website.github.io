@@ -6,7 +6,7 @@
       <ul class="flex-container">
       {% assign ordered_cryptos = site.cryptocurrencies | sort:"order_number" %}
       {% for post in ordered_cryptos offset:0 limit:4 %}
-        <a href="{{site.url}}/{{post.short_title}}">
+        <a style="text-decoration: none" href="{{site.url}}/{{post.short_title}}">
           <div class="view overlay zoom cryptologo">
             <div class="card btn-no-waves" style="width: 18rem;">
               <img src="img/cryptologo/{{ post.img }}" alt="{{ post.title }}" width="100%" class="img-fluid">

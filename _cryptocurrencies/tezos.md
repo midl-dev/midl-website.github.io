@@ -15,7 +15,7 @@ description: |
 
 # Bake your Tezos with Midl.dev
 
-Tezos bakers and exchanges take fees. Instead, we can help you be a baker and keep the rewards to yourself!
+Tezos bakers and exchanges take fees. We can help you be a baker and keep the rewards to yourself!
 
 {% include _cryptocurrencies/tezos_table.md %}
 
@@ -23,37 +23,59 @@ Tezos bakers and exchanges take fees. Instead, we can help you be a baker and ke
 
 All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 
-## You hold the keys
-
-We are a non-custodial staking-as-a-service offering.
-
-We provide you with a signing device - a small computer. Connect your Ledger device to it, keep it online - we take care of the rest.
-
-This is secure. The hardware wallet remains in your possession - we can not access your funds.
-
-We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](hodl.farm). All our infrastructure is open-source.
+We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](https://hodl.farm){:target="_blank"}. All our infrastructure is open-source.
 
 {% include _cryptocurrencies/service_types_table.md %}
 
 <div style="padding-top:15px;"></div>
 ### &#9758; Which service type is best for you?
 
-### Solo baker
-A peer of the Tezos network that bakes and endorses blocks as a separate entity and collects rewards. 
 
-### Public baker: 
-A baker who accepts delegation of funds from other token holders; collects and distributes rewards to its delegators for a fee.
+#### Solo baker
+You own XTZ and care about security of your digital assets. You want to remain a full custodian of your keys. You want to avoid the risks and extra fees associated with delegating your funds to a third party.
 
-[How if works: MIDL.dev staking-as-a-service for tezos.]({{site.url}}/tezos-baker)
+As a solo baker, you bake and endorse blocks directly, and the generated rewards go to your account. You may also team up with friends and split the rewards between yourselves.
 
-### Details
+#### Public baker
 
-* <b>Signing kit</b>: preprogrammed set of devices that enable communication between your hardware wallet (e.g. Ledger Nano S) and blockchain network.
+To further benefit from baking and maximize your earnings by collecting delegation fees, you get delegations from third parties and bake for them. You then distribute rewards to your delegators.
 
-* <b>Baking node</b>: Tezos blockchain full node that stores an entire copy of the ledger in real time.
+<div style="padding-top:15px"><img class="img-responsive" src="/img/Tezos-baker-how-to.png"/></div>
 
-* <b>Payout engine</b>: a program that administers accurate and timely payouts to delegators. 
+### Components
 
-* <b>Baking website template</b>: a configurable website template that provides access to payout details for delegators.
+#### Secure, distributed baking nodes
 
-* <b>Always On network</b>: a reliable infrastructure running Tesoz blockchain protocol maintained by MIDL.dev team 24/7.
+We maintain dedicated baking nodes for you. They are geographically distributed, redundant and secure. We also run baking and endorsing daemons.
+
+
+#### Signing kit
+
+We are a non-custodial staking-as-a-service offering.
+
+We provide you with a [signing kit](/signingkit/) - a pair of small computers with battery and network backup.
+
+Your Tezos key is on a Ledger hardware wallet that you control. You install and run the [Tezos baking app]("https://github.com/obsidiansystems/ledger-app-tezos") and connect it to the signer. When it is your turn to bake/endorse, our infrastructure will send a signing request to your signer.
+
+
+This is secure. The hardware wallet remains in your possession - <b>we can not access your funds</b>.
+
+#### 24/7 Monitoring
+
+Our infrastructure is redundant and monitored. Our alerting system monitor the health of the setup, and we are on-call to ensure you do not miss a single block.
+
+#### Day 2 operations
+
+The Tezos network is self-governing and always improving. We pay attention to the network evolution so you do not have to. We test and deploy upgrades, and we apply security patches.
+
+#### Payout engine
+
+A program administers accurate and timely payouts to delegators based on their contributions. The payout address is stored in a hot wallet that you replenish frequently.
+
+#### Baking website template
+
+We run a website publication mechanism so your delegates can check their contribution and their most recent payouts just by entering their address on your website.
+
+## Interested ?
+
+Contact us at [hello@midl.dev](mailto:hello@midl.dev), or just use the chat window below.

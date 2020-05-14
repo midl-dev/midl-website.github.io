@@ -2271,7 +2271,7 @@ a.text-light:focus {
 }
 
 strong {
-    font-weight: 500
+    font-weight: bold;
 }
 
 .view {

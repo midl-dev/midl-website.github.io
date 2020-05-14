@@ -7,7 +7,7 @@ permalink: /tezos-baker/
 
 ## Staking-as-a-service for Tezos blockchain
 
-### Solo baker
+<h3 style="padding:10px">Solo baker</h3>
 
 You own a few rolls and care about security of your digital assets. You want to remain a full custodian of your keys. You want to avoid the risks and extra fees associated with delegating your funds to a third party.
 
@@ -25,7 +25,7 @@ We maintain full nodes, as well as baking and endorsing daemons for you. Your te
 
 <b>You remain a full custodian of your keys throughout the whole process.</b>
 
-### Public baker
+<h3 style="padding:10px">Public baker</h3>
 
 You have already established yourself as a baker. Now you would like to further benefit from the baking operation and maximize your earnings by collecting delegation fees. 
 

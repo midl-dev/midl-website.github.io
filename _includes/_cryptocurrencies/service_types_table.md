@@ -11,7 +11,7 @@
                     <div class="card-body" style="text-align: center;">
                     <h5 class="offering-item-title">Solo baker</h5>
                     <p class="card-text-offering">&#10004; Secure, distributed baking nodes
-                    <br/>&#10004; Signing kit delivered to you 
+                    <br/>&#10004; Signing kit delivered to you (optional)
                     <br/>&#10004; 24/7 Monitoring
                     <br/>&#10004; Day 2 operations
                     <br/>
@@ -30,7 +30,7 @@
                     <div class="card-body" style="text-align: center;">
                     <h5 class="offering-item-title">Public baker</h5>
                     <p class="card-text-offering">&#10004; Secure, distributed baking nodes
-                    <br/>&#10004; Signing kit delivered to you
+                    <br/>&#10004; Signing kit delivered to you (optional)
                     <br/>&#10004; 24/7 Monitoring
                     <br/>&#10004; Day 2 operations
                     <br/>&#10004; Payout engine

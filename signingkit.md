@@ -24,6 +24,10 @@ The signers themselves are being monitored, so if they ever loose power or Inter
 
 The signer operating system is [fully open source and auditable](https://github.com/hodl-dot-farm/tezos-remote-signer-os).
 
+## Optional - set up your own
+
+Our remote signers are best-in-class - reliable, redundant, and secure. But if you want to set up your own, we can assist !
+
 ## Interested ?
 
 Contact us at [hello@midl.dev](mailto:hello@midl.dev) to learn how we can help you stake your cryptocurrency, or just use the chat window below.

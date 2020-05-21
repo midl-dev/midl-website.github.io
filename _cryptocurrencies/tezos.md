@@ -41,6 +41,9 @@ As a solo baker, you bake and endorse blocks directly, and the generated rewards
 To further benefit from baking and maximize your earnings by collecting delegation fees, you get delegations from third parties and bake for them. You then distribute rewards to your delegators.
 
 <div style="padding-top:15px"><img class="img-responsive" src="/img/Tezos-baker-how-to.png"/></div>
+<br/>
+
+See also : [Tezos Frequently Asked Questions](/tezos-faq/).
 
 ### Components
 

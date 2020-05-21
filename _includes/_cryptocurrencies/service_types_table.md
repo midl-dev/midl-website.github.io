@@ -7,7 +7,7 @@
         <ul class="flex-container">
             <div class="view-offering overlay zoom">
               <a style="text-decoration:none" href="mailto:hello@midl.dev" target="_blank">
-                <div class="card btn-no-waves" style="width: 28rem;height:25rem;">
+                <div class="card btn-no-waves" style="width: 28rem;height:27rem;">
                     <div class="card-body" style="text-align: center;">
                     <h5 class="offering-item-title">Solo baker</h5>
                     <p class="card-text-offering">&#10004; Secure, distributed baking nodes
@@ -26,7 +26,7 @@
             </div>
             <div class="view-offering overlay zoom">
               <a style="text-decoration:none;" href="mailto:hello@midl.dev" target="_blank">
-                <div class="card btn-no-waves" style="width: 28rem;height:25rem;">
+                <div class="card btn-no-waves" style="width: 28rem;height:27rem;">
                     <div class="card-body" style="text-align: center;">
                     <h5 class="offering-item-title">Public baker</h5>
                     <p class="card-text-offering">&#10004; Secure, distributed baking nodes

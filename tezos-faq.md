@@ -5,6 +5,8 @@ title: Midl.dev - Tezos - Frequently asked questions
 
 ## Tezos Frequently asked questions
 
+Read more about our [Tezos baking service](/tezos/).
+
 **Q: Since you have access to the signer, can't you just sign whatever you want over it and drain the bond from the baker account?**
 
 A: Our remote signer only works with keys stored in a Ledger Nano S, and the baking app on. Ledger Tezos baking app will [only sign baking and endorsement operations](https://github.com/obsidiansystems/ledger-app-tezos#using-the-tezos-baking-application-nano-s-only). So while we have full access to the remote signer, we can't drain the account.

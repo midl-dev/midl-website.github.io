@@ -32,3 +32,7 @@ A: No. We do have remote access to the signer device to perform occasional upgra
 **Q: I keep the signers at home. Do you have remote access to my home network ?**
 
 A: We do not need access to your home network. We can guide you through configuring your home network to segregate the signers in their own VLAN so they can not access the rest of your network.
+
+**Q: What does MIDL stand for ?**
+
+A: Managed Infrastructure for Distributed Ledgers

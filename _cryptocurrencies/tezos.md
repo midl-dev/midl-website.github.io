@@ -41,13 +41,15 @@ As a solo baker, you bake and endorse blocks directly, and the generated rewards
 To further benefit from baking and maximize your earnings by collecting delegation fees, you get delegations from third parties and bake for them. You then distribute rewards to your delegators.
 
 <div style="padding-top:15px"><img class="img-responsive" src="/img/Tezos-baker-how-to.png"/></div>
+<br/>
+
+See also : [Tezos Frequently Asked Questions](/tezos-faq/).
 
 ### Components
 
 #### Secure, distributed baking nodes
 
 We maintain dedicated baking nodes for you. They are geographically distributed, redundant and secure. We also run baking and endorsing daemons.
-
 
 #### Signing kit
 
@@ -57,8 +59,9 @@ We provide you with a [signing kit](/signingkit/) - a pair of small computers wi
 
 Your Tezos key is on a Ledger hardware wallet that you control. You install and run the [Tezos baking app]("https://github.com/obsidiansystems/ledger-app-tezos") and connect it to the signer. When it is your turn to bake/endorse, our infrastructure will send a signing request to your signer.
 
-
 This is secure. The hardware wallet remains in your possession - <b>we can not access your funds</b>.
+
+This is also optional - you may elect to install and configure your own signing kit.
 
 #### 24/7 Monitoring
 

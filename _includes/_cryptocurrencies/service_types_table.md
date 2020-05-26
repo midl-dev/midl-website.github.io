@@ -18,7 +18,7 @@
                     <br/>
                     <br/>
                     </p>
-                    <p style="align:center;font-weight:bold;">From 49 USD</p>
+                    <p style="align:center;font-weight:bold;">From 49 USD per month</p>
                     </div>
                 </div>
                 </a>
@@ -36,7 +36,7 @@
                     <br/>&#10004; Baking website template
                     <br/>
                     </p>
-                    <p style="align:center;font-weight:bold;">From 89 USD</p>
+                    <p style="align:center;font-weight:bold;">From 89 USD per month</p>
                     </div>
                 </div>
                 </a>

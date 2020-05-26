@@ -13,17 +13,15 @@ order_number: 2
 description: | 
 ---
 
-# Bake your Tezos with Midl.dev
+# Bake your Tezos with MIDL.dev
 
 Tezos bakers and exchanges take fees. We can help you be a baker and keep the rewards to yourself!
-
-{% include _cryptocurrencies/tezos_table.md %}
-
-[How did we calculate this ?](/tezos/figures/)
-
 All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 
 We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](https://hodl.farm){:target="_blank"}. All our infrastructure is open-source.
+
+<div style="padding-top:15px;text-align:center"></div>
+Not sure if baking is the right solution for you: [bake or delegate?](/bake-or-delegate/)
 
 {% include _cryptocurrencies/service_types_table.md %}
 

@@ -17,7 +17,6 @@
                     <br/>
                     <br/>
                     <br/>
-                    <br/>
                     </p>
                     <p style="align:center;font-weight:bold;">From 49 USD</p>
                     </div>
@@ -36,10 +35,8 @@
                     <br/>&#10004; Payout engine
                     <br/>&#10004; Baking website template
                     <br/>
-                    <br/>
                     </p>
                     <p style="align:center;font-weight:bold;">From 89 USD</p>
-
                     </div>
                 </div>
                 </a>

@@ -9,7 +9,7 @@ permalink: /bake-or-delegate/
 
 **"Should I delegate or bake?"** This is the question that all tezos token holders sooner or later ask themselves.
 
-The answer is - it depends. Tezos protocol has been designed to reward token holders as long as they participate in the network whether actively or passively. The list of questions below can help you narrow-down the solution which is the most applicable to your situation.
+The answer is - it depends. Tezos protocol has been designed to reward token holders as long as they participate in the network whether actively or passively. The list of questions below can help you narrow down the solution which is the most applicable to your situation.
 
 We assume that you are familiar with the basics of baking operation on [Tezos network](https://tezos.com/get-started/#bake-validate-basics). If not, Tezos website provides a detailed overview of the protocol. 
 
@@ -20,7 +20,7 @@ In order to bake, one needs to hold a minimum of 1 roll of XTZ, which equates to
 
 <b>Do I have too many XTZ, which makes it difficult to find a baker with sufficient capacity?</b>
 
-It's a good problem to have. However, recently there have been several threads on different crypto-channels where a baker was trying to reach out to its delegate who delegated more XTZ than a baker has capacity for. Over-delegation is a real problem that bakers are grappling with. In most circumstances baking is usually a better options for token holders with a large amount of XTZ. 
+It's a good problem to have. However, recently there have been several threads on different crypto-channels where a baker was trying to reach out to its delegate who delegated more XTZ than a baker has capacity for. Over-delegation is a real problem that bakers are grappling with. In most circumstances baking is usually a better option for token holders with a large amount of XTZ. 
 
 <b>Do you plan to hold XTZ for a long period of time to justify setting up a baking infrastructure?</b> 
 
@@ -28,7 +28,7 @@ If you plan to exit the network sooner than later, it might not be worthwhile to
 
 <b>Do you have sufficient knowledge and willingness to invest your time to learn all the technical nitty-gritty of Tezos protocol and infrastructure?</b> 
 
-If you are a nerd like we are, you might find it entertaining to spend your evenings on reading through white papers and documentation. This is only a beginning, however. Once you finally know how to set up and operate a baking operation, you need to maintain it. The protocol is actively being improved, which means ongoing upgrades and maintenance. 
+If you are a nerd like we are, you might find it entertaining to spend your evenings on reading through white papers and documentation. This is only the beginning, however. Once you finally know how to set up and operate a baking operation, you need to maintain it. The protocol is actively being improved, which means ongoing upgrades and maintenance. 
 
 <b>Do you want to take advantage of earning rather than paying delegation fees?</b>
 
@@ -50,8 +50,11 @@ Below are several examples that compare rewards and costs between delegation and
 <i>If you plan to set-up your own baking infrastructure, the costs will vary based on your individual setup. They will usually be higher than that of MIDL.dev.</i>
 <i>Additionally, the rewards amount can be higher or smaller based on XTZ to USD exchange rate, actual delegation fee and public baker's capacity utilization.</i>
 
+<i><b>Inflation rate</b>:Tezos Network has [at most 5.51%](https://tezos.gitlab.io/whitedoc/proof_of_stake.html?highlight=inflation#inflation) inflation. Because not everyone is online all the time, the true inflation value is lower. For this calculation, we assume 5% actual inflation.
+When you bake on your own, this is what you make - 5% annually.</i>
+
 <div style="padding-top:15px"></div>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQXp79GiUhXYmlc_PYcAjdf1d7eZ2cKArT7BZalg9auem-aJtNnnRuKDRWcPvkOmJuwcNk6dShcxL4/pubhtml?gid=1643664373&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="700" height="700"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQXp79GiUhXYmlc_PYcAjdf1d7eZ2cKArT7BZalg9auem-aJtNnnRuKDRWcPvkOmJuwcNk6dShcxL4/pubhtml?gid=1643664373&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="700" height="720"></iframe>
 
 #### Delegation tips
 * Select your baker platform based on its efficiency and fee structure

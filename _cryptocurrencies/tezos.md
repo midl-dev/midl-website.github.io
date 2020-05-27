@@ -21,8 +21,8 @@ All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](https://hodl.farm){:target="_blank"}. All our infrastructure is open-source.
 
 <div style="padding-top:15px;text-align:center"></div>
-Not sure if baking is the right solution for you: [bake or delegate?](/2020/05/26/Bake-or-delegate/)
-
+Not sure if baking is the right solution for you: [bake or delegate?]({{site.permalink}}/Bake-or-delegate/)
+OR [bake or delegate?]({% post_url 2020-05-26-Bake-or-delegate %})
 {% include _cryptocurrencies/service_types_table.md %}
 
 <div style="padding-top:15px;"></div>

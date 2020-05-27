@@ -2,9 +2,8 @@
 layout: post
 title: Should I delegate or bake?
 date:  2020-05-26 07:00:00 +0800
-category: tezos
-subTitle: 
-permalink: /bake-or-delegate/
+category: 
+tag: Tezos
 ---
 
 **"Should I delegate or bake?"** This is the question that all tezos token holders sooner or later ask themselves.

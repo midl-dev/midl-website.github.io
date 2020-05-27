@@ -1,31 +1,25 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
-    
-    <div class="header-page">
-        <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
-      </div>
-
 	<body>
         {% include header.html %}
-<section id="blog">
+    <section id="blog">
     <div class="content-section-a">
-
         <div class="container">
-
             <div class="row">
-
                 <div class="col-lg-8 col-lg-offset-2">
-
-                    <hr class="section-heading-spacer">
-                    <h2 class="section-heading">{{ title }}</h2>
+                    <hr class="section-heading-spacer">                        
+                    <div class="header-page">
+                    <h1 class="page-title">{{page.title}}</h1>
+                    <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
+                    </div>
+                    <h2 class="section-heading"></h2>
                     <div class="lead">{{ content }}</div>
-
             </div>
         </div>
     </div>
-</section>
+    </section>
+        {% include recent-posts.html %}
         {% include contact-us.html %}
 		{% include footer.html %}
 		{% include js.html %}

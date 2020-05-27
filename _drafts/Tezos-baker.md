@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Staking-as-a-service - Tezos baker
+category:
+tag: 
 subTitle: How it works
-permalink: /tezos-baker/
 ---
 
 ## Staking-as-a-service for Tezos blockchain
@@ -17,7 +18,7 @@ You may also group with a few friends and split the rewards between yourselves.
 
 You don't want to deal with delegates and don't care to collect extra fees.
 
-#### How it works. 
+#### How it works 
 
 We maintain full nodes, as well as baking and endorsing daemons for you. Your tezos key is on a Ledger that you control. You install and run the [Tezos baking app]("https://github.com/obsidiansystems/ledger-app-tezos") and connect it to the signer. When it is your turn to bake/endorse, our infrastructure will send a signing request to your signer.
 

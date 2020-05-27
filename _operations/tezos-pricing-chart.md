@@ -15,5 +15,4 @@ description: |
 [What is a signing kit?](/signingkit/)
 
 <div style="padding-top:15px;text-align:center"></div>
-[Should I bake or delegate?](/bake-or-delegate/)
-
+[Should I bake or delegate?](/2020/05/26//bake-or-delegate/)

@@ -552,6 +552,12 @@ a.inline-link:hover {
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out
 }
+p.inline-link:hover {
+    color: #fb9300; /* #0056b3; */
+    text-decoration: underline;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out
+}
 .header-page .page-date {
     text-align: center;
     font-size: 20px;
@@ -570,4 +576,7 @@ a.inline-link:hover {
   .header-page .page-date {
     font-size: 10px;
   }
+}
+body{
+    background-color: #f8f8f8
 }

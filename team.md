@@ -23,7 +23,7 @@ Oksana has 10 year experience in the fintech industry and was most recently work
 
 ### Join us
 
-We are always looking to grow the team. [Contact us](/contact).
+We are always looking to grow the team. [Contact us](mailto:hello@midl.dev)
 
 ## Our experience
 

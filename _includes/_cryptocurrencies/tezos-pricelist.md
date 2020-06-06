@@ -54,4 +54,8 @@
 <div style="padding-top:15px"><i>
 <p>[1] 1 Roll = 8000 XTZ, minimum 1 Roll is required for baking.</p>
 <p>[2] You might qualify to receive a rebate deducted from monthly charges over 12 months period. Contact us.</p></i>
+<p>[3] Service Tier 1: one remote signer, shared sentry nodes, shared baking node, shared Kubernetes control plane<br/>
+Service Tier 2: one remote signer, dedicated sentry nodes, dedicated baking node, shared Kubernetes control plane<br/>
+Service Tier 3: one remote signer, dedicated sentry nodes, dedicated baking node, dedicated Kubernetes control plane<br/>
+Service Tier 4: two highly available remote signers, dedicated sentry nodes, dedicated baking node, dedicated Kubernetes control plane</p></i>
 </div>

@@ -18,7 +18,7 @@ description: |
 Tezos bakers and exchanges take fees. We can help you be a baker and keep the rewards to yourself!
 All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 
-We eat our own dog food. We have one year of experience staking Tezos on our own baking service -  [Hodl.farm](https://hodl.farm){:target="_blank"}. All our infrastructure is open-source.
+We eat our own dog food. We are operating a [public baker](https://hodl.farm){:target="_blank"} and we maintain the [Tezos suite](/tezos-suite/) of open-source software for safe distributed baking.
 
 <div style="padding-top:15px;text-align:center"></div>
 Not sure if baking is the right solution for you: [bake or delegate?]({% post_url 2020-05-26-Bake-or-delegate %})

@@ -14,20 +14,37 @@
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">  
-            	<li>
-                    <a class="page-scroll" href="/tezos/">Tezos baking</a>
-                </li>            
-                <li>
-                    <a class="page-scroll" href="/staas/">Staking as a Service</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="/team/">Team</a>
-                </li>
-            </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        {% assign links = site.data.menu %}
+                        {% for link in links %}
+                            {% assign class = nil %}
+                            {% if page.url contains link.url %}
+                                {% assign class = 'active' %}
+                            {% endif %}
+                            {% if link.sub %}
+                                <li class="dropdown {{ class }}">
+                                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.href }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        {% for sublink in link.sub %}
+                                            {% if sublink.title == 'separator' %}
+                                                <li role="separator" class="divider"></li>
+                                            {% else %}
+                                                <li>
+                                                    <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.href }}">{{ sublink.title }}</a>
+                                                </li>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </ul>
+                                </li>
+                            {% else %}
+                                <li class="{{ class }}">
+                                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.href }}">{{ link.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
     <!-- /.container -->
 </nav>
-

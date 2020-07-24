@@ -17,9 +17,9 @@ description: |
 
 MIDL.dev offers Full Node As a Service option (aka Tezos hosted node). Our full nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
 
-We take care of hosting, synchronizing and continuously fixing the nodes freeing space for our customers to innovate and focus on the high-level services on top of Tezos network.
+We take care of hosting, synchronizing and maintaining the nodes freeing space for our customers to innovate and focus on the high-level services on top of Tezos network.
 
 ## Who is this service for?
-Parties interested in creating and/or maintaining a custom platform and services on top of tezos network. 
+Parties interested in creating and/or maintaining a custom platform and services on top of Tezos network. 
 
 <h3 class="href-orange-bg">Contact us <a class="grey-link" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></h3>

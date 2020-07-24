@@ -9771,11 +9771,6 @@ table.table a.btn.btn-black {
     }
 }
 
-.navbar .dropdown-menu {
-    position: absolute !important;
-    margin-top: 0
-}
-
 .navbar .dropdown-menu a {
     padding: 10px;
     font-size: .9375rem;

@@ -12,6 +12,10 @@ MIDL.dev maintains the following open-source software projects to make it easy t
 * [Tezos-remote-signer-OS](https://github.com/midl-dev/tezos-remote-signer-os): operating system for a secure, highly available Tezos remote signer setup
 * [Tezos-auxiliary-cluster](https://github.com/midl-dev/tezos-auxiliary-cluster): a toolkit for public bakers: monitors baking operations, issues payouts, and generates a dynamic baking website.
 
+## Documentation
+
+The documentation for the Tezos suite can be found [here](https://tezos-docs.midl.dev).
+
 ## Architecture
 
 The best known baking tool, [Kiln](https://gitlab.com/obsidian.systems/kiln), is a complete solution for home baking, to be installed on physical hardware. Tezos-on-GKE, in contrast, outsources most of the computing to the cloud, increasing reliability and decreasing the operating burden of the baking operations.

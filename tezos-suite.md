@@ -10,7 +10,8 @@ MIDL.dev maintains the following open-source software projects to make it easy t
 
 * [Tezos-on-GKE](https://github.com/midl-dev/tezos-on-gke): deploys a secure baker setup in Google Kubernetes Engine in just one command
 * [Tezos-remote-signer-OS](https://github.com/midl-dev/tezos-remote-signer-os): operating system for a secure, highly available Tezos remote signer setup
-* [Tezos-auxiliary-cluster](https://github.com/midl-dev/tezos-auxiliary-cluster): a toolkit for public bakers: monitors baking operations, issues payouts, and generates a dynamic baking website.
+* [Tezos-auxiliary-cluster](https://github.com/midl-dev/tezos-auxiliary-cluster): a toolkit for public bakers: monitors baking operations, issues payouts, and generates a dynamic baking website
+* [Tezos-snapshot-generator](https://github.com/midl-dev/tezos-snapshot-generator): a snapshot engine that periodically generates Tezos snapshots and makes them available.
 
 ## Documentation
 
@@ -32,7 +33,5 @@ The setup supports Tezos mainnet as well as Carthagenet and future test networks
 
 We are the recipients of a [Tezos foundation grant](https://tezos.foundation/grants/) for this project. As part of this, we will:
 
-* improve our monitoring capabilities with Prometheus metric collection and alerting
 * improve baking operation uptime by deploying an active-active baking setup with a Kubernetes operator
-* leverage this infrastructure to build a snapshot engine that periodically generates Tezos snapshots and makes them available, and maintaining a MIDL.dev branded snapshot website
 * increase awareness of the tool by writing documentation, writing articles and interacting with the community of users

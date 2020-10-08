@@ -9,7 +9,7 @@ logo: MIDLLOGO.png
 email: hello@midl.dev
 author: MIDL team
 description: > # "Write an awesome description for your new site here. 
-  MIDL.dev helps you stake your cryptocurrency and maximize your earnings. You are in full control. We support Tezos today. Polkadot, Ethereum 2.0 coming soon.
+  MIDL.dev helps you stake your cryptocurrency and maximize your earnings. You are in full control. Tezos, Polkadot supported.
 copyright: 'Copyright &copy; 2020 MIDL.DEV. All Rights Reserved.'
 company: 'MIDLDEV OÜ (registry code: 14973249) | Kentmanni tn 9-43, Tallinn 10116, Estonia'
 favicon: "./favicon.ico" # set the favicon of the site

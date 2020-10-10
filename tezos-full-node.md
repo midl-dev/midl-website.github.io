@@ -21,5 +21,11 @@ We take care of hosting, synchronizing and maintaining the nodes freeing space f
 
 ## Who is this service for?
 Parties interested in creating and/or maintaining a custom platform and services on top of Tezos network. 
+<br>
+### We can help you with:
 
-<h3 class="href-orange-bg">Contact us <a class="grey-link" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></h3>
+* becoming a validator
+* deploying your private chain based on Tezos
+* generating snapshots for your private chain
+
+<h3 class="href-orange-bg">Contact us if you need help with: <a class="grey-link" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></h3>

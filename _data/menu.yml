@@ -9,6 +9,8 @@
       href:  "/tezos-pricing-chart/"
     - title: Tezos Hosted node
       href: "/tezos-full-node/"
+    - title: "Tezos snapshots"
+      href: "/xtz-shots/"
 - title: Polkadot services
   href: "/polkadot/"
 - title: "Open-source projects"

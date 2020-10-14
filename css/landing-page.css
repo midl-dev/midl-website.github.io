@@ -644,3 +644,26 @@ body{
     color: #515151 !important;
     text-shadow: none !important;
 }
+
+/* Style :target with margin & transition. The 's' can be changed to whatever works (I used it here to represent 'sections'). Adjust transition speed to .001s for instantaneous. */
+.xtarget:target { color:#fb9300; margin-top:-12px; padding-top:60px; }
+
+/* Add 'Currently Reading' to targeted section (optional) */
+.xtarget:target:before { content:'Currently Reading'; font-family:'Open Sans', 
+    sans; font-size:12px; background:#ccc; 
+    border-radius:3px; background-clip:padding-box; 
+    color:#fff; padding:0 5px; position:absolute; top:24px; }
+
+/* Navigation arrows for list items (optional) */
+.bookmark a.up {
+-ms-transform:rotate(90deg); /* IE 9 */
+-webkit-transform:rotate(90deg); /* Safari and Chrome */
+transform:rotate(90deg); }
+.bookmark a.down {
+-ms-transform:rotate(-90deg); /* IE 9 */
+-webkit-transform:rotate(-90deg); /* Safari and Chrome */
+transform:rotate(-90deg); }
+
+/* Hover Selectors to list (optional) */
+.list li { position:relative; padding-bottom:6px; }
+.list li:hover:before { content:'›'; color:#fb9300; position:absolute; left:-40px; line-height:1.2; }

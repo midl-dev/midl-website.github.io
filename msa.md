@@ -1,12 +1,12 @@
 ---
 layout: default
 title: MIDL.dev Legal
-subTitle: Master Service Agreement
+subTitle: Master Services Agreement
 ---
 
 <h1 id="MSA0"></h1>
 
-### MIDL.dev Master Service Agreement
+### MIDL.dev Master Services Agreement
 
 This Master Services Agreement (“MSA” or “GSA”) is between MIDLDEV OÜ, and the customer ordering the Services (“Customer”, “Client”, or “you”) each a “party” and together the “parties”.
 

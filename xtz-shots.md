@@ -24,7 +24,7 @@ Download free of charge daily Tezos snapshots on the [snapshot site](https://xtz
 MIDL.dev is the first snapshot website to provide **permalinks**: URLs that never change and reliably point to a recent snapshot.
 
 
-More details can be found in the [snapshot page](https://mainnet.xtz-shots.io){:target="_blank"} .
+More details can be found on the [snapshot page](https://mainnet.xtz-shots.io){:target="_blank"} .
 
 <br>
 <br>

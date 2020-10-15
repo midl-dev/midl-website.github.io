@@ -33,8 +33,6 @@ This Master Services Agreement (“MSA” or “GSA”) is between MIDLDEV OÜ, 
 <a href="#MSA21">Schedule 1. Defined Terms</a><br>
 <a href="#MSA22">Acceptable User Policy</a><br>
 
-<!--<h2 id="sone" class="xtarget">Section One <a class="up" href="#top">〈</a><a class="down" href="#stwo">〈</a></h2>
--->
 
 1. <p id ="MSA1" class="xtarget">DEFINED TERMS.<a class="up" href="#MSA0"> <i class="fa fa-caret-up"></i></a></p> 
 The defined terms in Schedule 1 shall be applicable to the Agreement.

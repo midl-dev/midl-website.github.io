@@ -3,7 +3,7 @@ layout: cryptos
 img: Tezos_logo.png
 status: Available now
 category: Services
-title: Midl.dev - Tezos Private Node
+title: Midl.dev - Tezos Private Chain
 subTitle: Innovate with Tezos.<br/>We operate the chains.
 staker: 
 short_title: tezos-private-chain
@@ -15,9 +15,9 @@ description: |
 
 # Tezos Private Chain As a Service
 
-MIDL.dev offers Fully Private Chains As a Service option. Our full privates chains are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
+MIDL.dev offers Fully Private Chain As a Service option. Our full privates chains are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
 
-We take care of hosting and maintaining Tezos private chain. We generate blocks on your protocol of choice freeing space for you to innovate and focus on the high-level services on top of Tezos network. 
+We take care of hosting and maintaining Tezos private chain. We generate blocks on your protocol of choice, freeing space for you to innovate and focus on the high-level services on top of Tezos network. 
 
 
 <h3><span style="color:#FB9300">Do what you do best. </span>Leave the boring stuff to us.</h3>

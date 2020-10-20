@@ -24,8 +24,8 @@ Parties interested in creating and/or maintaining a custom platform and services
 <br>
 ### We can help you with:
 
-* becoming a validator
-* deploying your private chain based on Tezos
+* becoming a validator: [Tezos Baker solution](/tezos/)
+* deploying your private chain based on Tezos: [Tezos Private Chain solution](/tezos-private-chain/)
 * generating snapshots for your private chain
 
-<h3 class="href-orange-bg">Contact us if you need help with: <a class="grey-link" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></h3>
+<h3 class="href-orange-bg">Contact us: <a class="grey-link" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></h3>

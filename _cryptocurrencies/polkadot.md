@@ -1,7 +1,8 @@
 ---
 layout: cryptos
 img: Polkadot_logo.png
-status: Coming soon
+status: Available now
+staker: Become a validator
 category: Services
 title: Midl.dev - Polkadot
 subTitle: Become a validator.<br/>Maximize your earnings.

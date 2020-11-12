@@ -9,7 +9,7 @@ short_title: private chain
 permalink: /private-chain/
 service_name: Private chain
 order_number: 3
-description: We work with you to create a private chain that you need to work on protocol development or write smart contracts.
+description: We work with you to create a private chain for protocol or smart contracts development.
 tags: [Services]
 ---
 

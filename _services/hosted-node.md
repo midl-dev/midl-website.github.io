@@ -9,7 +9,7 @@ short_title: Hosted node
 permalink: /hosted-node/
 service_name: Hosted node
 order_number: 2
-description: We take care of hosting, synchronizing and maintaining the nodes for you.
+description: We take care of hosting, synchronizing and maintaining blockchain nodes for you.
 tags: [Services]
 ---
 

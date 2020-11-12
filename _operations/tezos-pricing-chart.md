@@ -12,7 +12,7 @@ description: |
 {% include _cryptocurrencies/tezos-pricelist.md %}
 
 <div style="padding-top:15px"></div>
-[What is a signing kit?](/signingkit/)
+[What is a signing kit?](/noncustodial-validator/)
 
 <div style="padding-top:15px;text-align:center"></div>
 [Should I bake or delegate?]({% post_url 2020-05-26-Bake-or-delegate %})

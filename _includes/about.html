@@ -1,13 +1,26 @@
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-              <br/><br/>
-              <h2>WHAT'S UNIQUE ABOUT US</h2>
-              <br/>
-                <p class="lead">We help you stake your cryptocurrency. You are in full control.</p>
-                <p class="lead">We provide you with a signing kit. Keep it online - we take care of the rest.</p>
-                <br/>
+      <div class="container">
+        <div class="crypto-box" style="border-bottom: none;">
+        <hr class="section-heading-spacer">
+          <h2 class="crypto-title">Our services</h2>
+          <ul class="flex-container">
+          {% assign ordered_services = site.services | sort:"order_number" %}
+          {% for post in ordered_services offset:0 limit:4 %}
+            <a style="text-decoration: none" href="{{post.permalink}}">
+              <div>
+                <div class="card_services" style="width: 25rem;">
+                  <img src="img/services/{{ post.img }}" alt="{{ post.title }}" width="100%" class="img-fluid_services">
+                  <div class="mask flex-center"></div>
+                    <div class="card-body" style="text-align: center;">
+                    <h5 class="crypto-item-title">{{ post.service_name }}</h5>
+                    <p class="card-text">{{ post.description }}</p>
+                    </div>
+                </div>
               </div>
+            </a>
+          {% endfor %}
+          </ul>
         </div>
+      </div>
     </section>

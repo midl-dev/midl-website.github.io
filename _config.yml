@@ -26,8 +26,10 @@ collections:
   frontpage_items:
     output: True
   frontpage_lower_items:
-    output: True
+    output: True 
   cryptocurrencies:
     output: True
   operations:
+    output: True
+  services:
     output: True

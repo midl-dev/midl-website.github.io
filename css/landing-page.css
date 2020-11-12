@@ -667,3 +667,20 @@ transform:rotate(-90deg); }
 /* Hover Selectors to list (optional) */
 .list li { position:relative; padding-bottom:6px; }
 .list li:hover:before { content:'›'; color:#fb9300; position:absolute; left:-40px; line-height:1.2; }
+
+/*Landing page elements*/
+
+/*vertical bar*/
+.side-nav .collapsible ul { 
+    border-left: 3px solid #fb9300; 
+    position:absolute; 
+    left: 50%; }/*{ border-top: 1px solid rgba(153,153,153,.298039); }*/
+
+.card_services {
+        font-weight: 400;
+        border: 0
+    }
+.img-fluid_services {
+        max-width: 45%;
+        height: auto
+    }

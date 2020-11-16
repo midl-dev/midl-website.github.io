@@ -23,7 +23,7 @@ With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to tu
 
 **Very important**: this is an irrevocable operation. Once you move your funds to Ethereum 2.0 you won’t be able to exchange them back to Ethereum 1.0 tokens. 
     
-The transfers between Ethereum 1.0 and 2.0 are expected to be enabled during the implementation phase 1.5. At this time you will be able to exchange and use your funds. See roadmap.
+The transfers between Ethereum 1.0 and 2.0 are expected to be enabled during the implementation phase 1.5. At this time you will be able to exchange and use your funds. [See roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/){:target="_blank"}.
 Pay close attention during this step: verify your actions using multiple reliable sources, including the official Ethereum website. Verify the address of the Deposit Contract before sending your funds.
 
 **Step 2.** We work with you to get you ready to validate on your infrastructure.

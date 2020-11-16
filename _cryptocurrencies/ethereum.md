@@ -105,7 +105,7 @@ You may purchase rights to run two or more validators (1 validator = 32 ETH). We
 
 At the moment we do not support staking pools. If you have less than 32 ETH to stake, you can see your options at [beaconcha.in](https://beaconcha.in/stakingServices){:target="_blank"}.
 
-## What are the risks staking ETH
+## What are the risks staking ETH?
 * Your funds can get slashed if your validator misbehaves. For instance, you can lose ETH for malicious actions, going offline, and failing to validate. MIDL.dev helps to mitigate this risk by using a proven and reliable always-on infrastructure solution.
 * Your funds will be illiquid for an uncertain number of months and potentially years. Each phase is estimated to take 6-8 months to get implemented.
 * There is no guarantee of a successful implementation of Ethereum 2.0. This is a cutting edge technology and there has been no precedent of similar implementation in the past.

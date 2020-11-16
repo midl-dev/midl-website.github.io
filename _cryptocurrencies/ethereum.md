@@ -16,16 +16,17 @@ description: |
 
 # Stake your Ethereum 2.0 tokens with MIDL.dev
 
-With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to turn on on December 1st, 2020, we can accompany you to your journey to proof-of-stake Ethereum.
+With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to turn on on December 1st, 2020, we can accompany you in your journey to proof-of-stake Ethereum.
 
 **Step 1.** Follow instructions on Ethereum 2.0 launchpad to move your ETH to Ethereum 2.0 smart contract and generate a set of validator and withdrawal keys.<br>
-Verify the address of the Deposit Contract before sending your funds.
 
-**Important**: this is an irrevocable operation. Once you move your funds to Ethereum 2.0 you won’t be able to exchange them back to Ethereum 1.0 tokens.<br>The transfers between Ethereum 1.0 and 2.0 are expected to be enabled during the implementation phase 1.5. At this time you will be able to exchange and use your funds. [See roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/){:target="_blank"}
+*This is an irrevocable operation. Measure twice, cut once. Verify the address of the Deposit Contract before sending your funds.*
+
 
 **Step 2.** We work with you to get you ready to validate on our infrastructure.
 
-**Step 3.** On December 1st the Beaconchain launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/){:target="_blank"} or [Beaconscan](https://beaconscan.com/){:target="_blank"}.
+
+**Step 3.** On December 1st, 2020, the Beacon Chain launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/){:target="_blank"} or [Beaconscan](https://beaconscan.com/){:target="_blank"}.
 
 ## Pricing
 
@@ -76,15 +77,29 @@ Verify the address of the Deposit Contract before sending your funds.
 </i>
 </div>
 
-## Non-custodial validator solution
-Our validator solution for Ethereum 2.0 is strictly non-custodial: we run and monitor the nodes. You remain in full control of your withdrawal keys (aka mnemonic or seed) at all times.
-We use Prysm software to configure the validators.
+## We are a boutique validator
+We go the extra mile to ensure you are satisfied with our services. While we cannot provide investment advice, we will happily spend the time to ensure you are comfortable with the protocol and understand staking operations.
+## We are non-custodial
+Our validator solution for Ethereum 2.0 is strictly non-custodial: we run and monitor nodes and validators. You remain in full control of your withdrawal keys (aka mnemonic or seed).
 
-## Why stake your Ethereum 2.0 tokens?
-Ethereum 2.0 (Serenity) is a long-anticipated blockchain solution that is set to replace Ethereum 1.0. The primary difference between the two is the consensus protocol on which they are built. Ethereum 2.0 is a proof-of-stake network. Staking in Ethereum 2.0 is analogous to mining in Ethereum 1.0 network. Validators, instead of miners, secure the network by staking the portion of their funds for which they gain validator rights. Validators are rewarded with new tokens for validating the blocks and checking the work of other validators. [More on consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/){:target="_blank"}.
+
+## Why stake my Ethereum 2.0 tokens?
+Ethereum 2.0 (Serenity) is a long-anticipated blockchain solution that is set to replace Ethereum 1.0. The primary difference between the two is the consensus protocol on which they are built. Ethereum 2.0 is a proof-of-stake network. Staking in Ethereum 2.0 is analogous to mining in Ethereum 1.0 network.
+
+Validators, instead of miners, secure the network by staking the portion of their funds for which they gain validator rights. Validators are rewarded with new tokens for validating the blocks and checking the work of other validators. [More on consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/){:target="_blank"}.
+
+## Can I stop validating?
+You may stop using our services at any time.
+
+By design, the balance of inactive validators go down. To avoid this, you can perform a [voluntary exit](https://docs.prylabs.network/docs/wallet/exiting-a-validator){:target="_blank"} from the validator set. This will freeze your balance.
+
+During phase 0, once you perform a voluntary exit, it is not possible to restart validating or withdraw funds.
+
+Transfers are expected to be enabled during the implementation phase 1.5. At this time you will be able to exchange and use your funds. [See roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/){:target="_blank"}.
 
 ## Is there a minimum required amount of ETH to use MIDL.dev staking service?
 To be part of the Ethereum 2.0 network, you need to put at least 32 ETH at stake. 
+
 You may purchase rights to run two or more validators (1 validator = 32 ETH). We support any number of validators. 
 
 At the moment we do not support staking pools. If you have less than 32 ETH to stake, you can see your options at [beaconcha.in](https://beaconcha.in/stakingServices){:target="_blank"}.
@@ -99,7 +114,7 @@ That being said, while staking at the beginning of the initial implementation ph
 ## Why trust MIDL.dev to manage your validator?
 We have expertise in operating validators in several blockchains. 
 
-Our infrastructure is geographically distributed and monitored 24/7. 
+We run [Prysm](https://prylabs.net/) in our geograpically distributed Kubernetes cluster. We monitor the setup 24/7.
 
 We are paranoid about security. We keep the nodes up-to-date.
 

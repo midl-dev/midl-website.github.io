@@ -16,7 +16,7 @@ description: |
 
 # Stake your Ethereum 2.0 tokens with MIDL.dev
 
-With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to turn on on December 1st, 2020, we can accompany you in your journey to proof-of-stake Ethereum.
+**No software to install. Use MIDL.dev as staking provider and watch your earnings grow.**
 
 **Step 1.** Follow instructions on Ethereum 2.0 launchpad to move your ETH to Ethereum 2.0 smart contract and generate a set of validator and withdrawal keys.<br>
 
@@ -26,7 +26,7 @@ With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to tu
 **Step 2.** We work with you to get you ready to validate on our infrastructure.
 
 
-**Step 3.** On December 1st, 2020, the Beacon Chain launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/){:target="_blank"} or [Beaconscan](https://beaconscan.com/){:target="_blank"}.
+**Step 3.** On December 1st, 2020, the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/){:target="_blank"} or [Beaconscan](https://beaconscan.com/){:target="_blank"}.
 
 ## Pricing
 

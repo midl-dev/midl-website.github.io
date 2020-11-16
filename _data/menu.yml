@@ -1,6 +1,6 @@
 - title: "Staking as a Service"
   href: "/staas/"
-- title: Tezos services
+- title: Tezos
   href: "/tezos/"
   sub:
     - title: "Tezos baking"
@@ -13,8 +13,10 @@
       href: "/tezos-private-chain/"
     - title: "Tezos snapshots"
       href: "/xtz-shots/"
-- title: Polkadot services
+- title: Polkadot
   href: "/polkadot/"
+- title: Ethereum 2.0
+  href: "/ethereum/"
 - title: "Open-source projects"
   href: "/tezos-suite/"
   sub:

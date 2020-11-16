@@ -16,30 +16,31 @@ description: |
 
 # Stake your Ethereum 2.0 tokens with Midl.dev
 
-With the Beacon Chain slated to turn on on December 1st, 2020, we can accompany you to your journey to proof-of-stake Ethereum.
+With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to turn on on December 1st, 2020, we can accompany you to your journey to proof-of-stake Ethereum.
 
-## Non-custodial validation solution
+## Why stake your Ethereum 2.0 tokens?
+Ethereum 2.0 (Serenity) is a long-anticipated blockchain solution that is set to replace Ethereum 1.0. The primary difference between the two is the consensus protocol on which they are built. Ethereum 2.0 is a proof-of-stake network. Staking in Ethereum 2.0 is analogous to mining in Ethereum 1.0 network. Validators, instead of miners, secure the network by staking the portion of their funds for which they gain validator rights. Validators are rewarded with new tokens for validating the blocks and checking the work of other validators. [More on consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
 
-We offer non-custodial validation for Ethereum 2.0 : we run and monitor the nodes. All you need to do is sign validation messages periodically using a remote signer in your control.
+## What do I need to start staking?
+To be part of the Ethereum 2.0 network, you need to put at least 32 ETH at stake. They will be locked for an extended period of time, until the network is fully operational.
+You may purchase rights to run two or more validators. We support any number of validators. 
+At the moment we do not support staking pools. If you have less than 32 ETH to stake, you can see your options at [beaconcha.in](https://beaconcha.in/stakingServices)
 
-We assist you in setting up the remote signer infrastructure based on [Prysm software](https://docs.prylabs.network/docs/wallet/remote), then you can relax as we take care of all the rest!
+## Non-custodial validator solution
+Our validator solution for Ethereum 2.0 is strictly non-custodial: we run and monitor the nodes. You remain in full control of your withdrawal keys (aka mnemonic or seed) at all times.
+We use Prysm software to configure the validators.
 
 ## How staking works
+**Step 1.** Follow instructions on Ethereum 2.0 launchpad to move your ETH to Ethereum 2.0 smart contract and generate a set of validator and withdrawal keys.<br>
 
-To be part of the Ethereum 2.0 network, you need to put at least 32 ETH at stake. They will be locked for an extended period of time, until the network is fully operational. [See roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/).
+**Very important**: this is an irrevocable operation. Once you move your funds to Ethereum 2.0 you won’t be able to exchange them back to Ethereum 1.0 tokens. 
+    
+The transfers between Ethereum 1.0 and 2.0 are expected to be enabled during the implementation phase 1.5. At this time you will be able to exchange and use your funds. See roadmap.
+Pay close attention during this step: verify your actions using multiple reliable sources, including the official Ethereum website. Verify the address of the Deposit Contract before sending your funds.
 
-You may purchase rights to run two or more validators. We support any number of validators.
+**Step 2.** We work with you to get you ready to validate on your infrastructure.
 
-**This is a long-term commitment**. Shall the launch succeed, your Ethereum 1.0 tokens will be irretrievably lost. Ethereum 2.0 is not expected to support smart contract and transfers for a long period of time. However, you may interrupt our services at any time.
-
-### Raspberry Pi remote signer
-
-We offer optionally a fully configured Raspberry Pi with battery backup and LTE dongle to act as remote signer. We perform software upgrades, monitoring and maintenance of the setup.
-
-### Hardware Security Module support
-
-We are committed to supporting HSM signers as they become available. Ethereum 2.0 uses a special signature scheme, [BLS](https://medium.com/@alonmuroch_65570/bls-signatures-part-1-overview-47d9eebf1c75) which is not yet supported by most cryptocurrency HSMs. Stay tuned.
-
+**Step 3.** On December 1st the Beaconchain launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/) or [Beaconscan](https://beaconscan.com/).
 
 ## Pricing
 
@@ -52,29 +53,26 @@ We are committed to supporting HSM signers as they become available. Ethereum 2.
                 <table class="table table-bordered">
                     <thead>
                     <tr>
-                        <th scope="col" class="midl-table-title">Service</th>
-                        <th scope="col" class="midl-table-title">Monthly cost<a style="font-size:10px;color:#fff" href="#section1"> [2]</a></th>
+                        <th scope="col" class="midl-table-title">Service<a style="font-size:10px;color:#fff" href="#section1"> [1]</a></th>
+                        <th scope="col" class="midl-table-title">Monthly cost<a style="font-size:10px;color:#fff" href="#section1"> [3]</a></th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td>Base service charge for 1 validator<a style="font-size:10px;" href="#section1"> [1]</a></td>
-                        <td>69 USD</td>
+                        <td>Base service charge for 1 validator<a style="font-size:10px;" href="#section1"> [2]</a></td>
+                        <td>45 USD</td>
                     </tr>
                     <tr>
                         <td>Price per additional validator - up to 10</td>
-                        <td>49 USD</td>
+                        <td>10 USD</td>
                     </tr>
                     <tr>
                         <td>Price per additional validator - 11 onwards</td>
                         <td><a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a></td>
                     </tr>
-                    <tr>
-                        <td>Remote signer monitoring and software maintenance</td>
-                        <td>19 USD</td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">Remote signer purchase: one-time cost of 199 USD<a style="font-size:10px" href="#section1"> [3]</a></td>
+                                        <tr>
+                        <td>Need a custom solution?</td>
+                        <td><a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -87,8 +85,20 @@ We are committed to supporting HSM signers as they become available. Ethereum 2.
 </ul>
 </section>
 <div style="padding-top:15px"><i>
-<p>[1] 1 validator = 32 ETH</p>
+<p>[1] You may interrupt our services at any time.</p>
 <p>[2] Tax not included</p>
-<p>[3] Tax and shipping not included</p>
+<p>[3] 1 validator = 32 ETH</p>
 </i>
 </div>
+
+
+## What are the risks staking ETH
+* Your funds can get slashed if your validator misbehaves. For instance, you can lose ETH for malicious actions, going offline, and failing to validate. MIDL.dev helps to mitigate this risk by using a proven and reliable always-on infrastructure solution.
+* Your funds will be illiquid for an uncertain number of months and potentially years. Each phase is estimated to take 6-8 months to get implemented.
+* There is no guarantee of a successful implementation of Ethereum 2.0. This is a cutting edge technology and there has been no precedent of similar implementation in the past.
+
+That being said, while staking at the beginning of the initial implementation phase poses the highest risks, it also promises the highest rewards. **You should have high risk-tolerance to stake at this time.**
+
+## Why trust MIDL.dev to manage your validator?
+We have expertise in operating validators in several blockchains. Our infrastructure is geographically distributed and monitored 24/7. We are paranoid about security. We keep the nodes up-to-date.
+We eat our own dog food. We operate a validator ourselves. Rest assured that we will accompany you through all stages of the Ethereum 2.0 launch.

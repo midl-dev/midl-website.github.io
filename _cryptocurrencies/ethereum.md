@@ -79,6 +79,7 @@ With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to tu
 
 ## We are a boutique validator
 We go the extra mile to ensure you are satisfied with our services. While we cannot provide investment advice, we will happily spend the time to ensure you are comfortable with the protocol and understand staking operations.
+
 ## We are non-custodial
 Our validator solution for Ethereum 2.0 is strictly non-custodial: we run and monitor nodes and validators. You remain in full control of your withdrawal keys (aka mnemonic or seed).
 
@@ -119,3 +120,11 @@ We run [Prysm](https://prylabs.net/) in our geograpically distributed Kubernetes
 We are paranoid about security. We keep the nodes up-to-date.
 
 We eat our own dog food. We operate a validator ourselves. Rest assured that we will accompany you through all stages of the Ethereum 2.0 launch.
+
+## Contact us
+
+Schedule a meeting below, chat with us at the bottom right of the page, or [drop us an email](hello@midl.dev).
+
+<div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/nicolas-ochem?embed=true"></div>
+<script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
+

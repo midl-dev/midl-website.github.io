@@ -18,7 +18,7 @@ description: |
 
 With the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) slated to turn on on December 1st, 2020, we can accompany you to your journey to proof-of-stake Ethereum.
 
-## How it works
+## How staking works
 **Step 1.** Follow instructions on Ethereum 2.0 launchpad to move your ETH to Ethereum 2.0 smart contract and generate a set of validator and withdrawal keys.<br>
 
 **Very important**: this is an irrevocable operation. Once you move your funds to Ethereum 2.0 you won’t be able to exchange them back to Ethereum 1.0 tokens. 
@@ -28,7 +28,7 @@ Pay close attention during this step: verify your actions using multiple reliabl
 
 **Step 2.** We work with you to get you ready to validate on your infrastructure.
 
-**Step 3.** On December 1st the Beaconchain launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/) or [Beaconscan](https://beaconscan.com/).
+**Step 3.** On December 1st the Beaconchain launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/){:target="_blank"} or [Beaconscan](https://beaconscan.com/){:target="_blank"}.
 
 ## Pricing
 
@@ -84,12 +84,12 @@ Our validator solution for Ethereum 2.0 is strictly non-custodial: we run and mo
 We use Prysm software to configure the validators.
 
 ## Why stake your Ethereum 2.0 tokens?
-Ethereum 2.0 (Serenity) is a long-anticipated blockchain solution that is set to replace Ethereum 1.0. The primary difference between the two is the consensus protocol on which they are built. Ethereum 2.0 is a proof-of-stake network. Staking in Ethereum 2.0 is analogous to mining in Ethereum 1.0 network. Validators, instead of miners, secure the network by staking the portion of their funds for which they gain validator rights. Validators are rewarded with new tokens for validating the blocks and checking the work of other validators. [More on consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+Ethereum 2.0 (Serenity) is a long-anticipated blockchain solution that is set to replace Ethereum 1.0. The primary difference between the two is the consensus protocol on which they are built. Ethereum 2.0 is a proof-of-stake network. Staking in Ethereum 2.0 is analogous to mining in Ethereum 1.0 network. Validators, instead of miners, secure the network by staking the portion of their funds for which they gain validator rights. Validators are rewarded with new tokens for validating the blocks and checking the work of other validators. [More on consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/){:target="_blank"}.
 
 ## What do I need to start staking?
 To be part of the Ethereum 2.0 network, you need to put at least 32 ETH at stake. They will be locked for an extended period of time, until the network is fully operational.
 You may purchase rights to run two or more validators. We support any number of validators. 
-At the moment we do not support staking pools. If you have less than 32 ETH to stake, you can see your options at [beaconcha.in](https://beaconcha.in/stakingServices)
+At the moment we do not support staking pools. If you have less than 32 ETH to stake, you can see your options at [beaconcha.in](https://beaconcha.in/stakingServices){:target="_blank"}.
 
 ## What are the risks staking ETH
 * Your funds can get slashed if your validator misbehaves. For instance, you can lose ETH for malicious actions, going offline, and failing to validate. MIDL.dev helps to mitigate this risk by using a proven and reliable always-on infrastructure solution.

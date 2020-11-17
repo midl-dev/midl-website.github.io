@@ -59,7 +59,7 @@ Our virtual machine base image comes with the software preinstalled, all you hav
 The advantages of this approach are twofold:
 
 * you retain the capability to grant or revoke access to the signing VM
-* your VM will only sign operations needed for validation. It will refuse to sign anything else (i.e. voluntary exit)
+* your VM will only accept sign operations needed for validation. It will refuse to sign anything else (i.e. voluntary exit)
 
 <h3><i class="fa fa-exclamation" aria-hidden="true" style="color:#FB9300"></i> Remote signer risks</h3>
 
@@ -69,7 +69,7 @@ Also, running a VM in a cloud provider incurs additional cost. You are responsib
 
 ## Conclusion
 
-Ethereum 2.0 is an experimental protocol. It will mature over time: key rotation will be enabled, and hardware security module support will be added. For the time being, we offer two solution, for you to pick based on your expertise and comfort level.
+Ethereum 2.0 is an experimental protocol. It will mature over time: key rotation will be enabled, and hardware security module support will be added. For the time being, we offer two solutions, for you to pick based on your expertise and comfort level.
 
 **Validation key handoff** is a good solution if you want peace of mind and are willing to work with us until the network matures.
 

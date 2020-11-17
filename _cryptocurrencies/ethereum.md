@@ -23,7 +23,7 @@ description: |
 *This is an irrevocable operation. Measure twice, cut once. Verify the address of the Deposit Contract before sending your funds.*
 
 
-**Step 2.** We work with you to get you ready to validate on our infrastructure.
+**Step 2.** We work with you to get you ready to validate on our infrastructure. [Read more](/2020/11/16/eth-2-key-management).
 
 
 **Step 3.** On December 1st, 2020, the [Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/) launches, your rewards start accumulating while your validator helps to secure the network. You can monitor your validator operations at any time using beacon chain explorers such as [Beaconcha.in](http://beaconcha.in/){:target="_blank"} or [Beaconscan](https://beaconscan.com/){:target="_blank"}.

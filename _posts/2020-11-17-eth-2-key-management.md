@@ -39,12 +39,12 @@ Validation key handoff may not be the choice solution for everyone.
 During phase zero, the protocol does not support rotation of the validation key attached to a withdrawal key, much to our regret. Therefore, by handing off your validation key(s) to someone, you expose yourself to the following risks:
 
 * if you engage with several different staking providers during phase zero, and hand off your keys to both, you need to coordinate to ensure that both are not validating at the same time. Double validation is a protocol offense that may result in loss of funds.
-* the provider may perform a voluntary exit from the validator set. This is an irreversible operation and will prevent you from earning more rewards until transfers are enabled.
+* anyone in possession of the validation key may perform a voluntary exit from the validator set. This is an irreversible operation and will prevent you from earning more rewards until transfers are enabled.
 
 We mitigate these risks by:
 
 * running reliable, secure, always-on staking infrastructure;
-* contractually committing to destroy our copy of the validation key(s) upon termination of our engagement with you.
+* contractually committing to destroying our copy of the validation key(s) upon termination of our engagement with you.
 
 ### Solution 2 - Remote signer powered by MIDL.dev
 

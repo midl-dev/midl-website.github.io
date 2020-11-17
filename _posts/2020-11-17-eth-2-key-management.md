@@ -11,7 +11,7 @@ After you send your Ethereum 2.0 tokens to the Deposit Contract, you will take p
 * the withdrawal key or "seed" consists of 12 english words and it should be stored offline, written down on paper,
 * the validation key, necessary to stake and participate in consensus.
 
-So, when you are using the [Ethereum 2.0 staking service from MIDL.dev](/ethereum), cryptographic signature of the validation messages works as follows.
+When you are using the [Ethereum 2.0 staking service from MIDL.dev](/ethereum), cryptographic signature of the validation messages works as follows.
 
 The withdrawal key or "seed" remains yours and yours alone. This key will allow you to withdraw your Eth2 funds once transfers are enabled. As a non-custodial staking provider, we do not need this key and will never ask you for it.
 

@@ -6,7 +6,7 @@ category:
 tag: Ethereum
 ---
 
-After you send your Ethereum 2.0 tokens to the Deposit Contract, you will take possession of two cryptographic keys:
+After you send your Eth1 tokens to the Deposit Contract, you will take possession of two cryptographic keys:
 
 * the withdrawal key or "seed" consists of 12 english words and it should be stored offline, written down on paper,
 * the validation key, necessary to stake and participate in consensus.

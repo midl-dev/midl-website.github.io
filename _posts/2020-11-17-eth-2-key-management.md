@@ -25,7 +25,7 @@ This is the simplest solution, suitable for validators who want peace of mind an
 * we validate for you
 * in a later phase of Ethereum 2.0 rollout, transfers are enabled. At this point, you are able to transfer funds and rotate the keys.
 
-In our opinion, this is non-custodial since the withdrawal key remains in your possession. Only this key allows you to eventually move assets to a different address.
+In our opinion, this is non-custodial since the withdrawal key remains in your possession. Only the withdrawal key allows you to eventually move assets to a different address.
 
 ### Handoff risks
 

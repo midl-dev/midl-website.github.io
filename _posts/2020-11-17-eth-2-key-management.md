@@ -52,7 +52,7 @@ If you would rather keep the validation key under your exclusive control, we hav
 
 We assist you in setting up a virtual machine acting as remote signer in a cloud provider. This virtual machine is in your full control, in a cloud provider for which only you have the credentials.
 
-Our infrastructure operates full nodes and validators. When it is your turn to validate, we send a signing request to your virtual machine using a secure channel. The virtual machine replies with the signed message. During this process, the validation key never leaves the virtual machine.
+Our infrastructure operates full nodes and validators. When it is your turn to validate, we send a signing request to your virtual machine using a secure channel. The virtual machine replies with the signed message. During this process, the validation key never leaves your virtual machine.
 
 Our virtual machine base image comes with the software preinstalled, all you have to do is spin it up and inject your key. This is a simple process that requires minimal knowledge of command line interface.
 

@@ -11,13 +11,17 @@ After you send your Ethereum 2.0 tokens to the Deposit Contract, you will take p
 * the withdrawal key or "seed" consists of 12 english words and it should be stored offline, written down on paper,
 * the validation key, necessary to stake and participate in consensus.
 
-When you are using the [Ethereum 2.0 staking service from MIDL.dev](/ethereum), cryptographic signature of the validation messages works as follows.
+## Withdrawal key
 
-The withdrawal key or "seed" remains yours and yours alone. This key will allow you to withdraw your Eth2 funds once transfers are enabled. As a non-custodial staking provider, we do not need this key and will never ask you for it.
+When using the Ethereum 2.0 staking service from MIDL.dev, the withdrawal key or “seed” remains yours and yours alone. Withdrawal key will allow you to withdraw or transfer your Eth2 funds once transfers are enabled. As a non-custodial staking provider, we do not need this key and will never ask you for it.
 
-As for the validation key, there are two solutions, and it is up to you on with which you feel comfortable.
+## Validation key
 
-## Validation key handoff
+Validation key is required to participate in the network validation activities. This key does not have access to withdraw or transfer your funds. 
+
+There are two solutions to manage validation key. You can choose the one you are most comfortable with.
+
+## Solution 1 - Validation key handoff
 
 This is the simplest solution, suitable for validators who want peace of mind and a fully managed solution.
 
@@ -32,19 +36,19 @@ This is a non-custodial service: the withdrawal key remains in your possession. 
 
 Validation key handoff may not be the choice solution for everyone. 
 
-During phase zero, the protocol does not support rotation of the validation key attached to a withdrawal key, much to our regret. Therefore, by handing off your validation keys to someone, you expose yourself to the following risks:
+During phase zero, the protocol does not support rotation of the validation key attached to a withdrawal key, much to our regret. Therefore, by handing off your validation key(s) to someone, you expose yourself to the following risks:
 
 * if you engage with several different staking providers during phase zero, and hand off your keys to both, you need to coordinate to ensure that both are not validating at the same time. Double validation is a protocol offense that may result in loss of funds.
-* the provider may accidentally perform a voluntary exit from the validator set. This is an irreversible operation and will prevent you from earning more rewards until transfers are enabled.
+* the provider may perform a voluntary exit from the validator set. This is an irreversible operation and will prevent you from earning more rewards until transfers are enabled.
 
 We mitigate these risks by:
 
-* performing due diligence to ensure proper validation operation
-* contractually committing to destroying our copy of the validation key upon termination of our engagement with you
+* running reliable, secure, always-on staking infrastructure,
+* contractually committing to destroy our copy of the validation key(s) upon termination of our engagement with you.
 
-## Remote signer powered by MIDL.dev
+## Solution 2 - Remote signer powered by MIDL.dev
 
-If you would rather keep the validation key under your full exclusive control, we have a solution.
+If you would rather keep the validation key under your exclusive control, we have a solution.
 
 We assist you in setting up a virtual machine acting as remote signer in a cloud provider. This virtual machine is in your full control, in a cloud provider for which only you have the credentials.
 
@@ -65,10 +69,10 @@ Also, running a VM in a cloud provider incurs additional cost. You are responsib
 
 ## Conclusion
 
-Ethereum 2.0 is an experimenal protocol. It will mature over time: key rotation will be enabled, and hardware security module support will be added. For the time being, we offer two solution, for you to pick based on your expertise and comfort.
+Ethereum 2.0 is an experimental protocol. It will mature over time: key rotation will be enabled, and hardware security module support will be added. For the time being, we offer two solution, for you to pick based on your expertise and comfort level.
 
 **Validation key handoff** is a good solution if you want peace of mind and are willing to work with us until the network matures.
 
-**Remote signer powered by MIDL.dev** is great if you want to retain full control over both your keys while still enjoying a quality of service only attainable with a dedicated staking infrastructure company.
+**Remote signer powered by MIDL.dev** is a good solution if you want to retain full control over both your keys while still enjoying a quality of service only attainable with a dedicated staking infrastructure company.
 
-We are a boutique validation service and we will be diligently working with you to set up a staking solution that suits your needs.
+We are a boutique validation service and we will diligently work with you to set up a staking solution that suits your needs.

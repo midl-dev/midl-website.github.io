@@ -65,7 +65,7 @@ Also, running a VM in a cloud provider incurs additional cost. You are responsib
 
 ## Conclusion
 
-Ethereum 2.0 is an experimenal protocol. It will mature over time: key rotation will be enabled, and hardware security module support will be added. For the time being, we will be working with you to better suit your expertise and comfort.
+Ethereum 2.0 is an experimenal protocol. It will mature over time: key rotation will be enabled, and hardware security module support will be added. For the time being, we offer two solution, for you to pick based on your expertise and comfort.
 
 **Validation key handoff** is a good solution if you want peace of mind and are willing to work with us until the network matures.
 

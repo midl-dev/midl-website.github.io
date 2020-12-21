@@ -67,5 +67,4 @@ There are a number of websites that provide a valuable metrics for public bakers
 
 [Baking-bad](https://baking-bad.org/)
 
-<i>Some metrics might not be 100% accurate or apply to all bakers.
-For instance, [Hodl.farm](https://hodl.farm) processes payouts in advance to give its delegates peace of mind that they will always receive their rewards. Currently, there is no payout metric that reflects this model on the rating websites.</i> 
+<i>Some metrics might not be 100% accurate or apply to all bakers.</i>

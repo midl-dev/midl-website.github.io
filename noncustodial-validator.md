@@ -28,7 +28,7 @@ When turned on, the devices securely establish a connection to our infrastructur
 
 The signers themselves are being monitored, so if they ever loose power or Internet, you can expect a phone call from us.
 
-The signer operating system is [fully open source and auditable](https://github.com/hodl-dot-farm/tezos-remote-signer-os).
+The signer operating system is [fully open source and auditable](https://github.com/midl-dev/tezos-remote-signer-os).
 
 ## Optional - set up your own
 

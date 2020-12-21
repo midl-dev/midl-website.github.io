@@ -15,7 +15,7 @@ We also support customers setting up their own remote signers, in that case, we 
 
 **Q: The tezos-signer natively supports authentication using a keypair - why not use this and avoid the ssh tunnel?**
 
-A: The remote signer setup "just works" from anywhere including NATted environments. And when the primary internet connection fails, the [4G LTE dongle takes over](https://github.com/hodl-dot-farm/tezos-remote-signer-os/blob/master/tezos-remote-signer/templates/usr/bin/isp_failover). On the other end, the ssh server endpoint is a hostname pointing to a [cloud load balancer](https://github.com/midl-dev/tezos-on-gke/blob/master/tezos-baker/tezos-remote-signer-forwarder.yaml#L5-L12). So originating the connection from the remote signer is the better choice for a highly reliable signer. You just plug it in and it "phones home".
+A: The remote signer setup "just works" from anywhere including NATted environments. And when the primary internet connection fails, the [4G LTE dongle takes over](https://github.com/midl-dev/tezos-remote-signer-os/blob/master/tezos-remote-signer/templates/usr/bin/isp_failover). On the other end, the ssh server endpoint is a hostname pointing to a [cloud load balancer](https://github.com/midl-dev/tezos-on-gke/blob/master/tezos-baker/tezos-remote-signer-forwarder.yaml#L5-L12). So originating the connection from the remote signer is the better choice for a highly reliable signer. You just plug it in and it "phones home".
 
 The second reason is that the remote signer is fully managed by us (OS upgrades, upgrades of the signer software itself) so we need access to more than the signer protocol, namely ssh login and monitoring endpoints. They all go through the tunnel.
 

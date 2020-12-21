@@ -27,7 +27,7 @@ We are always looking to grow the team. [Contact us](mailto:hello@midl.dev)
 
 ## Our experience
 
-We have 10 years of experience building and managing reliable systems, and one year operating a Tezos baker: [Hodl.farm](https://hodl.farm). All our infrastructure is [open-source](https://github.com/hodl-dot-farm) and auditable.
+We have 10 years of experience building and managing reliable systems, and one year operating a Tezos baker. All our infrastructure is [open-source](https://github.com/midl-dev) and auditable.
 
 Our approach is centered on two fundamental ideas:
 
@@ -42,4 +42,4 @@ The signing process is simple. Is it also the most critical in terms of operatio
 
 We conciliate the two fundamental ideas by separating signing from everything else: the bulk of the work is done in reliable, redundant, geographically distributed nodes in a cloud platform, but the critical signing operations are done on devices that you control. That makes us a fully non-custodial service.
 
-We eat our own dog food. Our staking operation - [Hodl.farm](https://hodl.farm) - is the canary deployment for the staking infrastructure. When rolling out new code, we always push it first to Hodl.farm before pushing it to our customers.
+We eat our own dog food. Our staking operation is the canary deployment for the staking infrastructure. When rolling out new code, we always push it first to to our baker before pushing it to our customers.

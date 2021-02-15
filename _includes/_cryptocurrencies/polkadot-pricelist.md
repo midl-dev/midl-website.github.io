@@ -35,5 +35,5 @@
 </ul>
 </section>
 <div style="padding-top:15px"><i>
-<p>[1] We are compliant with the requirements of <a href=https://polkadot.network/supporting-decentralization-join-the-polkadot-thousand-validators-programme/ target="_blank">the thousand validator program</a>. However, we do not guarantee the inclusion in the active validator set </p></i>
+<p>[1]  We have no control over the inclusion of your validator in the active validator set.</p></i>
 </div>

@@ -72,10 +72,6 @@ The Tezos network is self-governing and always improving. We pay attention to th
 
 A program administers accurate and timely payouts to delegators based on their contributions. The payout address is stored in a hot wallet that you replenish frequently.
 
-#### Baking website template
-
-We run a website publication mechanism so your delegates can check their contribution and their most recent payouts just by entering their address on your website.
-
 ## Interested ?
 
 Contact us at [hello@midl.dev](mailto:hello@midl.dev), or just use the chat window below.

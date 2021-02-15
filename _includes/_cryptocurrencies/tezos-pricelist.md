@@ -16,26 +16,26 @@
                     <tbody>
                     <tr>
                         <td>1-11 Rolls</td>
-                        <td>49 USD</td>
-                        <td>89 USD</td>
+                        <td>69 USD</td>
+                        <td>129 USD</td>
                         <td>1</td>
                     </tr>
                     <tr>
                         <td>12-29 Rolls</td>
-                        <td>99 USD</td>
-                        <td>189 USD</td>
+                        <td>129 USD</td>
+                        <td>229 USD</td>
                         <td>2</td>
                     </tr>
                     <tr>
                         <td>30-49 Rolls</td>
-                        <td>199 USD</td>
-                        <td>389 USD</td>
+                        <td>229 USD</td>
+                        <td>399 USD</td>
                         <td>3</td>
                     </tr>
                     <tr>
                         <td>50-69 Rolls</td>
-                        <td>449 USD</td>
-                        <td>589 USD</td>
+                        <td>429 USD</td>
+                        <td>679 USD</td>
                         <td>4</td>
                     </tr>
                     <tr>
@@ -45,7 +45,7 @@
                         <td>4</td>
                     </tr>
                     <tr>
-                        <td colspan="4">Remote signer: one-time fee of 96 USD<a style="font-size:10px" href="#section1"> [2]</a></td>
+                        <td colspan="4">Remote signer: one-time fee of 199 USD<a style="font-size:10px" href="#section1"> [2]</a></td>
                     </tr>
                     </tbody>
                 </table>

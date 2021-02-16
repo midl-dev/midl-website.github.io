@@ -18,7 +18,7 @@ tags: [Supported Cryptocurrencies]
 
 We are happy to be part of Polkadot validators set and have been validating since 2020.
 
-[A Polkadot Validator on Kubernetes](https://medium.com/@midl.dev/a-polkadot-validator-on-kubernetes-3e694cb43841){:target="_blank"}
+More details in our Medium post: [A Polkadot Validator on Kubernetes](https://medium.com/@midl.dev/a-polkadot-validator-on-kubernetes-3e694cb43841){:target="_blank"}
 
 ## How to nominate MIDL.dev
 
@@ -39,6 +39,7 @@ Follow the [Official Polkadot nominator guide](https://wiki.polkadot.network/doc
 * We are active in the ecosystem.
 
 As a nominator in Polkadot blockchain you risk having your funds slashed if your validator misbehaves. Choose your validator wisely.
+
 Read more on [Polkadot slashing](https://wiki.polkadot.network/docs/en/learn-staking#slashing){:target="_blank"}
 
 ## Our Commission fees

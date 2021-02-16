@@ -8,7 +8,7 @@
                 <table class="table table-bordered">
                     <thead>
                     <tr>
-                        <th scope="col" class="midl-table-title">Validator<a style="font-size:10px;color:#fff" href="#section1"> [1]</a></th>
+                        <th scope="col" class="midl-table-title">Validator</th>
                         <th scope="col" class="midl-table-title">Address</th>
                         <th scope="col" class="midl-table-title">Copy</th>
                         <th scope="col" class="midl-table-title">Polkascan</th>
@@ -18,7 +18,7 @@
                     <tbody>
                     <tr>
                         <td>Kusama Validator 1</td>
-                        <td><code style="font-size:75%; color:gray;">GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx</code></td>
+                        <td><code style="font-size:75%; color:gray;">GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx</code><a href="#!" onclick="clipboard.writeText('GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx');">⧉</a></td>
                         <td><a href="#!" onclick="clipboard.writeText('GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx');">⧉</a></td>
                         <td><a href="https://polkascan.io/pre/kusama/account/GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx">View</a></td>
                         <td><a href="https://polkadot.js.org/apps/#/staking/query/GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx">View</a></td>
@@ -37,6 +37,9 @@
                         <td><a href="https://polkascan.io/pre/kusama/account/1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T">View</a></td>
                         <td><a href="https://polkadot.js.org/apps/#/staking/query/1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T">View</a></td>
                     </tr>
+                    <tr>
+                        <td colspan="5">You have to have <a href="https://polkaview.network/dot" target="_blank"}>minimum amount of DOTs</a> in order to nominate.</td>
+                    </tr>
                     </tbody>
                 </table>
             </div>
@@ -45,6 +48,3 @@
 </div>
 </ul>
 </section>
-<div style="padding-top:15px">
-<i><p>[1] You have to have [minimum amount of DOTs](https://polkaview.network/dot){:target="_blank"} in order to nominate. </p></i>
-</div>

@@ -15,6 +15,9 @@
       href: "/xtz-shots/"
 - title: Polkadot
   href: "/polkadot/"
+  sub:
+    - title: "Polkadot Nominations"
+      href: "/polkadot_nominations/"
 - title: Ethereum 2.0
   href: "/ethereum/"
 - title: "Open-source projects"
@@ -26,3 +29,5 @@
   href: "/team/"
 - title: "Blog"
   href: "/blog/"
+- title: "Mina"
+  href: "/mina/"

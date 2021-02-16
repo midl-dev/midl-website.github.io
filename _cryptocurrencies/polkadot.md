@@ -14,7 +14,7 @@ description: |
 tags: [Supported Cryptocurrencies]
 ---
 
-# Be a Polkadot validator with Midl.dev
+# Be a Polkadot validator with MIDL.dev
 
 ## Our technology
 

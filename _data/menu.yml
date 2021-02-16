@@ -11,6 +11,8 @@
       href: "/tezos-private-chain/"
     - title: "Tezos snapshots"
       href: "/xtz-shots/"
+    - title: "Tezos suite by MIDL.dev"
+      href: "/tezos-suite/"
 - title: Polkadot
   href: "/polkadot/"
   sub:
@@ -18,17 +20,14 @@
       href: "/polkadot/"
     - title: "Nominate us"
       href: "/polkadot_nominations/"
+    - title: "Polkadot snapshots"
+      href: "/polkashots/"
 - title: Ethereum 2.0
   href: "/ethereum/"
 - title: "Mina"
   href: "/mina/"
-  sub:
-    - title: "Tezos suite by MIDL.dev"
-      href: "/tezos-suite/"
 - title: "Schedule a call"
   href: "/calendar/"
-- title: "Blog"
-  href: "/blog/"
 - title: "About"
   sub:
     - title: "Staking as a Service"
@@ -37,3 +36,7 @@
       href: "/tezos-suite/"
     - title: "Team"
       href: "/team/"
+    - title: "Medium publications"
+      href: "https://midl-dev.medium.com/"
+    - title: "Blog"
+      href: "/blog/"

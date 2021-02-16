@@ -16,7 +16,9 @@
 - title: Polkadot
   href: "/polkadot/"
   sub:
-    - title: "Polkadot Nominations"
+    - title: "Run a validator"
+      href: "/polkadot/"
+    - title: "Nominate us"
       href: "/polkadot_nominations/"
 - title: Ethereum 2.0
   href: "/ethereum/"

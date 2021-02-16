@@ -15,6 +15,7 @@ tags: [Supported Cryptocurrencies]
 ---
 
 # MIDL.dev is ready for Genesis block launch.
+<script src="{{ base.url | prepend: site.url }}/js/clipboard-polyfill.promise.js"></script>
 
 At MIDL.dev we are excited to be part of the genesis program and support the ecosystem.
 
@@ -23,8 +24,8 @@ At MIDL.dev we are excited to be part of the genesis program and support the eco
 MINA is a consistent-size blockchain, ~22kb. It aims at becoming the lightest and the most accessible blockchain protocol powered by recursive zero knowledge proofs (aka zk-SNARKs). We believe it is tackling the right problems and is well-positioned to succeed. 
 
 Read more here:
-[Technical white paper][https://minaprotocol.com/static/pdf/technicalWhitepaper.pdf]{:target="_blank"}
-[Economics white paper][https://minaprotocol.com/static/pdf/economicsWhitepaper.pdf]{:target="_blank"}
+[Technical white paper](https://minaprotocol.com/static/pdf/technicalWhitepaper.pdf){:target="_blank"}
+[Economics white paper](https://minaprotocol.com/static/pdf/economicsWhitepaper.pdf){:target="_blank"}
 
 ## Our technology
 
@@ -41,7 +42,7 @@ MIDL.dev charges 5% commission fee.
 
 ### How to delegate to us
 
-Refer to the section [Delegating Mina][https://minaprotocol.com/docs/node-operator]{:target="_blank"} on the official guide.
+Refer to the section [Delegating Mina](https://minaprotocol.com/docs/node-operator){:target="_blank"} on the official guide.
 
 ## Inquire about a custom solution
 

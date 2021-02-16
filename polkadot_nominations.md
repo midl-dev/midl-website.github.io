@@ -15,6 +15,7 @@ tags: [Supported Cryptocurrencies]
 ---
 
 # MIDL.dev is validating on Polkadot
+<script src="{{ base.url | prepend: site.url }}/js/clipboard-polyfill.promise.js"></script>
 
 We are happy to be part of Polkadot validators set and have been validating since 2020.
 
@@ -26,10 +27,10 @@ We operate Polkadot and Kusama validator nodes on Kubernetes. Our infrastructure
 
 Unless you are running your own validator, it is usually a good idea to stake your dots and earn rewards.
 
-<p style='color:red;'>Important: you have to have minimum DOTs required for nominations. You can check the latest minimum amount on [here][https://polkaview.network/dot]{:target="_blank"}</p>. 
+<p style='color:red;'>Important: you have to have minimum DOTs required for nominations.</p> You can check the latest minimum amount on [here](https://polkaview.network/dot){:target="_blank"}.
 
 You want to make sure that you nominate the right validators who run a highly reliable and secure infrastructure. Unlike in other PoS blockchains, in Polkadot nominator's funds can get slashed if their validator misbehaves.
-Read more on [Polkadot slashing][https://wiki.polkadot.network/docs/en/learn-staking#slashing]{:target="_blank"}
+Read more on [Polkadot slashing](https://wiki.polkadot.network/docs/en/learn-staking#slashing){:target="_blank"}
 
 ### Our Kusama validator-1 address is :
 

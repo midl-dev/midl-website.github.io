@@ -15,7 +15,6 @@ tags: [Supported Cryptocurrencies]
 ---
 
 # MIDL.dev is validating on Polkadot
-<script src="{{ base.url | prepend: site.url }}/js/clipboard-polyfill.promise.js"></script>
 
 We are happy to be part of Polkadot validators set and have been validating since 2020.
 

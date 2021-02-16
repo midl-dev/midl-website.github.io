@@ -28,4 +28,4 @@ See also: [A Polkadot Validator on Kubernetes](https://medium.com/@midl.dev/a-po
 
 ## Pricing
 
-{% include _cryptocurrencies/polkadot-pricelist.md %}
+{% include _cryptocurrencies/polkadot_pricelist.md %}

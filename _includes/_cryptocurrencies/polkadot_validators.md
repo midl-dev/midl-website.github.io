@@ -1,0 +1,54 @@
+<section id="pricelist">
+    <ul class="flex-container">
+        <div class=".midl-table-view-offering">
+        <div class="card btn-no-waves">
+        <div class="card-body" style="text-align: center;">
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <thead>
+                    <tr>
+                        <th scope="col" class="midl-table-title">Validator<a style="font-size:10px;color:#fff" href="#section1"> [1]</a></th>
+                        <th scope="col" class="midl-table-title">Address</th>
+                        <th scope="col" class="midl-table-title">Copy</th>
+                        <th scope="col" class="midl-table-title">Polkascan</th>
+                        <th scope="col" class="midl-table-title">Polkadot.js</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Kusama Validator 1</td>
+                        <td>Kusama Validator 2</td>
+                        <td>Polkadot Validator</td>
+                    </tr>
+                    <tr>
+                        <td><code style="font-size:75%; color:gray;">GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx</code></td>
+                        <td><code style="font-size:75%; color:gray;">Fs72xecWY6SRwKNH2voodiSsdVKeath4kofHEGsZGLibSxh</code></td>
+                        <td><code style="font-size:75%; color:gray;">1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T</code></td>
+                    </tr>
+                    <tr>
+                        <td><a href="#!" onclick="clipboard.writeText('GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx');">⧉</a></td>
+                        <td><a href="#!" onclick="clipboard.writeText('Fs72xecWY6SRwKNH2voodiSsdVKeath4kofHEGsZGLibSxh');">⧉</a></td>
+                        <td><a href="#!" onclick="clipboard.writeText('1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T');">⧉</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://polkascan.io/pre/kusama/account/GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx">View</a></td>
+                        <td><a href="https://polkascan.io/pre/kusama/account/Fs72xecWY6SRwKNH2voodiSsdVKeath4kofHEGsZGLibSxh">View</td>
+                        <td><a href="https://polkascan.io/pre/kusama/account/1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T">View</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://polkadot.js.org/apps/#/staking/query/GyrcqNwF87LFc4BRxhxakq8GZRVNzhGn3NLfSQhVHQxqYYx">View</a></td>
+                        <td><a href="https://polkadot.js.org/apps/#/staking/query/Fs72xecWY6SRwKNH2voodiSsdVKeath4kofHEGsZGLibSxh">View</td>
+                        <td><a href="https://polkadot.js.org/apps/#/staking/query/1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T">View</td>
+                    </tr>
+                    </tbody>
+                </table>
+</div>
+</div>
+</div>
+</div>
+</ul>
+</section>
+<div style="padding-top:15px"><i>
+<p>[1] You have to have [minimum amount of DOTs](https://polkaview.network/dot){:target="_blank"} in order to nominate. </p>
+</i>
+</div>

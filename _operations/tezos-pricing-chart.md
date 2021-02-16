@@ -9,7 +9,7 @@ description: |
 
 <h1 style="text-align:center;">Tezos Baking Service Price list</h1>
 
-{% include _cryptocurrencies/tezos-pricelist.md %}
+{% include _cryptocurrencies/tezos_pricelist.md %}
 
 <div style="padding-top:15px"></div>
 [What is a signing kit?](/noncustodial-validator/)

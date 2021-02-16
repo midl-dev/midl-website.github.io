@@ -22,6 +22,8 @@
       href: "/polkadot_nominations/"
 - title: Ethereum 2.0
   href: "/ethereum/"
+- title: "Mina"
+  href: "/mina/"
 - title: "Open-source projects"
   href: "/tezos-suite/"
   sub:
@@ -31,5 +33,3 @@
   href: "/team/"
 - title: "Blog"
   href: "/blog/"
-- title: "Mina"
-  href: "/mina/"

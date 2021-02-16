@@ -21,10 +21,11 @@ At MIDL.dev we are excited to be part of the genesis program and support the eco
 
 ## Why MINA?
 
-MINA is a consistent-size blockchain, ~22kb. It aims at becoming the lightest and the most accessible blockchain protocol powered by recursive zero knowledge proofs (aka zk-SNARKs). We believe it is tackling the right problems and is well-positioned to succeed. 
+MINA is a constant-size blockchain, ~22kb. It aims at becoming the lightest and the most accessible blockchain protocol powered by recursive zero knowledge proofs (aka zk-SNARKs). We believe it is tackling the right problems and is well-positioned to succeed. 
 
 Read more here:
 [Technical white paper](https://minaprotocol.com/static/pdf/technicalWhitepaper.pdf){:target="_blank"}
+
 [Economics white paper](https://minaprotocol.com/static/pdf/economicsWhitepaper.pdf){:target="_blank"}
 
 ## Our technology
@@ -36,7 +37,7 @@ We operate a Mina validator node on Kubernetes. Our infrastructure is [open-sour
 Our Mina validator address is :
 
 <code style="font-size:75%;">B62qpXgAyh96eymS5ysvnCMyuQYT4WcGq66NsWgPciwE7GgUYyCibfG</code>  <a href="#!" onclick="clipboard.writeText('B62qpXgAyh96eymS5ysvnCMyuQYT4WcGq66NsWgPciwE7GgUYyCibfG');">⧉</a>
-{: style="color:gray; text-align: center;"}
+{: style="color:gray;"}
 
 MIDL.dev charges 5% commission fee.
 
@@ -46,4 +47,8 @@ Refer to the section [Delegating Mina](https://minaprotocol.com/docs/node-operat
 
 ## Inquire about a custom solution
 
-We can help you implement your Mina infrastructure project. We provide 24/7 monitoring, geographically distributed and highly available infrastructure. <a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a>
+We can help you implement your Mina infrastructure project. 
+
+We provide 24/7 monitoring, geographically distributed and highly available infrastructure. 
+
+<a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a>

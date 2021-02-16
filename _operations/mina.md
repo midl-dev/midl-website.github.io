@@ -24,6 +24,7 @@ At MIDL.dev we are excited to be part of the genesis program and support the eco
 Mina is a constant-size blockchain, ~22kb. It aims at becoming the lightest and the most accessible blockchain protocol powered by recursive zero knowledge proofs (aka zk-SNARKs). We believe it is tackling the right problems and is well-positioned to succeed. 
 
 Read more here:
+
 [Technical white paper](https://minaprotocol.com/static/pdf/technicalWhitepaper.pdf){:target="_blank"}
 
 [Economics white paper](https://minaprotocol.com/static/pdf/economicsWhitepaper.pdf){:target="_blank"}

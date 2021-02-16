@@ -24,5 +24,5 @@ Download free of charge daily Polkadot and Kusama snapshots on the [snapshot sit
 We use cutting edge Kubernetes technologies. Our snapshots engine is [open-source](https://github.com/midl-dev/polkadot-snapshot-generator){:target="_blank"}.
 
 
-More details can be found on the [snapshot page](https://polkashots.io/getting-started/){:target="_blank"} .
+More details can be found on the [snapshot page](https://polkashots.io/getting-started/){:target="_blank"}.
 

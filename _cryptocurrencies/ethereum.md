@@ -127,7 +127,7 @@ We eat our own dog food. We operate a validator ourselves. Rest assured that we 
 
 ## Contact us
 
-Schedule a meeting below, chat with us at the bottom right of the page, or [drop us an email](mailto:hello@midl.dev).
+[Schedule a meeting](/calendar/), chat with us at the bottom right of the page, or [drop us an email](mailto:hello@midl.dev).
 
 <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/nicolas-ochem?embed=true"></div>
 <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>

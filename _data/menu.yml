@@ -29,6 +29,8 @@
   sub:
     - title: "Tezos suite by MIDL.dev"
       href: "/tezos-suite/"
+- title: "Schedule a call"
+  href: "/calendar/"
 - title: "Team"
   href: "/team/"
 - title: "Blog"

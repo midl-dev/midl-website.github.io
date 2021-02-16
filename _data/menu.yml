@@ -1,5 +1,3 @@
-- title: "Staking as a Service"
-  href: "/staas/"
 - title: Tezos
   href: "/tezos/"
   sub:
@@ -24,8 +22,6 @@
   href: "/ethereum/"
 - title: "Mina"
   href: "/mina/"
-- title: "Open-source projects"
-  href: "/tezos-suite/"
   sub:
     - title: "Tezos suite by MIDL.dev"
       href: "/tezos-suite/"
@@ -35,3 +31,11 @@
   href: "/team/"
 - title: "Blog"
   href: "/blog/"
+- title: "About"
+  sub:
+    - title: "Staking as a Service"
+      href: "/staas/"
+    - title: "Open-source projects"
+      href: "/tezos-suite/"
+    - title: "Team"
+      href: "/team/"

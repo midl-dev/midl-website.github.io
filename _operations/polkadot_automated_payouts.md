@@ -1,5 +1,5 @@
 ---
-layout: subscription
+layout: default
 img: Polkadot_logo.png
 status: Available now
 category: Services

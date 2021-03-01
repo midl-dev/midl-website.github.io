@@ -1,11 +1,11 @@
 <section id="kusama_payouts">
     <ul class="flex-container" style="display:table; margin-left: auto; margin-right: auto;">
-    <form action="/polkadot-automated-payouts-checkout/" method="get">
+    <form action="/kusama-automated-payouts-checkout/" method="get">
     <div class=".midl-table-view-offering">
         <div class="card btn-no-waves">
             <div class="card-body" style="text-align: center;">
                 <div class="table-responsive">
-                <table class="table table-borderless" style="padding:0px; border:0px;">
+                <table class="table table-borderless" style="padding:0px;">
                     <thead>
                     <tr>
                         <th style="border-top:none; border-bottom:none;" colspan="1" scope="col" class="midl-table-title">Automated Kusama Payouts Subscription</th>

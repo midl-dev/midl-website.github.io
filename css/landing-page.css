@@ -371,14 +371,13 @@ h2.section-heading {
      * flex-wrap: wrap;
      */
     flex-flow: row wrap;
-    
     /* Then we define how is distributed the remaining space */
     justify-content: space-evenly;
-    
     padding: 0;
     margin: 0;
     list-style: none;
   }
+
   
   .flex-item {
     /*background: #f8f8f8; */
@@ -443,6 +442,11 @@ table {
     border-collapse: inherit;
     padding: 9px;
 }
+
+.table-borderless td {
+      border: 0px;
+}
+  
 
 table.tezos-earnings-table td {
     font-size: inherit;

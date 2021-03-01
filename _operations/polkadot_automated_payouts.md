@@ -13,12 +13,12 @@ description: |
 ---
 
 <h3>Onboard your validator for automated payouts</h3>
-<p>Polkadot and Kusama nominator expect regular payouts. While anyone can trigger payout, is it expected that the validator will do it regularly. If they are not claimed for some time, payouts are destroyed.</p>
+<p>Polkadot and Kusama nominator expect regular payouts. While anyone can trigger payout, it is expected that the validator will do it regularly. If they are not claimed for some time, payouts are destroyed.</p>
 <p>Our service relieves you of the task of regularly logging in to the Polkadot/Kusama UI to trigger your outstanding payouts.</p>
 <h2>Who is this service for?</h2>
-<ul><li><b>Validators</b> that want to ensure that they pay their nominators on time</li>
-<li><b>Validators</b> that deployed their own payout script but want a backup service to take over in case their infrastructure fails</li>
-<li><b>Nominators</b> that want the peace of mind of knowing that they will get their rewards regardless of their validator's diligence</li>
+<ul><li><b>Validators</b> who want to ensure that they pay their nominators on time</li>
+<li><b>Validators</b> who deployed their own payout script but want a backup service to take over in case their infrastructure fails</li>
+<li><b>Nominators</b> who want the peace of mind of knowing that they will get their rewards regardless of their validator's diligence</li>
 </ul>
 <h2>How does it work?</h2>
 <p>We (MIDL.dev) operate Polkadot validation infrastructure, which includes automated payouts. We make this available to anyone for a fee.</p>

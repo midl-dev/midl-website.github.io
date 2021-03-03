@@ -20,6 +20,8 @@
       href: "/polkadot/"
     - title: "Nominate us"
       href: "/polkadot_nominations/"
+    - title: "Automated payouts"
+      href: "/polkadot-automated-payouts/"
     - title: "Polkadot snapshots"
       href: "/polkashots/"
 - title: Ethereum 2.0

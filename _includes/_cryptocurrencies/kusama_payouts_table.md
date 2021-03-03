@@ -19,7 +19,7 @@
                         <td style="border:0px;"><input name="email" required placeholder="Enter your email address" class="form-control" type="email"/></td>
                     </tr>
                     <tr>
-                        <td style="border:0px;"><input name="stash" required placeholder="Enter your stash account" class="form-control"></td>
+                        <td style="border:0px;"><input name="stash" required placeholder="Enter your stash account address" class="form-control"></td>
                     </tr>
                     <tr>
                         <td style="border:0px;" colspan="1"><button class="btn btn-lg btn-elegant">Subscribe</button></td>

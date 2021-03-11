@@ -14,7 +14,7 @@ description: |
 
 <h2>Automated Polkadots and Kusama payouts by MIDL.dev</h2>
 <h3>Onboard your validator for automated payouts</h3>
-<p>Polkadot and Kusama nominator expect regular payouts. While <a href="https://wiki.polkadot.network/docs/en/learn-simple-payouts" target="_blank">anyone can trigger payouts</a>, it is expected that the validator will do it regularly. If they are not claimed for some time, payouts are destroyed.</p>
+<p>Polkadot and Kusama nominators expect regular payouts. While <a href="https://wiki.polkadot.network/docs/en/learn-simple-payouts" target="_blank">anyone can trigger payouts</a>, it is expected that the validator will do it regularly. If they are not claimed for some time, payouts are destroyed.</p>
 <p>Our service relieves you of the task of regularly logging in to the Polkadot/Kusama UI to trigger your outstanding payouts.</p>
 
 <h4>Subscribe to automated payouts for your Kusama validator</h4>

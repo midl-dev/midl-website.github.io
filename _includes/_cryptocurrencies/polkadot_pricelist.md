@@ -14,11 +14,11 @@
                     <tbody>
                     <tr>
                         <td>Kusama validator</td>
-                        <td>79 USD</td>
+                        <td>149 USD</td>
                     </tr>
                     <tr>
                         <td>Polkadot validator</td>
-                        <td>199 USD</td>
+                        <td>299 USD</td>
                     </tr>
                     <tr>
                         <td>Custom solution</td>

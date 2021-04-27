@@ -14,7 +14,7 @@ description: |
 tags: [Supported Cryptocurrencies]
 ---
 
-# MIDL.dev is ready for Genesis block launch.
+# MIDL.dev is a Mina validator since Genesis.
 <script src="{{ base.url | prepend: site.url }}/js/clipboard-polyfill.promise.js"></script>
 
 At MIDL.dev we are excited to be part of the genesis program and support the ecosystem.

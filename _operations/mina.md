@@ -37,14 +37,16 @@ We operate a Mina validator node on Kubernetes. Our infrastructure is [open-sour
 
 Our Mina validator address is :
 
-<code style="font-size:75%;">B62qpXgAyh96eymS5ysvnCMyuQYT4WcGq66NsWgPciwE7GgUYyCibfG</code>  <a href="#!" onclick="clipboard.writeText('B62qpXgAyh96eymS5ysvnCMyuQYT4WcGq66NsWgPciwE7GgUYyCibfG');">⧉</a>
+<code style="font-size:75%;">B62qj2tZS6SxPMfzFAvVxR6ZMfryVotdhMUwPx1C3EAhgqFEJAAqUXX</code>  <a href="#!" onclick="clipboard.writeText('B62qj2tZS6SxPMfzFAvVxR6ZMfryVotdhMUwPx1C3EAhgqFEJAAqUXX');">⧉</a>
 {: style="color:gray;"}
+
+[See on Minaexplorer.com](https://minaexplorer.com/wallet/B62qj2tZS6SxPMfzFAvVxR6ZMfryVotdhMUwPx1C3EAhgqFEJAAqUXX)
 
 MIDL.dev charges 5% commission fee.
 
 ### How to delegate to us
 
-Refer to the section [Delegating Mina](https://minaprotocol.com/docs/node-operator){:target="_blank"} on the official guide.
+Refer to the section [Delegating Mina]( https://docs.minaprotocol.com/en/using-mina/staking){:target="_blank"} on the official guide.
 
 ## Inquire about a custom solution
 

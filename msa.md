@@ -31,7 +31,7 @@ This Master Services Agreement (“MSA” or “GSA”) is between MIDLDEV OÜ, 
 <a href="#MSA19">19. Miscellaneous</a><br>
 <a href="#MSA20">20. Signature</a><br>
 <a href="#MSA21">Schedule 1. Defined Terms</a><br>
-<a href="#MSA22">Acceptable User Policy</a><br>
+<a href="#MSA22">Acceptable Use Policy</a><br>
 
 
 1. <p id ="MSA1" class="xtarget">DEFINED TERMS.<a class="up" href="#MSA0"> <i class="fa fa-caret-up"></i></a></p> 
@@ -197,7 +197,7 @@ financial records; and (iii) other sensitive or regulated information.
 
 
 
-<h3 id ="MSA22" class="xtarget">ACCEPTABLE USER POLICY<a class="up" href="#MSA0"> <i class="fa fa-caret-up"></i></a></h3>
+<h3 id ="MSA22" class="xtarget">ACCEPTABLE USE POLICY<a class="up" href="#MSA0"> <i class="fa fa-caret-up"></i></a></h3>
 
 This Acceptable Use Policy (“AUP”) describes activities prohibited on the MIDLDEV OÜ platform for the protection of MIDLDEV OÜ and its Representatives, Services, network and other customers.
 

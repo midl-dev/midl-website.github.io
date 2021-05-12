@@ -37,10 +37,6 @@
                         <td><a href="https://polkascan.io/pre/kusama/account/1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T" target="_blank">View</a></td>
                         <td><a href="https://polkadot.js.org/apps/#/staking/query/1JoBYyPoUdsuU7vZi3KgQAaQYn6WhKqUDXRDmsaJ8Zgxr4T" target="_blank">View</a></td>
                     </tr>
-                    <tr>
-                        <td colspan="5">[1] You have to have <a style="color: #fb9300;text-decoration: underline;" href="https://polkaview.network/dot" target="_blank">a minimum amount of DOTs</a> in order to nominate.
-                        </td>
-                    </tr>
                     </tbody>
                 </table>
             </div>

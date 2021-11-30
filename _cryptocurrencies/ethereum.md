@@ -117,9 +117,7 @@ We have expertise in operating validators in several blockchains.
 
 We run [Prysm](https://prylabs.net/) in our geograpically distributed Kubernetes cluster. We monitor the setup 24/7.
 
-We use Alchemy, a trusted Eth 1.0 provider, for Ethereum 1.0 connectivity.
-
-<a href="https://dashboard.alchemyapi.io/signup?referral=0e16a3dd-3ea8-4399-a9e2-e5598e3ef882"><img style="width:240px;height:53px" src="https://static.alchemyapi.io/images/marketing/badge.png" alt="Alchemy Supercharged" /></a>
+We run our own instance of Geth as Ethereum 1.0 node.
 
 We are paranoid about security. We keep the nodes up-to-date.
 

@@ -15,31 +15,25 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td>1-11 Rolls</td>
+                        <td>6k-60k tez</td>
                         <td>99 USD</td>
                         <td>149 USD</td>
                         <td>1</td>
                     </tr>
                     <tr>
-                        <td>12-29 Rolls</td>
+                        <td>60k-174k tez</td>
                         <td>149 USD</td>
                         <td>249 USD</td>
                         <td>2</td>
                     </tr>
                     <tr>
-                        <td>30-49 Rolls</td>
+                        <td>174k-294k tez</td>
                         <td>249 USD</td>
                         <td>419 USD</td>
                         <td>3</td>
                     </tr>
                     <tr>
-                        <td>50-69 Rolls</td>
-                        <td>449 USD</td>
-                        <td>699 USD</td>
-                        <td>4</td>
-                    </tr>
-                    <tr>
-                        <td>70+ Rolls</td>
+                        <td>Enterprise</td>
                         <td><a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a></td>
                         <td><a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a></td>
                         <td>4</td>
@@ -58,7 +52,7 @@
 </ul>
 </section>
 <div style="padding-top:15px"><i>
-<p>[1] 1 Roll = 8000 XTZ, minimum 1 Roll is required for baking.</p>
+<p>[1] Minimum 6000 tez is required for baking.</p>
 <p>[2] Service Tier 1: one remote signer, shared Tezos nodes, shared Kubernetes control plane<br/>
 Service Tier 2: one remote signer, dedicated Tezos nodes, shared Kubernetes control plane<br/>
 Service Tier 3: one remote signer, dedicated Tezos nodes, dedicated Kubernetes control plane<br/>

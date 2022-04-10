@@ -53,7 +53,7 @@ Below are several examples that compare rewards and costs between delegation and
 When you bake on your own, this is what you make - 5% annually.</i>
 
 <div style="padding-top:15px"></div>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcih5DzhUSzsQ6AGOqMSooVBSaKsNmoInyNTPdvsS0opmuyRxMbzL8ttL7Wc4_3ia055609VWZU71j/pubhtml?gid=1643664373&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="720"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcih5DzhUSzsQ6AGOqMSooVBSaKsNmoInyNTPdvsS0opmuyRxMbzL8ttL7Wc4_3ia055609VWZU71j/pubhtml?gid=1643664373&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false" width="700" height="720"></iframe>
 
 #### Delegation tips
 * Select your baker platform based on its efficiency and fee structure

@@ -69,3 +69,4 @@ There are a number of websites that provide a valuable metrics for public bakers
 [Baking-bad](https://baking-bad.org/)
 
 <i>Some metrics might not be 100% accurate or apply to all bakers.</i>
+

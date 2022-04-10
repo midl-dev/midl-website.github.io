@@ -31,7 +31,7 @@ You might find it entertaining to spend your evenings on reading through white p
 
 <b>Do you want to take advantage of earning rather than paying delegation fees?</b>
 
-Only a baker can become a delegator (a.k.a. a public baker) and earn rewards in terms of delegation fees. It of course depends on your staking capacity and its utilization. The more capacity you have, the more lucrative a public baker offering is. Not only you earn additional rewards, you provide a platform for smaller token holders to participate in the network. This essentially creates a positive feedback loop that drives improvements to the network. The better network performs and the more it engages the public, the higher value you can expect from your tokens.
+You can become a public baker and earn rewards in terms of delegation fees. It of course depends on your staking capacity and its utilization. The more capacity you have, the more lucrative a public baker offering is. Not only you earn additional rewards, you provide a platform for smaller token holders to participate in the network. This essentially creates a positive feedback loop that drives improvements to the network. The better network performs and the more it engages the public, the higher value you can expect from your tokens.
 
 <b>Do you want to participate in on-chain governance?</b>
 

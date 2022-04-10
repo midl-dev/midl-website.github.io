@@ -60,7 +60,7 @@ When you bake on your own, this is what you make - 5% annually.</i>
 * Review payouts history of the baker to ensure that payouts are consistent
 * Ensure your baker offers a communication/support channel
 * Confirm whether a baker has sufficient staking capacity
-* Monitor your baker's activity on regular basis and redelegate the tokens if your baker announces the closure.
+* Monitor your baker's activity on regular basis and redelegate the tokens if your baker announces their closure.
 
 There are a number of websites that provide a valuable metrics for public bakers:
 

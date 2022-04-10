@@ -15,4 +15,4 @@ description: |
 [What is a signing kit?](/noncustodial-validator/)
 
 <div style="padding-top:15px;text-align:center"></div>
-[Should I bake or delegate?]({% post_url 2022-04-06-Bake-or-delegate %})
+[Should I bake or delegate?]({% post_url 2022-04-09-Bake-or-delegate %})

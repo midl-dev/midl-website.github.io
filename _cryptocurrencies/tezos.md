@@ -21,7 +21,7 @@ All we take is a monthly fee - in fiat currency - to manage your infrastructure.
 We eat our own dog food. We are operating a public baker and we maintain the [Tezos suite](/tezos-suite/) of open-source software for safe distributed baking.
 
 <div style="padding-top:15px;text-align:center"></div>
-Not sure if baking is the right solution for you: [bake or delegate?]({% post_url 2020-05-26-Bake-or-delegate %})
+Not sure if baking is the right solution for you: [bake or delegate?]({% post_url 2022-04-06-Bake-or-delegate %})
 {% include _cryptocurrencies/service_types_table.md %}
 
 <div style="padding-top:15px;"></div>

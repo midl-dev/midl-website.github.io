@@ -16,6 +16,7 @@ description: |
 <h3>Onboard your validator for automated payouts</h3>
 <p>Polkadot and Kusama nominators expect regular payouts. While <a href="https://wiki.polkadot.network/docs/en/learn-simple-payouts" target="_blank">anyone can trigger payouts</a>, it is expected that the validator will do it regularly. If they are not claimed for some time, payouts are destroyed.</p>
 <p>Our service relieves you of the task of regularly logging in to the Polkadot/Kusama UI to trigger your outstanding payouts.</p>
+<p>We also provide a <a href="/polkadot-vote-bot">voting bot service</a> for your validator.</p>
 
 <h4>Subscribe to automated payouts for your Kusama validator</h4>
 {% include _cryptocurrencies/kusama_payouts_table.md %}
@@ -40,4 +41,4 @@ description: |
 <h4>How do I unsubscribe from the payout service?</h4>
 <p>Send an email to <a href="mailto:hello@midl.dev">hello@midl.dev</a>.</p>
 <h4>What are the terms and conditions?</h4>
-<p>Unless required by applicable law or agreed to in writing, MIDL.dev provides a service on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using our services.</p>
+<p>Unless required by applicable law or agreed to in writing, MIDLDEV OÜ provides a service on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using our services.</p>

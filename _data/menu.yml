@@ -9,8 +9,6 @@
       href: "/tezos-full-node/"
     - title: "Tezos Private Chain"
       href: "/tezos-private-chain/"
-    - title: "Tezos snapshots"
-      href: "/xtz-shots/"
     - title: "Tezos suite by MIDL.dev"
       href: "/tezos-suite/"
 - title: Polkadot
@@ -22,6 +20,8 @@
       href: "/polkadot_nominations/"
     - title: "Automated payouts"
       href: "/polkadot-automated-payouts/"
+    - title: "Vote bot"
+      href: "/polkadot-vote-bot/"
     - title: "Polkadot snapshots"
       href: "/polkashots/"
 - title: Ethereum 2.0

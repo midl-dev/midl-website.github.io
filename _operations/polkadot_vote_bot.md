@@ -19,13 +19,11 @@ description: |
 <p>Our votes are <a href="https://github.com/midl-dev/dotsama-votes" target="_blank">publicly documented</a> and you can always override them if you disagree.</p>
 <p>We also provide an <a href="/polkadot-automated-payouts"> automated payout service</a> for your validator.</p>
 
-<h4>Subscribe to automated governance votes for your Kusama validator</h4>
-<p>First, register our vote bot as governance proxy for your account. Its address is <a href="https://kusama.subscan.io/account/HhhJ5buaF8ZWSMBBSG2AmjY66caSomrzJyFH4CZkGoWNyYc" target="_blank"><code>HhhJ5buaF8ZWSMBBSG2AmjY66caSomrzJyFH4CZkGoWNyYc</code></a>. Then fill the form below.</p>
-{% include _cryptocurrencies/kusama_votebot_table.md %}
+<h4>Subscribe to automated governance votes for your Kusama validator for US$14.99 per month</h4>
+<p>First, register our vote bot as governance proxy for your account. Its address is <a href="https://kusama.subscan.io/account/HhhJ5buaF8ZWSMBBSG2AmjY66caSomrzJyFH4CZkGoWNyYc" target="_blank"><code>HhhJ5buaF8ZWSMBBSG2AmjY66caSomrzJyFH4CZkGoWNyYc</code></a>. Then contact us at <a href="mailto:hello@midl.dev">hello@midl.dev</a>.
 <p></p>
-<h4>Subscribe to automated goverenance votes for your Polkadot validator</h4>
-<p>First, register our vote bot as governance proxy for your account. Its address is <a href="https://polkadot.subscan.io/account/1LP7WM89gNvGqYwQKyf7W8nLssZDr447SNG2KFSze9zKZwh" target="_blank"><code>1LP7WM89gNvGqYwQKyf7W8nLssZDr447SNG2KFSze9zKZwh</code></a>. Then fill the form below.</p>
-{% include _cryptocurrencies/polkadot_votebot_table.md %}
+<h4>Subscribe to automated goverenance votes for your Polkadot validator for US$29.99 per month</h4>
+<p>First, register our vote bot as governance proxy for your account. Its address is <a href="https://polkadot.subscan.io/account/1LP7WM89gNvGqYwQKyf7W8nLssZDr447SNG2KFSze9zKZwh" target="_blank"><code>1LP7WM89gNvGqYwQKyf7W8nLssZDr447SNG2KFSze9zKZwh</code></a>. Then contact us at <a href="mailto:hello@midl.dev">hello@midl.dev</a></p>
 
 
 <h3>Frequently asked questions</h3>

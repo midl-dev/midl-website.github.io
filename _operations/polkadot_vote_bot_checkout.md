@@ -7,7 +7,7 @@ subTitle: Automated votes for your validator.
 staker: 
 short_title: 
 crypto_name: Polkadot
-permalink: /polkadot-automated-votebot-checkout/
+permalink: /polkadot-vote-bot-checkout/
 description: | 
 ---
 

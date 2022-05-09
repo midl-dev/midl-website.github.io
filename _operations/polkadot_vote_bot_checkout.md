@@ -12,7 +12,7 @@ description: |
 ---
 
 <h3>Proceed to payment</h3>
-<p>Automated Payouts for Polkadot vote bot</p>
+<p>Automated vote bot service for Polkadot validator</p>
 <p>Recurring monthly price: US$29.99</p>
 
 {% include _cryptocurrencies/polkadot_automated_votebot.html %}

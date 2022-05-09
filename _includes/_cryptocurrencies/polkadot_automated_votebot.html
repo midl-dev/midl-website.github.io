@@ -4,10 +4,10 @@
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <button
   style="background-color:#fb9300;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-price_1KxJrVA1ymcgaoVIXOfLcDbm"
+  id="checkout-button-price_1KxJcQA1ymcgaoVIn2WQcxKy"
   role="link"
   type="button"
->
+></button>
   Checkout
 </button>
 
@@ -17,14 +17,14 @@
 (function() {
   var stripe = Stripe('pk_live_51H1fFNA1ymcgaoVIsdipNeH1wUCYhXqLmcwoUiaoMOCpCJrrL7LoHGgiDitsWjrjnCQK2TQ7RjQVGl73bzRRTJrE00dh9FcdL8');
 
-  var checkoutButton = document.getElementById('checkout-button-price_1KxJrVA1ymcgaoVIXOfLcDbm');
+  var checkoutButton = document.getElementById('checkout-button-price_1KxJcQA1ymcgaoVIn2WQcxKy');
   checkoutButton.addEventListener('click', function () {
     /*
      * When the customer clicks on the button, redirect
      * them to Checkout.
      */
     stripe.redirectToCheckout({
-      lineItems: [{price: 'price_1KxJrVA1ymcgaoVIXOfLcDbm', quantity: 1}],
+      lineItems: [{price: 'price_1KxJcQA1ymcgaoVIn2WQcxKy', quantity: 1}],
       mode: 'subscription',
       /*
        * Do not rely on the redirect to the successUrl for fulfilling
@@ -48,4 +48,5 @@
     });
   });
 })();
-</script>
+</script> 
+

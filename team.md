@@ -15,7 +15,7 @@ Nicolas has 10 years experience managing cloud and on-prem infrastructure, and w
 
 ### Oksana Protsukha - founder
 
-Oksana has 10 year experience in the fintech industry and was most recently working at Tesla.
+Oksana has 10 years experience in the fintech industry and was most recently working at Tesla.
 
 <img src="/img/midl-oksana.jpeg"/>
 
@@ -23,7 +23,7 @@ Oksana has 10 year experience in the fintech industry and was most recently work
 
 ### Chao Zhang - Engineer
 
-Chao has 8 year experience of cloud and on-premise infra management along with software development, was most recently working at Nokia.
+Chao has 8 years experience of cloud and on-premise infra management along with software development, was most recently working at Nokia.
 
 <img src="/img/midl-chao.jpeg"/>
 

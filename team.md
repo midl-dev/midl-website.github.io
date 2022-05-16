@@ -21,6 +21,14 @@ Oksana has 10 year experience in the fintech industry and was most recently work
 
 [LinkedIn Profile](https://www.linkedin.com/in/oksanaprotsukha/)
 
+### Chao Zhang - Engineer
+
+Chao has 8 year experience of cloud and on-premise infra management along with software development, was most recently working at Nokia.
+
+<img src="/img/midl-chao.jpeg"/>
+
+[LinkedIn Profile](https://www.linkedin.com/in/chao-zhang-0326/)
+
 ### Join us
 
 We are always looking to grow the team. [Contact us](mailto:hello@midl.dev)

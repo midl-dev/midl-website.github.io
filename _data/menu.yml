@@ -6,7 +6,7 @@
     - title: "Price list"
       href:  "/tezos-pricing-chart/"
     - title: Tezos RPC Service
-      href: "/tezos-rpc-service/"
+      href: "/tezos-rpc/"
 - title: Polkadot
   href: "/polkadot/"
   sub:

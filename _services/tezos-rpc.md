@@ -40,6 +40,34 @@ We use:
 </div>
 
 <br>
+### Frequently asked questions
+
+**How do I register for the service?**
+
+Create an account on the [portal](https://apps.midl.dev) and create an RPC. You will be prompted for a payment method, then your RPC will be immediately provisioned.
+
+**Does the service work with a web frontend?**
+
+Yes, the service is accessible from around the globe and can be configured as back-end for a Tezos web application (DeFi, NFT etc).
+
+**How is the RPC endpoint secured?**
+
+There is no authentication method: the endpoint is accessible to everyone without restriction. The URL is unique and private to your account. It is recommended that you do not share it.
+
+Additionally, we are working on adding restriction on CORS origin (so that the endpoint only works on your web app), and IP-based whitelisting for backend apps.
+
+**How can I pay for the service?**
+
+You can pay the service with credit card, Google Pay or Apple Pay.
+
+**What are the payment terms?**
+
+We are billing monthly, starting one month after your registration date.
+
+**How can I check my consumption?**
+
+The portal updates your current usage once a day.
+
 ### Other MIDL.dev services
 
 We can help you become a [Tezos baker](/tezos).

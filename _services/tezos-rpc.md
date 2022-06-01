@@ -17,7 +17,7 @@ tags: [Services]
 
 Our full nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
 
-We take care of hosting, synchronizing and maintaining the nodes freeing space for our customers to innovate and focus on the high-level services on top of Tezos network.
+We take care of hosting, synchronizing and maintaining the nodes. We give you space to innovate and focus on the high-level services on top of Tezos network.
 
 We use:
 * multi-cloud with DigitalOcean and OVH as cloud providers
@@ -26,8 +26,14 @@ We use:
 ## Pricing
 
 * first 100,000 RPC requests are **free**
-* then, pay US$50 per additional 1,000,000 requests
-* testnet RPC is provided **free of charge**
+* then, pay US$7 per additional 1,000,000 requests
+* Tezos Testnet RPC is provided **free of charge**
+
+<div class="banner" style="width: 100vw; position:relative; margin-top: 50px; margin-left: -50vw; left:49%; ">
+<p><h3 style="text-align:center;">Powering the best in Tezos</h3><br/>
+<h3 style="text-align:center;"><img src='/img/plenty.svg' style="margin-top:30px;"/></h3>
+</p>
+</div>
 
 <br>
 ### Other MIDL.dev services

@@ -36,9 +36,9 @@ description: |
 <p>In order for us to vote on your behalf, you need to give us the power to do so. Polkadot/Kusama has a concept of proxy accounts. You need to configure our vote bot as your Governance proxy.</p>
 <p>This is a perfectly safe thing to do: the protocol ensures that you delegate voting rights to us and nothing else. Specifically we are not able to transfer any balance out of the account.</p>
 <h4>How to set up a Governance proxy?</h4>
-<p><b>Step 1:</b> In the "Accounts" page of the Polkadot-JS UI, click on the three dots at the right of your validator and select "Manage proxies":</p>
-<p><img src="/img/services/votebot/00.png"/></p>
-<p><b>Step 2:</b> Click the "+" button to add a proxy, copy MIDL.dev bot address in the "proxy account" field and select "Governance" as proxy type.</p>
+<p><b>Step 1:</b> In the "Developer/Extrinsics" page of the Polkadot-JS UI, select your validator and submit the extrinsic "proxy/addProxy()":</p>
+<p><img src="/img/services/votebot/00.png" width="600px"/></p>
+<p><b>Step 2:</b> Copy MIDL.dev vote bot address above in the "delegate" field and select "Governance" as proxy type, "0" as delay. Validate. Approve on your Ledger device (you need it connected).</p>
 <p><img src="/img/services/votebot/01.png" width="600px"/></p>
 <p>Be careful! Only configure our address as Governance proxy and nothing else. If you give us too many proxy powers, we will get in touch to remediate this.</p>
 <p><b>Step 3:</b> Verify that the blue Proxy icon appears on the left.</p>

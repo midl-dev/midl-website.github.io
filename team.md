@@ -29,6 +29,8 @@ Chao has 8 years experience of cloud and on-premise infra management along with 
 
 [LinkedIn Profile](https://www.linkedin.com/in/chao-zhang-0326/)
 
+### Xavier Rondé-Oustau - General Counsel
+
 ### Join us
 
 We are always looking to grow the team. [Contact us](mailto:hello@midl.dev)

@@ -2,7 +2,7 @@
 layout: subscription
 img: Polkadot_logo.png
 category: Services
-title: Midl.dev - Automated payouts
+title: MIDL.dev - Automated payouts
 subTitle: Automated payouts for your validator.
 staker: 
 short_title: 

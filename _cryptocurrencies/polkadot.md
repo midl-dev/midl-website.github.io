@@ -4,7 +4,7 @@ img: Polkadot_logo.png
 status: Available now
 staker: Become a validator
 category: Services
-title: Midl.dev - Polkadot
+title: MIDL.dev - Polkadot
 subTitle: Become a validator.<br/>Maximize your earnings.
 short_title: polkadot
 permalink: /polkadot/

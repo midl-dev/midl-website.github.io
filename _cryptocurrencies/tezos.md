@@ -3,7 +3,7 @@ layout: cryptos
 img: Tezos_logo.png
 status: Available now
 category: Services
-title: Midl.dev - Tezos
+title: MIDL.dev - Tezos
 subTitle: Become a baker.<br/>Maximize your earnings.
 staker: Become a baker
 short_title: tezos

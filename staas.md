@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midl.dev - Staking as a service
+title: MIDL.dev - Staking as a service
 subTitle: Staking as a service
 ---
 # Staking as a service
@@ -29,7 +29,7 @@ Some delegates are opaque entities, other are well-known cryptocurrency exchange
 
 ### The MIDL way
 
-Midl.dev introduces a third way, suitable for people who have enough assets that they wish they could directly participate to the network - but not quite enough to mobilize the technological and human requirements to do so.
+MIDL.dev introduces a third way, suitable for people who have enough assets that they wish they could directly participate to the network - but not quite enough to mobilize the technological and human requirements to do so.
 
 <p class="img-in-blog">
 <img src="/img/services/Charlene.png" height="400px"/>

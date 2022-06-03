@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Midl.dev - Tezos calculation
+title: MIDL.dev - Tezos calculation
 permalink: /tezos/figures/
 ---
 
-# Calculation of rewards when baking with Midl.dev
+# Calculation of rewards when baking with MIDL.dev
 
 {% include _cryptocurrencies/tezos_table.md %}
 

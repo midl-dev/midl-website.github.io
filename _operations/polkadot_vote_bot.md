@@ -3,7 +3,7 @@ layout: default
 img: Polkadot_logo.png
 status: Available now
 category: Services
-title: Midl.dev - Polkadot/Kusama Vote Bot
+title: MIDL.dev - Polkadot/Kusama Vote Bot
 subTitle: Automated governance votes for your validator.
 staker: 
 short_title: 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midl.dev - Staking as a service
+title: MIDL.dev - Staking as a service
 subTitle: Tezos suite
 ---
 

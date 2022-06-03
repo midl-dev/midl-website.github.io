@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midl.dev - The team
+title: MIDL.dev - The team
 ---
 
 # The team

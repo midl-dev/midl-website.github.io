@@ -3,7 +3,7 @@ layout: default
 img: Polkadot_logo.png
 status: Available now
 category: Services
-title: Midl.dev - Polkadot/Kusama Automated Payouts
+title: MIDL.dev - Polkadot/Kusama Automated Payouts
 subTitle: Automated payouts for your validator.
 staker: 
 short_title: 

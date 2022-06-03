@@ -2,7 +2,7 @@
 layout: default
 img: signing-kit.jpeg
 category: Services
-title: Midl.dev - The signing kit
+title: MIDL.dev - The signing kit
 permalink: /noncustodial-validator/
 description: |
 ---

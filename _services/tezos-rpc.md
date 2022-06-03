@@ -3,7 +3,7 @@ layout: cryptos
 img: midl_full_node.svg
 status: 
 category: Services
-title: Midl.dev - Full node-as-a-service.
+title: MIDL.dev - Full node-as-a-service.
 subTitle: Innovate with Tezos.<br/>We maintain the nodes.
 short_title: Tezos RPC Service
 permalink: /tezos-rpc/

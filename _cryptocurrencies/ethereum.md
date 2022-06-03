@@ -4,7 +4,7 @@ img: Ethereum_logo.png
 status: Available now
 staker: Become a validator
 category: Services
-title: Midl.dev - Ethereum 2.0
+title: MIDL.dev - Ethereum 2.0
 subTitle: Become a validator.<br/>Maximize your earnings.
 staker: Become a validator
 short_title: ethereum

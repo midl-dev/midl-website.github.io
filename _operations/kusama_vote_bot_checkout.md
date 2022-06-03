@@ -2,7 +2,7 @@
 layout: subscription
 img: Polkadot_logo.png
 category: Services
-title: Midl.dev - Automated voting
+title: MIDL.dev - Automated voting
 subTitle: Automated voting for your validator.
 staker: 
 short_title: 

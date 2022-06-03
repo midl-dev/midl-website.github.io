@@ -4,7 +4,7 @@ img:
 status: Available Now
 staker: 
 category: Services
-title: Midl.dev - Validate with us on Polkadot
+title: MIDL.dev - Validate with us on Polkadot
 subTitle: Become a nominator.<br/>Earn rewards.
 short_title: polkadot_nominations
 permalink: /polkadot_nominations/

@@ -3,7 +3,7 @@ layout: cryptos
 img: Polkadot_logo.png
 status: Available now
 category: Services
-title: Midl.dev - Polkadot snapshots
+title: MIDL.dev - Polkadot snapshots
 subTitle: Innovate with Polkadot.<br/>We provide the snapshots.
 staker: 
 short_title: polkashots

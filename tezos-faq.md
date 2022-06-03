@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midl.dev - Tezos - Frequently asked questions
+title: MIDL.dev - Tezos - Frequently asked questions
 ---
 
 ## Tezos Frequently asked questions

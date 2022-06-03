@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Midl.dev - Frequently asked questions
+title: MIDL.dev - Frequently asked questions
 ---
 
 ## Frequently asked questions

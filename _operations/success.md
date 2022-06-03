@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Services
-title: Midl.dev - Automated payouts
+title: MIDL.dev - Automated payouts
 short_title: success
 permalink: /success/
 description: | 

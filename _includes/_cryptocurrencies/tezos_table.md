@@ -16,13 +16,13 @@
       <td>12,021 XTZ</td>
     </tr>
     <tr>
-      <td>Solo baking with Midl.dev</td>
+      <td>Solo baking with MIDL.dev</td>
       <td>10,000 XTZ</td>
       <td>10,500 XTZ</td>
       <td>12,763 XTZ</td>
     </tr>
     <tr>
-      <td>Public baking with Midl.dev</td>
+      <td>Public baking with MIDL.dev</td>
       <td>10,000 XTZ</td>
       <td>10,850 XTZ</td>
       <td>15,037 XTZ</td>

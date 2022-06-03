@@ -4,7 +4,7 @@ img:
 status: Pending
 staker: 
 category: Services
-title: Midl.dev - Mina
+title: MIDL.dev - Mina
 subTitle: Become a validator.<br/>
 short_title: mina
 permalink: /mina/

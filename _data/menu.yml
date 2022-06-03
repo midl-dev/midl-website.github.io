@@ -5,12 +5,8 @@
       href: "/tezos/"
     - title: "Price list"
       href:  "/tezos-pricing-chart/"
-    - title: Tezos Hosted node
-      href: "/tezos-full-node/"
-    - title: "Tezos Private Chain"
-      href: "/tezos-private-chain/"
-    - title: "Tezos suite by MIDL.dev"
-      href: "/tezos-suite/"
+    - title: Tezos RPC Service
+      href: "/tezos-rpc/"
 - title: Polkadot
   href: "/polkadot/"
   sub:
@@ -20,16 +16,14 @@
       href: "/polkadot_nominations/"
     - title: "Automated payouts"
       href: "/polkadot-automated-payouts/"
-    - title: "Vote bot"
+    - title: "Vote Bot"
       href: "/polkadot-vote-bot/"
-    - title: "Polkadot snapshots"
+    - title: "Polkadot Snapshots"
       href: "/polkashots/"
 - title: Ethereum 2.0
   href: "/ethereum/"
 - title: "Mina"
   href: "/mina/"
-- title: "Schedule a call"
-  href: "/calendar/"
 - title: "About"
   sub:
     - title: "Staking as a Service"

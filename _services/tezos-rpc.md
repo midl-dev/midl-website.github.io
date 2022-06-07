@@ -50,6 +50,10 @@ Create an account on the [portal](https://apps.midl.dev) and create an RPC. You 
 
 Yes, the service is accessible from around the globe and can be configured as back-end for a Tezos web application (DeFi, NFT etc).
 
+**What kind of nodes are you running?**
+
+We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling storage mode. This is not an archive node service. Rolling storage is useful for web applications (DeFI, NFT) but can not be used for querying old blocks or indexing the chain.
+
 **How is the RPC endpoint secured?**
 
 There is no authentication method: the endpoint is accessible to everyone without restriction. The URL is unique and private to your account. It is recommended that you do not share it.

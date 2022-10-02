@@ -22,8 +22,6 @@
       href: "/polkashots/"
 - title: Ethereum 2.0
   href: "/ethereum/"
-- title: "Mina"
-  href: "/mina/"
 - title: "About"
   sub:
     - title: "Staking as a Service"

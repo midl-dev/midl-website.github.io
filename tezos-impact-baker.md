@@ -10,7 +10,10 @@ MIDL.dev has launched a dedicated impact baker. 100% of rewards will be donated 
 
 ## Delegate to support 🇺🇦
 
-MIDL.dev impact baker address: tz1bMFzs2aECPn4aCRmKQWHSLHF8ZnZbYcah
+MIDL.dev impact baker address: 
+<script src="{{ base.url | prepend: site.url }}/js/clipboard-polyfill.promise.js"></script>
+<span><code style="font-size:75%; color:gray;">tz1bMFzs2aECPn4aCRmKQWHSLHF8ZnZbYcah</code>
+<a href="#!" onclick="clipboard.writeText('tz1bMFzs2aECPn4aCRmKQWHSLHF8ZnZbYcah');">⧉</a></span>
 
 **Important**: 100% of your rewards will be automatically transferred to the charity account maintained by [Tezos Stands With Ukraine](https://donate.tezos.org.ua). 
 

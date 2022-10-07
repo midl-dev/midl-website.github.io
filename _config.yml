@@ -33,3 +33,7 @@ collections:
     output: True
   services:
     output: True
+
+
+exclude:
+- bundle

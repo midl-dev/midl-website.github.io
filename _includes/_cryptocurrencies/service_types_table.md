@@ -13,7 +13,7 @@
                     <p class="card-text-offering">&#10004; Secure, distributed baking nodes
                     <br/>&#10004; Signing kit delivered to you (optional)
                     <br/>&#10004; 24/7 Monitoring
-                    <br/>&#10004; Day 2 operations
+                    <br/>&#10004; Maintenance and upgrades
                     <br/>
                     <br/>
                     <br/>
@@ -31,9 +31,8 @@
                     <p class="card-text-offering">&#10004; Secure, distributed baking nodes
                     <br/>&#10004; Signing kit delivered to you (optional)
                     <br/>&#10004; 24/7 Monitoring
-                    <br/>&#10004; Day 2 operations
+                    <br/>&#10004; Maintenance and upgrades
                     <br/>&#10004; Payout engine
-                    <br/>&#10004; Baking website template
                     <br/>
                     </p>
                     <p style="align:center;font-weight:bold;">From 149 USD per month</p>

@@ -46,11 +46,11 @@ description: |
                     <tbody>
                     <tr>
                         <td>Base service charge for 1 validator<a style="font-size:10px;" href="#section1"> [2]</a></td>
-                        <td>45 USD</td>
+                        <td>55 USD</td>
                     </tr>
                     <tr>
                         <td>Price per additional validator - up to 10</td>
-                        <td>10 USD</td>
+                        <td>20 USD</td>
                     </tr>
                     <tr>
                         <td>Price per additional validator - 11 onwards</td>

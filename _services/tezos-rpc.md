@@ -27,11 +27,161 @@ We use:
 * multi-cloud with DigitalOcean and OVH as cloud providers
 * multi-region with Cloudflare DNS load-balancing
 
-## Pricing
+All our plans include complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.
 
-* first 100,000 RPC requests are **free**
-* then, pay US$7 per additional 1,000,000 requests
-* Tezos Testnet RPC is provided **free of charge**
+<style>
+pricing-table{
+  background-color: #eee;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pricing-table .block-heading {
+  padding-top: 50px;
+  margin-bottom: 40px;
+  text-align: center; 
+}
+
+.pricing-table .block-heading h2 {
+  color: #3b99e0;
+}
+
+.pricing-table .block-heading p {
+  text-align: center;
+  max-width: 420px;
+  margin: auto;
+  opacity: 0.7; 
+}
+
+.pricing-table .heading {
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+}
+
+.pricing-table .item {
+  background-color: #ffffff;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
+  border-top: 2px solid #fd9300;
+  padding: 30px;
+  overflow: hidden;
+  position: relative; 
+}
+
+.pricing-table .col-md-5:not(:last-child) .item {
+  margin-bottom: 30px; 
+}
+
+.pricing-table .item button {
+  font-weight: 600; 
+}
+
+.pricing-table .ribbon {
+  width: 160px;
+  height: 32px;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0px 2px 3px rgba(136, 136, 136, 0.25);
+  background: #fd9300;
+  transform: rotate(45deg);
+  position: absolute;
+  right: -42px;
+  top: 20px;
+  padding-top: 7px; 
+}
+
+.pricing-table .item p {
+  text-align: center;
+  margin-top: 20px;
+  opacity: 0.7; 
+}
+
+.pricing-table .features .feature {
+  font-weight: 600; }
+
+.pricing-table .features h4 {
+  text-align: center;
+  font-size: 18px;
+  padding: 5px; 
+}
+
+.pricing-table .price h4 {
+  margin: 15px 0;
+  font-size: 45px;
+  text-align: center;
+}
+
+.pricing-table .buy-now button {
+  text-align: center;
+  margin: auto;
+  font-weight: 600;
+  padding: 9px 0; 
+}
+</style>
+
+<section class="pricing-table" style="width: 100vw; position:relative; margin-top: 50px; margin-left: -50vw; left:49%; ">
+	<div class="container">
+		<div class="row justify-content-md-center">
+			<div class="col-md-5 col-lg-4">
+				<div class="item">
+					<div class="heading">
+						<h3>Starter</h3>
+					</div>
+					<div class="features">
+						<h4><span class="feature">Up To 3 Endpoints</span></h4>
+						<h4><span class="feature">100,000 Requests Free</span></h4>
+						<h4><span class="feature">Then $7 per million requests</span></h4>
+					</div>
+					<div class="price">
+						<h4>$0/mo</h4>
+					</div>
+          <a href="https://apps.midl.dev/" target="_blank">
+					  <button class="btn btn-lg btn-elegant btn-block" type="submit">Get Started</button>
+          </a>
+				</div>
+			</div>
+			<div class="col-md-5 col-lg-4">
+				<div class="item">
+					<div class="ribbon">Best Value</div>
+					<div class="heading">
+						<h3>Growth</h3>
+					</div>
+					<div class="features">
+						<h4><span class="feature">Unlimited Endpoints</span></h4>
+						<h4><span class="feature">10,000,000 Requests Free</span></h4>
+						<h4><span class="feature">Then $3 per million requests</span></h4>
+					</div>
+					<div class="price">
+						<h4>$49/mo</h4>
+					</div>
+          <a href="https://apps.midl.dev/" target="_blank">
+					  <button class="btn btn-lg btn-elegant btn-block" type="submit">Get Started</button>
+          </a>
+				</div>
+			</div>
+			<div class="col-md-5 col-lg-4">
+				<div class="item">
+					<div class="heading">
+						<h3>Enterprise</h3>
+					</div>
+					<div class="features">
+						<h4><span class="feature">Unlimited Endpoints</span></h4>
+						<h4><span class="feature">100,000,000 Requests Free</span></h4>
+						<h4><span class="feature">Then $1.5 per million requests</span></h4>
+						<h4><span class="feature">Premium Support</span></h4>
+					</div>
+					<div class="price">
+						<h4>$499/mo</h4>
+					</div>
+          <a href="https://apps.midl.dev/" target="_blank">
+					  <button class="btn btn-lg btn-elegant btn-block" type="submit">Get Started</button>
+          </a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 <div class="banner" style="width: 100vw; position:relative; margin-top: 50px; margin-left: -50vw; left:49%; ">
 <p><h3 style="text-align:center;">Powering the best in Tezos</h3><br/>

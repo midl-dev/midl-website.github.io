@@ -151,6 +151,7 @@ pricing-table{
 						<h4><span class="feature">Unlimited Endpoints</span></h4>
 						<h4><span class="feature">10,000,000 Requests Free</span></h4>
 						<h4><span class="feature">Then $3 per million requests</span></h4>
+						<h4><span class="feature">Filter by Origin</span></h4>
 					</div>
 					<div class="price">
 						<h4>$49/mo</h4>
@@ -169,6 +170,7 @@ pricing-table{
 						<h4><span class="feature">Unlimited Endpoints</span></h4>
 						<h4><span class="feature">100,000,000 Requests Free</span></h4>
 						<h4><span class="feature">Then $1.5 per million requests</span></h4>
+						<h4><span class="feature">Filter by Origin</span></h4>
 						<h4><span class="feature">Premium Support</span></h4>
 					</div>
 					<div class="price">

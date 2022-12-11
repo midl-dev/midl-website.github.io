@@ -44,9 +44,9 @@ Read more on [Polkadot slashing](https://wiki.polkadot.network/docs/en/learn-sta
 
 ## Our Commission fees
 
-Kusama: 5%
+Kusama: 15%
 
-Polkadot: 3%
+Polkadot: 5%
 
 ## Inquire about a custom solution
 

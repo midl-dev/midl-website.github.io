@@ -4,13 +4,13 @@ title: MIDL.dev - Delegate to support 🇺🇦
 subTitle: Tezos suite
 ---
 
-# MIDL.dev impact baker
+# MIDL.dev Impact Baker
 
-MIDL.dev has launched a dedicated impact baker. 100% of rewards will be donated to support the people of Ukraine in their fight for a free, independent and democratic state.
+MIDL.dev has launched a dedicated impact baker on Tezos. 100% of rewards will be donated to support the people of Ukraine in their fight for a free, independent and democratic state.
 
 Read more in our [Medium article](https://midl-dev.medium.com/support-ukraine-by-delegating-tez-11a315c7d19b) announcing the Impact Baker.
 
-## Delegate to support 🇺🇦
+## Delegate tez to support 🇺🇦
 
 MIDL.dev impact baker address: 
 <script src="{{ base.url | prepend: site.url }}/js/clipboard-polyfill.promise.js"></script>

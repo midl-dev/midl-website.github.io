@@ -14,7 +14,7 @@ order_number: 1
 description: | 
 ---
 
-# Stake your Ethereum 2.0 tokens with MIDL.dev
+# Stake your Eth with MIDL.dev
 
 **No software to install. Use MIDL.dev as staking provider and watch your earnings grow.**
 

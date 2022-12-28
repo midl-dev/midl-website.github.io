@@ -205,13 +205,11 @@ Yes, the service is accessible from around the globe and can be configured as ba
 
 **What kind of nodes are you running?**
 
-We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling storage mode. This is not an archive node service. Rolling storage is useful for web applications (DeFI, NFT) but can not be used for querying old blocks or indexing the chain.
+We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling storage mode.
 
 **How is the RPC endpoint secured?**
 
-There is no authentication method: the endpoint is accessible to everyone without restriction. The URL is unique and private to your account. It is recommended that you do not share it.
-
-Additionally, we are working on adding restriction on CORS origin (so that the endpoint only works on your web app), and IP-based whitelisting for backend apps.
+You may secure your Tezos RPC endpoint by restricting it by Origin, so that it only works on your web app.
 
 **How can I pay for the service?**
 

@@ -13,9 +13,9 @@ description: We take care of hosting, synchronizing and maintaining Tezos nodes 
 tags: [Services]
 ---
 
-# Tezos RPC as a Service
+# Tezos RPC Service
 
-Our full nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
+Our full nodes are operated on a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
 
 <p style="text-align:center;"><a href="https://apps.midl.dev/" target="_blank">
   <button class="btn btn-lg btn-elegant" style="font-size: 1.8rem; width:277px; height: 62px; margin-top:16px; margin-bottom:16px;">Get started for free</button>

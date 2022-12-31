@@ -48,4 +48,4 @@
 </section>
 <div style="padding-top:15px"><i>
 <p>[1] Minimum 6000 tez is required for baking.</p>
-</div>
+</i></div>

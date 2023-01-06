@@ -39,7 +39,7 @@
         </li>
         {% else %}
         <li class="{{ class }}">
-          <a href="{{ site.url }}{{ site.baseurl }}{{ link.href }}">{{ link.title }}</a>
+          <a href="{{ link.href }}">{{ link.title }}</a>
         </li>
         {% endif %}
         {% endfor %}
@@ -53,4 +53,3 @@
   <!-- /.container -->
   {% include support-Ukraine.html %}
 </nav>
-

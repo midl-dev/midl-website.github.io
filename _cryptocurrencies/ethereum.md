@@ -4,12 +4,12 @@ img: Ethereum_logo.png
 status: Available now
 staker: Become a validator
 category: Services
-title: MIDL.dev - Ethereum 2.0
+title: MIDL.dev - Ethereum
 subTitle: Become a validator.<br/>Maximize your earnings.
 staker: Become a validator
 short_title: ethereum
 permalink: /ethereum/
-crypto_name: Ethereum 2.0
+crypto_name: Ethereum
 order_number: 1
 description: | 
 ---
@@ -81,10 +81,10 @@ description: |
 We go the extra mile to ensure you are satisfied with our services. While we cannot provide investment advice, we will happily spend the time to ensure you are comfortable with the protocol and understand staking operations.
 
 ## We are non-custodial
-Our validator solution for Ethereum 2.0 is strictly non-custodial: we run and monitor nodes and validators. You remain in full control of your withdrawal keys (aka mnemonic or seed).
+Our validator solution for Ethereum is strictly non-custodial: we run and monitor nodes and validators. You remain in full control of your withdrawal keys (aka mnemonic or seed).
 
 
-## Why stake my Ethereum 2.0 tokens?
+## Why stake my Ethereum tokens?
 Ethereum 2.0 (Serenity) is a long-anticipated blockchain solution that is set to replace Ethereum 1.0. The primary difference between the two is the consensus protocol on which they are built. Ethereum 2.0 is a proof-of-stake network. Staking in Ethereum 2.0 is analogous to mining in Ethereum 1.0 network.
 
 Validators, instead of miners, secure the network by staking the portion of their funds for which they gain validator rights. Validators are rewarded with new tokens for validating the blocks and checking the work of other validators. [More on consensus mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/){:target="_blank"}.
@@ -99,7 +99,7 @@ During phase 0, once you perform a voluntary exit, it is not possible to restart
 Transfers are expected to be enabled during the implementation phase 1.5. At this time you will be able to exchange and use your funds. [See roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/){:target="_blank"}.
 
 ## Is there a minimum required amount of ETH to use MIDL.dev staking service?
-To be part of the Ethereum 2.0 network, you need to put at least 32 ETH at stake. 
+To be validating on the Ethereum network, you need to put at least 32 ETH at stake. 
 
 You may purchase rights to run two or more validators (1 validator = 32 ETH). We support any number of validators. 
 

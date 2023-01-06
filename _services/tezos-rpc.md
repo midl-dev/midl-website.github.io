@@ -213,7 +213,7 @@ We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling
 
 You may secure your Tezos RPC endpoint by restricting it by Origin, so that it only works on your web app.
 
-**What is a Compute Unit?
+**What is a Compute Unit?**
 
 Most RPC requests cost one compute unit. However, Archive Requests cost two compute units. For more information, [read the pricing documentation](https://docs.midl.dev/tezos-rpc-pricing).
 

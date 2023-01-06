@@ -27,7 +27,9 @@ We use:
 * multi-cloud with DigitalOcean and OVH as cloud providers
 * multi-region with Cloudflare DNS load-balancing
 
-All our plans include complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.
+All our plans include Archive Requests and complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.
+
+[Read the docs](https://docs.midl.dev/tezos-rpc).
 
 <style>
 pricing-table{
@@ -130,8 +132,8 @@ pricing-table{
 					</div>
 					<div class="features">
 						<h4><span class="feature">Up To 3 Endpoints</span></h4>
-						<h4><span class="feature">100,000 Requests Free</span></h4>
-						<h4><span class="feature">Then $7 per million requests</span></h4>
+						<h4><span class="feature">100,000 Compute Units Free</span></h4>
+						<h4><span class="feature">Then $7 per million Compute Units</span></h4>
 					</div>
 					<div class="price">
 						<h4>$0/mo</h4>
@@ -149,8 +151,8 @@ pricing-table{
 					</div>
 					<div class="features">
 						<h4><span class="feature">Unlimited Endpoints</span></h4>
-						<h4><span class="feature">10,000,000 Requests Free</span></h4>
-						<h4><span class="feature">Then $3 per million requests</span></h4>
+						<h4><span class="feature">10,000,000 Compute Units Free</span></h4>
+						<h4><span class="feature">Then $3 per million Compute Units</span></h4>
 						<h4><span class="feature">Filter by Origin</span></h4>
 					</div>
 					<div class="price">
@@ -168,8 +170,8 @@ pricing-table{
 					</div>
 					<div class="features">
 						<h4><span class="feature">Unlimited Endpoints</span></h4>
-						<h4><span class="feature">100,000,000 Requests Free</span></h4>
-						<h4><span class="feature">Then $1.5 per million requests</span></h4>
+						<h4><span class="feature">100,000,000 Compute Units Free</span></h4>
+						<h4><span class="feature">Then $1.5 per million Compute Units</span></h4>
 						<h4><span class="feature">Filter by Origin</span></h4>
 						<h4><span class="feature">Premium Support</span></h4>
 					</div>
@@ -205,11 +207,15 @@ Yes, the service is accessible from around the globe and can be configured as ba
 
 **What kind of nodes are you running?**
 
-We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling storage mode.
+We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling mode as well as archive nodes.
 
 **How is the RPC endpoint secured?**
 
 You may secure your Tezos RPC endpoint by restricting it by Origin, so that it only works on your web app.
+
+**What is a Compute Unit?
+
+Most RPC requests cost one compute unit. However, Archive Requests cost two compute units. For more information, [read the pricing documentation](https://docs.midl.dev/tezos-rpc-pricing).
 
 **How can I pay for the service?**
 

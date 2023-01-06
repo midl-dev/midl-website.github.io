@@ -22,6 +22,8 @@
       href: "/polkashots/"
 - title: Ethereum
   href: "/ethereum/"
+- title: Docs
+  href: "https://docs.midl.dev"
 - title: "About"
   sub:
     - title: "Staking as a Service"

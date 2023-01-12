@@ -189,7 +189,7 @@ pricing-table{
 
 <div class="banner" style="width: 100vw; position:relative; margin-top: 50px; margin-left: -50vw; left:49%; ">
 <p><h3 style="text-align:center;">Powering the best in Tezos</h3><br/>
-<h3 style="text-align:center;"><img src='/img/plenty.svg' style="margin-top:30px;"/>
+<h3 style="text-align:center;"><img src='/img/plenty.svg' style="margin-top:30px;margin-right:15px;"/>
 <img src='/img/crunchy.png' style="height: 70px; margin-top:30px;"/></h3>
 </p>
 </div>

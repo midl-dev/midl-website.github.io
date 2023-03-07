@@ -24,7 +24,7 @@ Our full nodes are operated on a cloud-based platform. This guarantees highly re
 We take care of hosting, synchronizing and maintaining the nodes. We give you space to innovate and focus on the high-level services on top of Tezos network.
 
 We use:
-* multi-cloud with DigitalOcean and OVH as cloud providers
+* multi-cloud with DigitalOcean and Scaleway as cloud providers
 * multi-region with Cloudflare DNS load-balancing
 
 All our plans include Archive Requests and complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.

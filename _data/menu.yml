@@ -6,7 +6,7 @@
     - title: "Price list"
       href:  "/tezos-pricing-chart/"
     - title: Tezos Endpoint Services
-      href: "/tezos-endpoint/"
+      href: "/tezos-endpoints/"
 - title: Polkadot
   href: "/polkadot/"
   sub:

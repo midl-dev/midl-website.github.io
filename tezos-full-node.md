@@ -2,15 +2,15 @@
 layout: default
 img: midl_full_node.svg
 title: MIDL.dev - Full node-as-a-service.
-subTitle: Innovate with Tezos.<br/>We maintain the nodes.
-short_title: Tezos RPC Service
+subTitle: Innovate with Tezos.<br/>We maintain the infra.
+short_title: Tezos RPC and Indexer Service
 permalink: /tezos-full-node/
 tags: [Services]
 ---
 
-# Tezos RPC as a Service
+# Tezos Endpoint Services
 
-Please see: [Tezos RPC service](/tezos-rpc/)
+Please see: [Tezos RPC and Indexing service](/tezos-endpoints/)
 
 
 {% comment %}

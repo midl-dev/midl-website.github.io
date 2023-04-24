@@ -3,33 +3,37 @@ layout: cryptos
 img: midl_full_node.svg
 status: 
 category: Services
-title: MIDL.dev - Tezos RPC Service
-subTitle: Innovate with Tezos.<br/>We maintain the nodes.
-short_title: Tezos RPC Service
-permalink: /tezos-rpc/
-service_name: Tezos RPC Service
+title: MIDL.dev - Tezos Endpont Services
+subTitle: Innovate with Tezos.<br/>We maintain the infra.
+short_title: Tezos Endpoint Services
+permalink: /tezos-endpoints/
+service_name: Tezos Endpoint Services
 order_number: 2
 description: We take care of hosting, synchronizing and maintaining Tezos nodes for you.
 tags: [Services]
 ---
 
-# Tezos RPC Service
+# Tezos Endpoint Services
 
-Our full nodes are operated on a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring. 
+We offer:
+
+* Scalable Tezos RPC Services will **full archive node data**,
+* Tezos Indexer Endpoint powered by [TzKT](https://tzkt.io) from [Baking Bad](https://baking-bad.org/docs).
+
 
 <p style="text-align:center;"><a href="https://apps.midl.dev/" target="_blank">
   <button class="btn btn-lg btn-elegant" style="font-size: 1.8rem; width:277px; height: 62px; margin-top:16px; margin-bottom:16px;">Get started for free</button>
 </a></p>
 
-We take care of hosting, synchronizing and maintaining the nodes. We give you space to innovate and focus on the high-level services on top of Tezos network.
+We take care of hosting, synchronizing and maintaining the node and indexing infrastructure. We give you space to innovate and focus on the high-level services on top of Tezos network.
 
 We use:
 * multi-cloud with DigitalOcean and Scaleway as cloud providers
 * multi-region with Cloudflare DNS load-balancing
 
-All our plans include Archive Requests and complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.
+All our plans include complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.
 
-[Read the docs](https://docs.midl.dev/tezos-rpc).
+[Read the docs](https://docs.midl.dev/tezos-endpoints).
 
 <style>
 pricing-table{
@@ -131,7 +135,8 @@ pricing-table{
 						<h3>Starter</h3>
 					</div>
 					<div class="features">
-						<h4><span class="feature">Up To 3 Endpoints</span></h4>
+						<h4><span class="feature">Tezos RPC Endpoints (max 3)</span></h4>
+						<h4><span class="feature">Tezos Indexer Endpoints (max 3)</span></h4>
 						<h4><span class="feature">100,000 Compute Units Free</span></h4>
 						<h4><span class="feature">Then $7 per million Compute Units</span></h4>
 					</div>
@@ -150,7 +155,8 @@ pricing-table{
 						<h3>Growth</h3>
 					</div>
 					<div class="features">
-						<h4><span class="feature">Unlimited Endpoints</span></h4>
+						<h4><span class="feature">Unlimited Tezos RPC Endpoints</span></h4>
+						<h4><span class="feature">Unlimited Tezos Indexer Endpoints</span></h4>
 						<h4><span class="feature">10,000,000 Compute Units Free</span></h4>
 						<h4><span class="feature">Then $3 per million Compute Units</span></h4>
 						<h4><span class="feature">Filter by Origin</span></h4>
@@ -169,9 +175,10 @@ pricing-table{
 						<h3>Enterprise</h3>
 					</div>
 					<div class="features">
-						<h4><span class="feature">Unlimited Endpoints</span></h4>
+						<h4><span class="feature">Unlimited Tezos RPC Endpoints</span></h4>
+						<h4><span class="feature">Unlimited Tezos Indexer Endpoints</span></h4>
 						<h4><span class="feature">100,000,000 Compute Units Free</span></h4>
-						<h4><span class="feature">Then $1.5 per million Compute Units</span></h4>
+						<h4><span class="feature">Then $1.50 per million Compute Units</span></h4>
 						<h4><span class="feature">Filter by Origin</span></h4>
 						<h4><span class="feature">Premium Support</span></h4>
 					</div>
@@ -199,7 +206,7 @@ pricing-table{
 
 **How do I register for the service?**
 
-Create an account on the [portal](https://apps.midl.dev) and create an RPC. You will be prompted for a payment method, then your RPC will be immediately provisioned.
+Create an account on the [portal](https://apps.midl.dev) and create an RPC or Indexer Endpoint. You will be prompted for a payment method, then your Endpoint will be immediately provisioned.
 
 **Does the service work with a web frontend?**
 
@@ -209,13 +216,15 @@ Yes, the service is accessible from around the globe and can be configured as ba
 
 We run nodes with the most recent version of Octez (Tezos OCaml node) in rolling mode as well as archive nodes.
 
-**How is the RPC endpoint secured?**
+We run the most recent version of [TzKT API](https://api.tzkt.io/).
 
-You may secure your Tezos RPC endpoint by restricting it by Origin, so that it only works on your web app.
+**How are the endpoints secured?**
+
+You may secure your Tezos Endpoint by restricting it by Origin, so that it only works on your web app. This is only available with the Growth or Enterprise plans.
 
 **What is a Compute Unit?**
 
-Most RPC requests cost one compute unit. However, Archive Requests cost two compute units. For more information, [read the pricing documentation](https://docs.midl.dev/tezos-rpc-pricing).
+Most RPC requests cost one compute unit. However, Archive Requests cost two compute units. Indexer requests cost 10 compute units each. For more information, [read the pricing documentation](https://docs.midl.dev/tezos-endpoints-pricing).
 
 **How can I pay for the service?**
 
@@ -227,7 +236,7 @@ We are billing monthly, starting one month after your registration date.
 
 **How can I check my consumption?**
 
-The portal updates your current usage once a day.
+The portal updates your current usage several times a day.
 
 ### Other MIDL.dev services
 

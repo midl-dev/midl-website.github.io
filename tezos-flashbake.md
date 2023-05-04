@@ -1,10 +1,10 @@
 ---
 layout: default
 img: midl_full_node.svg
-title: MIDL.dev - Full node-as-a-service.
-subTitle: Innovate with Tezos.<br/>We maintain the infra.
-short_title: Tezos RPC and Indexer Service
-permalink: /tezos-rpc/
+title: MIDL.dev - Tezos Flashbake
+subTitle: Tezos Flashbake Services
+short_title: Tezos Flashbake Services
+permalink: /tezos-flashbake/
 tags: [Services]
 ---
 

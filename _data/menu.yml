@@ -7,6 +7,8 @@
       href:  "/tezos-pricing-chart/"
     - title: Tezos Endpoint Services
       href: "/tezos-endpoints/"
+    - title: Flashbake Services
+      href: "/tezos-flashbake/"
 - title: Polkadot
   href: "/polkadot/"
   sub:

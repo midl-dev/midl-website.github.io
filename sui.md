@@ -14,9 +14,7 @@ Delegate your Sui to MIDL.dev today!
 
 Our validator address is:
 
-```
 [0xc1b37fe62cf632c4447af7cd8342297400735fcb849aca29c89f061a619aca44](https://explorer.sui.io/validator/0xc1b37fe62cf632c4447af7cd8342297400735fcb849aca29c89f061a619aca44?network=mainnet)
-```
 
 [Sui](https://sui.io/) is an ambitious blockchain featuring:
 
@@ -28,6 +26,8 @@ Our validator address is:
 ## Low Commission, High Reliability
 
 We offer **10% commission validation** on the Sui network.
+
+Our Staking APY is about **8%-9%**.
 
 Our node is hosted on **high performance hardware** and **monitored 24/7**.
 

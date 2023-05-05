@@ -22,6 +22,8 @@
       href: "/polkadot-vote-bot/"
     - title: "Polkadot Snapshots"
       href: "/polkashots/"
+- title: Sui
+  href: "/sui/"
 - title: Docs
   href: "https://docs.midl.dev/"
 - title: "About"

@@ -41,7 +41,7 @@ Support independent validators, delegate to MIDL.dev Sui Validator! Here is how:
 
 ### Delegate with Sui Wallet Chrome Extension
 
-The [Chrome Extension](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil) is the easiest way to stake Sui.
+The [Sui Wallet Chrome Extension](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil) is the easiest way to stake Sui.
 
 1. Acquire Sui from an exchange such as Kraken
 1. Transfer to your Sui Wallet
@@ -51,4 +51,18 @@ The [Chrome Extension](https://chrome.google.com/webstore/detail/sui-wallet/opcg
 1. Earn your rewards less than 1 day later
 1. Redeem your Sui at any time by sending a "Redeem operation"
 
+
+### Delegate with Ledger
+
+Send your Sui to your Ledger Device from the Sui Wallet Chrome extension by following the guide below:
+
+[How to create your first Sui Account by Ledger Support](https://support.ledger.com/hc/en-us/articles/10136570195101-SUI-?support=true).
+
+Then delegate to MIDL.dev:
+
+1. From the Ledger Sui App, press "Settings" and enable blind signing
+1. Press the "Stack and Earn Sui" button
+1. From the list of Validators, select the **MIDL.dev validator**
+1. Press "Stake Now"
+1. Confirm the operation hash on the Ledger device
 

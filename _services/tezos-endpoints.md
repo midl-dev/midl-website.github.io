@@ -17,7 +17,7 @@ tags: [Services]
 
 We offer:
 
-* Scalable Tezos RPC Services will **full archive node data**,
+* Scalable Tezos RPC Services with **full archive node data**,
 * Tezos Indexer Endpoint powered by [TzKT](https://tzkt.io) from [Baking Bad](https://baking-bad.org/docs).
 
 

@@ -17,7 +17,7 @@ MIDL.dev impact baker address:
 <span><code style="font-size:75%; color:gray;">tz1bMFzs2aECPn4aCRmKQWHSLHF8ZnZbYcah</code>
 <a href="#!" onclick="clipboard.writeText('tz1bMFzs2aECPn4aCRmKQWHSLHF8ZnZbYcah');">⧉</a></span>
 
-**Important**: 100% of your rewards will be automatically transferred to the charity account maintained by [Tezos Stands With Ukraine](https://donate.tezos.org.ua). 
+**Important**: 100% of your rewards will be automatically transferred to the charity account maintained by [Tezos Stands With Ukraine](https://donate.mad.fish/).
 
 
 ## Other charities we endorse

@@ -45,15 +45,11 @@ description: |
                     </thead>
                     <tbody>
                     <tr>
-                        <td>Base service charge for 1 validator<a style="font-size:10px;" href="#section1"> [2]</a></td>
-                        <td>55 USD</td>
+                        <td>Base service charge for up to 25 validator<a style="font-size:10px;" href="#section1"> [2]</a></td>
+                        <td>1,000 USD</td>
                     </tr>
                     <tr>
-                        <td>Price per additional validator - up to 10</td>
-                        <td>20 USD</td>
-                    </tr>
-                    <tr>
-                        <td>Price per additional validator - 11 onwards</td>
+                        <td>Price per additional validator</td>
                         <td><a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a></td>
                     </tr>
                                         <tr>
@@ -117,7 +113,7 @@ We have expertise in operating validators in several blockchains.
 
 We run [Prysm](https://prylabs.net/) in our geograpically distributed Kubernetes cluster. We monitor the setup 24/7.
 
-We run our own instance of Geth as Ethereum 1.0 node.
+We run our own instance of Reth as Ethereum Validation Client.
 
 We are paranoid about security. We keep the nodes up-to-date.
 

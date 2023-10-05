@@ -33,7 +33,7 @@ We use:
 
 All our plans include complimentary testnet ([Ghostnet](https://ghostnet.tzkt.io)) endpoints.
 
-[Read the docs](https://docs.midl.dev/tezos-endpoints).
+[Read the docs](https://docs.midl.dev/tezos-endpoints) - [view Status](https://status.midl.dev/public-dashboards/tezos-rpc).
 
 <style>
 pricing-table{

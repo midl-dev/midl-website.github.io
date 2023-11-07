@@ -45,7 +45,7 @@ description: |
                     </thead>
                     <tbody>
                     <tr>
-                        <td>Base service charge for up to 25 validator<a style="font-size:10px;" href="#section1"> [2]</a></td>
+                        <td>Base service charge for up to 25 validators<a style="font-size:10px;" href="#section1"> [2]</a></td>
                         <td>1,000 USD</td>
                     </tr>
                     <tr>

@@ -44,16 +44,14 @@ Read more on [Polkadot slashing](https://wiki.polkadot.network/docs/en/learn-sta
 
 ## Our Commission fees
 
-Kusama: 15%
+Kusama: 12%
 
-Polkadot: 5%
+Polkadot: 4.5%
 
 ## Inquire about a custom solution
 
-We can help you implement your Polkadot infrastructure project. 
+We can help you implement your Polkadot infrastructure project.
 
-We provide 24/7 monitoring, geographically distributed and highly available infrastructure. 
+We provide 24/7 monitoring, geographically distributed and highly available infrastructure.
 
 <a href="mailto:hello@midl.dev" target="_blank">CONTACT US <i class="fa fa-envelope-o"></i></a>.
-
-

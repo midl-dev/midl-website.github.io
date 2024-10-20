@@ -12,16 +12,12 @@
 - title: Polkadot
   href: "/polkadot/"
   sub:
-    - title: "Run a validator"
-      href: "/polkadot/"
     - title: "Nominate us"
       href: "/polkadot_nominations/"
     - title: "Automated payouts"
       href: "/polkadot-automated-payouts/"
     - title: "Vote Bot"
       href: "/polkadot-vote-bot/"
-    - title: "Polkadot Snapshots"
-      href: "/polkashots/"
 - title: Sui
   href: "/sui/"
 - title: Ethereum

@@ -4,16 +4,16 @@
 
 url: http://midl.dev
 baseurl: ""
-title: 
+title: MIDL.dev - Sui Validator
 logo: MIDLLOGO.png
 email: hello@midl.dev
 author: MIDL team
 description: > # "Write an awesome description for your new site here. 
-  MIDL.dev helps you stake your cryptocurrency and maximize your earnings. You are in full control. Tezos, Polkadot supported.
+  MIDL.dev provides Sui validation services. Delegate your Sui to MIDL.dev today for low commission and high reliability.
 copyright: 'Copyright &copy; 2024 MIDL.DEV. All Rights Reserved.'
 company: 'MIDLDEV OÜ (registry code: 14973249 | registration number EE102369869) | Kentmanni tn 9-43, Tallinn 10116, Estonia'
 favicon: "./favicon.ico" # set the favicon of the site
-permalink: /:year/:month/:day/:title:output_ext
+permalink: pretty
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,18 +22,12 @@ permalink: /:year/:month/:day/:title:output_ext
 # Build settings
 markdown: kramdown
 permalink: pretty
-collections:
-  frontpage_items:
-    output: True
-  frontpage_lower_items:
-    output: True 
-  cryptocurrencies:
-    output: True
-  operations:
-    output: True
-  services:
-    output: True
-
 
 exclude:
 - bundle
+- _cryptocurrencies
+- _frontpage_items
+- _frontpage_lower_items
+- _operations
+- _services
+- _posts
